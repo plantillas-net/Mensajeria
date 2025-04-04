@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es"><head>
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><title></title>
+    
+    <style>
+        #dropZone {
+            width: 100%;
+            height: 150px;
+            border: 2px dashed #ccc;
+            border-radius: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            margin-top: 20px;
+        }
+        #dropZone.active {
+            border-color: #4CAF50;
+            background-color: #f0f0f0;
+        }
+    </style></head><body>
+    <h1></h1>
+    <form id="telegramForm">
+        <label for="message">Escribe tu mensaje:</label><br>
+        <textarea id="message" rows="5" cols="50" placeholder="Escribe aquí tu mensaje..."></textarea><br><br>
+        <button type="button" id="sendMessageButton">Enviar Mensaje</button>
+    </form>
+
+    <h1></h1>
+    <form id="fileForm">
+        <label for="file">Selecciona el archivo:</label><br>
+        <input id="file" type="file"><br><br>
+        <button type="button" id="sendFileButton">Enviar Archivo</button>
+    </form>
+
+    <h1></h1>
+    <div id="dropZone"></div>
+
+    <script>
+        const chatId = '1617751854'; // ID del chat
+        const botToken = '7942913397:AAH7v5CiM27nKvV7IsK3T3TRnE-LJm5doQ0'; // Token del bot
+
+        // Enviar mensaje de texto
+        document.getElementById('sendMessageButton').addEventListener('click', () => {
+            const message = document.getElementById('message').value;
+
+            if (!message.trim()) {
+                alert('Por favor, escribe un mensaje antes de enviarlo.');
+                return;
+            }
+
+            const url = `https://api.telegram.org/bot${botToken}/sendMessage?chat_id=${chatId}&text=${encodeURIComponent(message)}`;
+
+            fetch(url)
+                .then(response => {
+                    if (response.ok) {
+                        alert('Mensaje enviado');
+                    } else {
+                        alert('Error al enviar el mensaje.');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('No se pudo conectar con la API de Telegram.');
+                });
+        });
+
+        // Enviar imagen o video automáticamente
+        document.getElementById('sendFileButton').addEventListener('click', () => {
+            const fileInput = document.getElementById('file');
+            const file = fileInput.files[0];
+
+            if (!file) {
+                alert('Por favor, selecciona un archivo antes de enviarlo.');
+                return;
+            }
+
+            const formData = new FormData();
+            formData.append('chat_id', chatId);
+
+            const fileType = file.type.startsWith('image/') ? 'sendPhoto' : 'sendVideo';
+            formData.append(fileType === 'sendPhoto' ? 'photo' : 'video', file);
+
+            const url = `https://api.telegram.org/bot${botToken}/${fileType}`;
+
+            fetch(url, {
+                method: 'POST',
+                body: formData,
+            })
+                .then(response => {
+                    if (response.ok) {
+                        alert('Archivo enviado con éxito.');
+                    } else {
+                        alert('Error al enviar el archivo.');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('No se pudo conectar con la API de Telegram.');
+                });
+        });
+
+        // Enviar imagen desde el recuadro de arrastrar o pegar
+        const dropZone = document.getElementById('dropZone');
+
+        dropZone.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            dropZone.classList.add('active');
+        });
+
+        dropZone.addEventListener('dragleave', () => {
+            dropZone.classList.remove('active');
+        });
+
+        dropZone.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dropZone.classList.remove('active');
+            const file = e.dataTransfer.files[0];
+            if (file && file.type.startsWith('image/')) {
+                sendFileToTelegram(file, 'sendPhoto');
+            } else {
+                alert('Por favor, arrastra solo imágenes.');
+            }
+        });
+
+        dropZone.addEventListener('paste', (e) => {
+            const items = e.clipboardData.items;
+            for (const item of items) {
+                if (item.type.startsWith('image/')) {
+                    const file = item.getAsFile();
+                    sendFileToTelegram(file, 'sendPhoto');
+                    return;
+                }
+            }
+            alert('Por favor, pega solo imágenes.');
+        });
+
+        function sendFileToTelegram(file, method) {
+            const formData = new FormData();
+            formData.append('chat_id', chatId);
+            formData.append(method === 'sendPhoto' ? 'photo' : 'video', file);
+
+            const url = `https://api.telegram.org/bot${botToken}/${method}`;
+
+            fetch(url, {
+                method: 'POST',
+                body: formData,
+            })
+                .then(response => {
+                    if (response.ok) {
+                        alert('Archivo enviado con éxito.');
+                    } else {
+                        alert('Error al enviar el archivo.');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('No se pudo conectar con la API de Telegram.');
+                });
+        }
+    </script>
+<br>
+<br>
+<br>
+
+
+
+  <meta charset="UTF-8"><title>Descargas Hip Hop</title>
+  
+
+  
+
+  <a href="reportes.txt" download="">
+    <button>Descargar archivo reportes.txt</button>
+  </a>
+
+  <a href="scripts.txt" download="">
+    <button>Descargar archivo scripts.txt</button>
+  </a>
+<br>
+</body></html>
