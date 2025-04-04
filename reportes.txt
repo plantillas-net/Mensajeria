@@ -1,0 +1,1836 @@
+Codificacion general_
+Codificacion general
+
+Quién llama: 
+Reporta: 
+TS realizado: 
+Se soluciona: 
+MAC: 
+Amarre: 
+Versión: 
+Middleware: 
+Horario de visita: pendiente 
+Potencia: 
+
+
+
++
+
+Internet ONT solucion en linea _ 
+Internet
+
+Quién se comunica: 
+Error que presenta al navegar: 
+ 
+**lentitud en wifi tiene pocos  megas, tarda en cargar contenido en la ONT  STB 
+
+**intermitencias, se desconecta muchas  veces  del wifi de la ONT  STB 
+ 
+Dispositivo con falla (móvil / computadora): Celular 
+Tipo de conexión (cable / wifi): wifi 
+potencia: -25 dbm 
+Páginas ejemplo de la falla o aplicaciones: fast.com,  youtube  , facebook 
+Motivo de la falla:
+**estaba en canal saturado 
+Con que paso se dio solucion:
+** se reinicia wlan mejora la conexion y velocidad 
+ 
+
++
+
+Internet ONT  WIFI WLAN APAGADO solucion en linea_ 
+Internet ONT  WIFI WLAN APAGADO 
+
+Quién se comunica: 
+Error que presenta al navegar: 
+
+** no navega el wifi  esta apagado
+ 
+Dispositivo con falla (móvil / computadora): Celular 
+Tipo de conexión (cable / wifi): wifi 
+potencia: -25 dbm 
+Páginas ejemplo de la falla o aplicaciones:  en general no navega el wifi desactivado 
+Motivo de la falla  no navega con al red de la ont , se valida que wlan apagado 
+ts :  se enciende wifi ya se conecta  y navega 
+
+
+
++
+
+Internet no navega  REPETIDOR EXTENDER visita tecnica_
+No navega con la red del repetidor
+
+Quién llama:  
+
+Reporta: no navega con la red del repetidor, conectado sin acceso
+
+TS realizado: el foco de repetidor esta en rojo
+
+esta conectado por cable de red
+
+** Se aplica, reseteo al repetidor y no aparece la red que viene en su etiqueta para iniciar la configuración.
+
+** no se visualza el cable en maqueta
+
+** no se vincula automaticamente  ya que esta por cable , se reincia , se aplica reset al repetidor sin exito
+ 
+**no aparece la red de extenender  para hacer el proceso de configuracion 
+
+**Se pide desconectar y conectar el cable de Internet en el repetidor y ont. se pruebas diferentes puertos de la ont sin exito
+
+**La falla  continua, no se visualiza el repetidor en maqueta
+
+se envia visita técnica.
+
+Horario de visita: pendiente
+
+Potencia:-20
+
++
+
+Internet CAMBIO DE COTRASEÑA WIFI_
+Cambio de contraseña wifi  
+
+Quién se comunica: 
+
+Error que presenta al navegar:
+
+**quiere cambiar la cotraseña de wifi ONT / STB  
+
+Dispositivo con folla (móvil / computadora): Celular Tipo de conexión cabl /wifi): wifi
+
+potencia: -25 dbm
+
+Páginas ejemplo de la falla o aplicaciones: no es necesario especificar solo quiere cambio de contraseña Motivo de la falla: para conectarse correctamente
+se invita hacerlo desde la app 
+se cambia a peticion del cliente se validan datos de seguridad  se soluciona: si
+
++
+
+
+
+Reinicia todo el tiempo _ 
+Reinicia todo el tiempo
+
+Quién llama: 
+Reporta:  Reporta que el decodificador solamente parpadea en verde s
+TS realizado: e hace ts de stb se reinicia todo el tiempo 
+se cambia de contacto de pared nunca aparecen los logos de totalplay 
+no puede ingresar a menú 
+el botón se ve bien se escucha el clip cuando lo presiona
+
+Se soluciona:  
+MAC: 
+Amarre: 
+Versión: 
+Middleware: 
+Horario de visita: pendiente 
+Potencia: 
+
++
+
+
+ Internet ONT  para escalar_
+
+Internet ONT  para escalar
+
+CHECKLIST WIFI  
+ 
+Quien se comunica: 
+Categoría de falla :   internet lento / intermitente /  no navega 
+Explica brevemente y puntal como experimenta la falla cliente: 
+ 
+ * Cliente indica se ve afectado por lentitud en el servicio de internet en Celulares , falla afecta en servicio via wifi en ambas redes, tanto 2.4g como red 5g 
+   * Cliente indica que se desconecta constantemente de la red wifi 2.4g o de la 5g  estando a un lado de la ont sin que nada tape la señal . 
+* no navega, en el celular dice -conectado sin acceso- , estando a un lado de la ont  , en varios equipos , en ambas redes  2.4 g y 5 g 
+ 
+   - no se ve daño en las antenas o en el modem se conecta a un lado de la ont 
+   -Saldo Actual: $0 
+ 
+ANALISIS LOGICO: 
+ 
+Potencia: Nivel excelente -18.96 dBm 
+Service Port ( ux / configuracion):  Service port  se revisa en  ux trubushoting  / Cambiar vlan
+Megas aprovisionados: -- 
+Versión de Firmware: -- 
+VAS Profile: -- 
+¿El cliente cuenta con IP Fija, Dinámica ? NO 
+Ip de Datos VLAN : -- 
+ 
+ANALISIS FISICO DE ONT: 
+ 
+Estatus de led de Wlan: verde -- fijo / parpadeando 
+Cliente está conectado a : ONT 
+A que distancia de la ONT  encuentra realizando la prueba: a un lado de la ONT 
+La falla la Presenta en red 2.4 o 5.0 o ambas: -- 
+La red se muestra intermitente en todos los equipos o solo alguno(s): todos los equipos celulares -- 
+→  En el momento del análisis la red está en canal Automático:      -- 
+→ En el momento del análisis la red está en frecuencia Automático:  -- 
+VALIDAR PUNTO DE ACCESO: 
+Validar que el cliente no esté realizando la prueba con estos aplicativos activado como VPN/ NUBE / STREAMING / PROXY o que tenga equipos intermedios ajenos a Totalplay 
+como Switch o router: NO 
+Dispositivo con falla: celulares 
+Páginas ejemplo de la falla o aplicaciones: Fast, Youtube, Facebook 
+ 
+Solicitar ip pública de cliente: -- 
+ 
+PRUEBAS DE CONFIRMACIÓN CONEXIÓN A INTERNET 
+ 
+Aplica PING algunas de las páginas que el cliente presenta la falla: -- 
+Aplica TRACERT algunas de las páginas que el cliente presenta la falla: -- 
+ 
+Causa raíz de la falla: 
+ 
+1 Sin saldo pendiente 
+2 Sin daño fisico en ONT  potencia correcta -- 
+3 LEDs en verde --  
+4 Versión -- 
+5 VAS PROFILE -- 
+6 Direccionamiento en servicio de internet  VLAN -- 
+7 Se ejecuta ping y tracert. Ping -- 
+  antenas en buen estado  , estan vertical 
+ * se está por determinar en la escalación "
+
++
+
+internet NO NAVEGA ONT para escalar _
+
+NO NAVEGA ONT para escalar
+
+¿Quién se comunica?: 
+Error que presenta al navegar:Reporta Conectado sin intenret
+Verificar direccionamiento en ONT: 
+Valores ópticos de la ONT: -21
+Si el cliente cuenta con IP Fija o Dinámica, anexar documentación: No aplica 
+Dispositivo con falla (movil/computadora): MOvil 
+Tipo de conexión (Cable/Wifi): wifi 
+Páginas ejemplo de la falla o aplicaciones: Speedtest.net 
+Ping y tracert a alguna de las páginas con falla (cuando aplique):
+
+[10.217.217.61 - www.speedtest.net]: Complete, Enviado = 10, Recibido = 0, Perdido = 10 (0% exitoso), Min 0 ms, Max 0 ms, Promedio 0 ms
+
+[10.217.217.61 - www.speedtest.net]: Unknown
+
+
+Solicitat la IP pública del cliente con whatismyip.com (cuando aplique): No aplica 
+Causa raiz del problema del cliente: RALPH CARDENAS PIZAR
+// Reporta Conectado sin intenret 
+// Se valida saldo al corriente 
+// potencia -21 // LEDS en verde 
+// Version correcta // VAS correcto 
+// Si cuenta con direccionamiento 10.217.217.61
+// Se realiza ping [10.217.217.61 - www.speedtest.net]: Complete, Enviado = 10, Recibido = 0, Perdido = 10 (0% exitoso), Min 0 ms, Max 0 ms, Promedio 0 ms 
+y tracert [10.217.217.61 - www.speedtest.net]: Unknown sin salida de datos 
+// se escala para seguimiento 
+
++
+internet velocidad lenta  escalacion_
+ 
+velocidad lenta  escalacion
+
+Explica brevemente y puntal como experimenta la falla cliente: CLIENTE INDICA QUE PRESENTA VELOCIDAD LENTA INDICA QUE AL MOMENTO DE INGRESAR A APLICACIONES ESTAS SE QUEDAN CARGANDO INDICA QUE EN SU APLICACION DE LAS CAMARAS SE QUEDA PASMADA Y CARGANDO 
+Saldo Actual: $0
+ 
+ ANALISIS LOGICO:
+
+Potencia: Nivel excelente -19
+Service Port: 1508 400 HSI_AAA HSI_AAA 0
+Megas aprovisionados: 
+Versión de Firmware: V5R0
+VAS Profile: TP_AN_
+¿El cliente cuenta con IP Fija, Dinámica ? No tiene IP fija o dinámica
+Ip de Datos (Direccionamiento): 
+ 
+ANALISIS FISICO DE ONT:
+
+Estatus de led de Wlan: Verde parpadea 
+Cliente está conectado a ONT / STB / Extender: ONT
+A que distancia de la ONT / STB / Extender se encuentra realizando la prueba: 1 metro y en el mismo piso
+La falla la Presenta en red 2.4 o 5.0o ambas: 2.4g 
+La red se muestra intermitente en todos los equipos o solo alguno(s): todos 
+En el momento del análisis la red está en canal Automático:  ESTA EN AUTOMATICO 
+En el momento del análisis la red está en frecuencia Automático: ESTA EN AUTOMATICO 
+ 
+VALIDAR PUNTO DE ACCESO:
+
+Validar que el cliente no esté realizando la prueba con estos aplicativos activado como VPN/ NUBE / STREAMING / PROXY o que tenga equipos intermedios ajenos a Totalplay como Switch o router: directo al modem sin intermediarios 
+Dispositivo con falla (móvil/computadora): celulares y cámaras de seguridad 
+Páginas ejemplo de la falla o aplicaciones: speedtest, cámaras de video
+Solicitar ip pública de cliente: --
+PRUEBAS DE CONFIRMACIÓN CONEXIÓN A INTERNET
+ 
+
+Aplica PING algunas de las páginas que el cliente presenta la falla:
+Aplica TRACERT algunas de las páginas que el cliente presenta la falla: 
+Causa raíz de la falla: Se está por determinar en la escalación
+
+
+
+
++
+Corte de fibra invidual CFO _
+ 
+Corte de fibra
+
+Quien llama: 
+Reporta: sin ningun servicio 
+ts realizado: Tiene LOS en rojo 
+el cable de fibra optica esta conectado, se reinicia ont sin exito 
+se envia visita tecnica por CFO 
+no puede generar visita desde la app, se apoya al cliente
+Horario de visita: PENDIENTE
+Potencia: n/a
+
+ 
+
++
+
+PON PARPADEA _
+PON PARPADEA
+
+Quien llama: 
+Reporta: sin ningun servicio 
+ts realizado: tiene PON parpadeando 
+no es posible reaprovisionar la ont 
+no tiene potencias no muestra slot, port y frame 
+se envia visita tecnica 
+Horario de visita: PENDIENTE 
+
++
+
+Niveles de potencia incorrecto _
+Niveles de potencia incorrecto
+
+Quien llama: 
+Reporta: intermitencias en los tres servicios 
+ts realizado: Niveles de potencia incorrecto - 28.00 dbm 
+se envia visita tecnica 
+se anexa evidencia 
+Horario de visita: PENDIENTE 
+se soluciona: no
+
++
+
+CORTE MASIVO INCIDENCIAS_
+incidencias
+
+Quien llama:  
+
+Reporta: sin ningún servicio, presenta  LOS en rojo 
+ts realizado: es falla general se le pide tiempo de espera 
+se valida en incidencias esta dentro de la afectación 
+SD: --
+CFO MASIVO EN LA OLT -- CON -- CLIENTES AFECTADOS
+
++
+
+
+CFO MASIVO NOC_
+NOC 
+
+Quien llama:  
+
+Reporta: sin ningún servicio, presenta  LOS en rojo 
+ts realizado: es falla general se le pide tiempo de espera 
+se valida  en NOC esta dentro de la afectación 
+SD: --
+CFO MASIVO EN LA OLT -- CON -- CLIENTES AFECTADOS
+
++ 
+
+Falla general_
+Falla general
+
+Quien llama: 
+Reporta: intermitencias en servicio de -- 
+ts realizado: es falla general se le pide tiempo de espera 
+se valida en incidencias 
+se soluciona: no
+
+
++
+CAMBIO DE REUBICACION _
+CAMBIO DE UBICACION
+
+Quien llama: 
+Reporta: quiere reubicación de servicios en el mismo domicilio
+ts realizado: por atención se envía visita tecnica sin costo
+se valida que es el titular de servicio
+Horario de visita: PENDIENTE
+Potencia: -21
+se soluciona: si
+
++
+
+  LINEA OCIOSA _
+  LINEA OCIOSA 
+
+Quien llama: 
+Reporta: sin linea de telefono 
+ts realizado: se valida que tiene linea ociosa 
+se activa desde dashboard 
+se soluciona: si
+
++
+
+SIN LINEA / FALLA EN PUERTO VISITA TECNICA _
+SIN LINEA / FALLA EN PUERTO VISITA TECNICA 
+
+Quien llama: 
+Reporta: sin linea de telefono, levanta la bocina no 
+escucha nada 
+ts realizado: 
+pots correctos -- 
+se le pide cambiar el cable y el telefono 
+solo tiene un puerto ont version V5 
+se detecta falla en el puerto de la ont 
+se envia vt por daño en elpuerto de telefono 
+Horario de visita: PENDIENTE 
+Potencia: -20 dbm 
+se soluciona: no
+
++
+
+TV SIN SEÑAL _
+TV SIN SEÑAL
+
+Quien llama:
+Reporta: Tiene mensaje de sin señal del stb 
+ts realizado: 
+se sintoniza en la entrada correcta  
+se cambia de entrada en la tv 
+se cambia cable hdmi 
+se reinicia stb 
+se soluciona: si
+MAC:--
+
++
+
+PROBLEMA DE CONEXION / FALLA EN CABLE DE RED STB  _
+Problema de conexion de cable de red de STB 
+
+
+Quien llama: 
+Reporta:   prende la tv y stb ve mensaje  -hay un problema con tu conexion - 
+ts realizado: se revisan conexiones del cable de red sin daño fisico 
+se cambia de puerto en la ont de LAN -  a LAN -
+se desconecta y conecta cable de red del stb y de ONT sin éxito se envia vt 
+stb no se visualiza en tpro 
+se soluciona: NO 
+MAC: --
+Amarres: n/a 
+Version: n/a 
+Middelware: n/a 
+Horario de visita: PENDIENTE 
+Potencia: -19 DBM
+
+
++
+Problema de conexion solucion en linea_
+Problema de conexion 
+
+Quien llama:  
+Reporta:   prende la tv y stb ve mensaje  -hay un problema con tu conexion - 
+ts realizado: se revisan conexiones del cable de red sin daño fisico 
+se desconecta y conecta cable de red del stb 
+se cambia de puerto en la ont de LAN -  a LAN -
+
+se soluciona:  si 
+MAC:  --
+
+
++
+PANTALLA NEGRA SIN AUDIO  MULTICAST ( solucion en linea ) _ 
+Pantalla negra sin audio multicast  ( solucion en linea )
+
+Quien llama: 
+Reporta: Todos los canales estan en negro 
+MAC:--
+ts realizado: si tiene graficos de menu , tiene info de canales 
+tiene perfiles y paquete en iptv / XML (vasprofile) configurado 
+tiene direccionamiento 
+no tiene audio 
+se reinicia ont 
+es Pantalla negra multicast 
+se soluciona: si
+
++
+PANTALLA NEGRA SIN DIRECCIONAMIENTO ( solucion en linea )_ 
+Pantalla negra sin direccionamiento( solucion en linea )
+
+Quien llama: 
+Reporta: Todos los canales estan en negro 
+ts realizado: no tiene direccionamiento de televisión 
+tiene paquete triple play 
+se aplica reaprovisionamiento de la ont 
+MAC:--
+se soluciona: si ( se codifica como XML, validar)
+
++
+
+VENTA DE CONTROL REMOTO_
+VENTA DE CONTROL REMOTO 
+
+Quien llama: 
+Reporta: no funciona el control remoto 
+ts realizado: 
+potencia correcta: -20 
+se cambian las pilas 
+se trata de sincronizar con el boton de STB sin exito 
+no parpadea el stb y control al presionar cualquier boton 
+se intercambian los controles con los otros stb 
+se detecta que es el control remoto que no funciona 
+se recomienda usar la app
+ - se hace la venta del control remoto para m362/Alexa
+ - se da el costo $159 / $249
+cargo a su estado de cuenta 
+se indica requisitos para la entrega
+se proporciona fecha y horario 
+el titular acepta el cargo, pasa datos de seguridad 
+se soluciona: no
+
++
+
+No enciende ONT _
+No enciende ONT 
+
+ Quien llama: 
+Reporta: no enciende ont 
+ts realizado: se revisan conexiones 
+boton de encendido esta presionado 
+se cambia de contacto de pared 
+no esta en extensiones o regulador 
+no enciende se envia visita tecnica 
+horario de visita: pendiente 
+potencia: no tiene potencia 
+ 
+------------------------------------ 
+ 
+Quien llama: 
+Reporta: no enciende ont 
+ts realizado: se revisan conexiones , sin extensión de luz y boton de encendido presionado 
+se cambia de contacto de pared,  ya enciende 
+solución : si
+
+
++
+
+No enciende STB _
+No enciende STB 
+
+Quien llama: 
+reporta: no enciende stb , led apagado 
+ts realizado: se revisan conexiones de luz 
+se cambia de contacto de pared , sin extensiones o regulador 
+ no enciende se envia visita tecnica 
+horario de visita: pendiente 
+potencia: -20 dbm 
+MAC:--
+amarres: no es posible validar 
+version: no es posible validar 
+middelware:  no es posible validar 
+se soluciona : no 
+ 
+------------------------------------ 
+ 
+Quien llama: 
+Reporta: no enciende stb , led apagado 
+ts realizado: se revisan conexiones de luz sin xtension de luz 
+se cambia de contacto de pared 
+se soluciona : si 
+MAC:--
+
++
+App Totalplay_
+App Totalplay
+
+Solución en línea 
+
+¿La persona que se comunica es titular de la cuenta? 
+Falla reportada: 
+Indicar el proceso que solucionó la falla: 
+Motivo de actualización de telefóno: 
+Únicamente aplica para TS  - No hemos encontrado el número XXXXXXX por ningún lado- 
+Marca del móvil: 
+Modelo del móvil: 
+Sistema operativo: 
+Versión App Totalplay: 
+Versión de Sistema Operativo: 
+Solución en línea: (SI/NO/INFORMATIVO) 
+ *********************************** 
+ 
+Escalaciones 
+¿La persona que se comunica es titular de la cuenta? 
+Falla reportada: 
+Indicar el TS aplicado: 
+Motivo de actualización de telefóno: 
+Únicamente aplica para TS -No hemos encontrado el número XXXXXXX por ningún lado- 
+Marca del móvil: 
+Modelo del móvil: 
+Sistema operativo: 
+Versión App Totalplay: 
+Versión de Sistema Operativo: 
+Horario de atención:
+
++
+
+REGISTRAR UN STB IPTV_
+REGISTRAR UN STB 
+
+CUANTOS DECOS TIENE EN SITIO: 3 
+OLT: 
+Mac(s): 
+ID(s): 
+SN: 
+Cuenta: 
+Folio inconsistencia 
+Motivo: 
+Falla reportada: 
+
+Fecha de cancelacion: 
+ 
+ 
+ Restricción de VOD: 
+*Cuenta: 
+*Folio: 
+*Petición:
+
++
+
+CAMBIAR NIP, GENERAR PERFIL EN IPTV_
+CAMBIAR NIP, GENERAR PERFIL EN IPTV
+
+Correo registrado en dashboard: 
+Código postal: 
+Cuenta: 
+Dato por actualizar:
+
++
+CAMBIO DE ESTATUS DESENRUTAR IPTV _
+CAMBIO DE ESTATUS DESENRUTAR IPTV 
+
+Cuenta: 
+Olt: 
+Código postal: 
+Fecha de activación: 
+estatus actual: moroso
+estatus a corregir: activo
+Motivo:  pagó despues de su fecha  limite
+ 
+SALDO: $0
+ 
++
+CAMBIO DE REGION IPTV_
+CAMBIO DE REGION IPTV
+falla : 
+motivo: 
+Cuenta: 
+Olt: 
+Incorrecta: 
+Correcta
+
++
+  CARGAR PARRILLA O ALGUN ADICIONAL IPTV _
+CARGAR PARRILLA O ALGUN ADICIONAL 
+ 
+Petición: CARGAR PARRILLA, PAQUETE O ALGUN ADICIONAL 
+Parrilla contratada o por promoción: 
+OLT: 
+Cuenta: 
+Folio inconsistencia (cerrada): 
+Falla: 
+INDICAR MOTIVO: ejemplo cabio de plan
+
++
+  Control Remoto No Entregado _
+Control Remoto No Entregado 
+
+Cliente: 
+Ticket: 
+Fecha de registro: (Cuando fué creado el ticket) 
+Fecha de entrega: (Día que llegará RCU a su domicilio) 
+Domicilio: 
+Entre calles: 
+Referencia:
+
+
++
+  CIERRE DE FOLIOS ( cancelacion visita tecnica) _
+CIERRE DE FOLIOS ( visita tecnica)
+
+FOLIO: 
+OS: 
+MOTIVO DEL CIERRE: 
+Supervisor: ARROYO MARTINEZ HECTOR ADRIAN
+CAMPAÑA: Soporte chat
+
+
++
+
+Folio No Atendido_
+Folios No Atendidos 
+
+ Folio: 
+ Estatus: 
+ Área en la que se encuentra:
+ Motivo: (describir la petición que se requiera si es escalar o reasignar)
+
++
+  OS no iniciada / Incumplimiento _
+ OS no iniciada
+
+Distrito: 
+Región: 
+Cluster: 
+Os: 
+Folio: 
+Cuenta: 
+Titular: 
+Dirección: 
+Comentario:  OS no encendida 
+Incumplimientos: 1 
+Tipo de visita:
+
+
++
+  SIN DISPONIBILIDAD _
+SIN DISPONIBILIDAD 
+
+
+Cluster: 
+Distrito: 
+Os: 
+Folio: 
+Cuenta: 
+Tipo de visita: 
+agendamiento 
+Fecha y turno
+
+
+
+
+
++
+
+Solicitud de cancelación de folio (Apoyo a N1)_
+Solicitud de cancelación de folio (Apoyo a N1)
+
+Folio: 
+Orden de servicio: 
+Motivo de cierre/cancelación:
+Supervisor: ARROYO MARTINEZ HECTOR ADRIAN
+Campaña: Soporte chat
+
+
++
+
+Internet CHECKLIST WIFI_
+Internet CHECKLIST WIFI
+
+Quien se comunica:
+Categoría de falla: (Describe título de falla vs Codificación)
+Explica brevemente y puntal como experimenta la falla cliente:
+Saldo Actual:
+ 
+ ANALISIS LOGICO:
+
+Potencia: (Anota los valores que visualizas en UX)
+Service Port:  Service port  se revisa en  ux trubushoting  / Cambiar vlan
+Megas aprovisionados: (Anota los valores que visualizas en UX)
+Versión de Firmware: (Anota los valores que visualizas en UX)
+VAS Profile: (Anota los valores que visualizas en UX)
+¿El cliente cuenta con IP Fija, Dinámica ? (SI / NO)
+Ip de Datos (Direccionamiento): (Anota los valores que visualizas en UX)
+ 
+ANALISIS FISICO DE ONT:
+
+Estatus de led de Wlan: (Estado y color)
+Cliente está conectado a ONT / STB / Extender:
+A que distancia de la ONT / STB / Extender se encuentra realizando la prueba:  (Debe realizar TS en rango de cobertura y en el mismo piso
+La falla la Presenta en red 2.4 o 5.0o ambas:
+La red se muestra intermitente en todos los equipos o solo alguno(s):
+En el momento del análisis la red está en canal Automático: (En caso de no estar en Auto. Menciona en que CANAL estaba antes de modificarlo)
+En el momento del análisis la red está en frecuencia Automático: (En caso de no estar en Auto. Menciona en que FRECUENCIA estaba antes de modificarlo)
+ 
+VALIDAR PUNTO DE ACCESO:
+
+Validar que el cliente no esté realizando la prueba con estos aplicativos activado como VPN/ NUBE / STREAMING / PROXY o que tenga equipos intermedios ajenos a Totalplay como Switch o router:
+Dispositivo con falla (móvil/computadora)
+Páginas ejemplo de la falla o aplicaciones:
+Solicitar ip pública de cliente:
+PRUEBAS DE CONFIRMACIÓN CONEXIÓN A INTERNET
+ 
+
+Aplica PING algunas de las páginas que el cliente presenta la falla: (Anota los resultados, con esto confirmas si se resolvió o no)
+Aplica TRACERT algunas de las páginas que el cliente presenta la falla: (Anota los resultados, con esto confirmas si se resolvió o no)
+Causa raíz de la falla:  (Resultado de tu diagnostico que fue lo que genero la falla)
+ 
+
+Nota: en escalación a N2 colocar en causa raíz "Se está por determinar en la escalación”
+
++
+
+Club Wifi_
+Club Wifi
+
+¿Quién se comunica?:
+Falla reportada (Descripción detallada y entendible):
+Ubicación del cliente:
+Captura de pantalla del error:
+Marca y dispositivo:
+Forma de conexión:
+Horario de atención:
+
++
+
+INTERNET CHECKLIST POR CABLE_
+INTERNET CHECKLIST POR CABLE
+
+Quien se comunica:
+Categoría de falla: (Describe título de falla vs Codificación)
+Explica brevemente y puntal como experimenta la falla cliente:
+Saldo Actual:
+ 
+ANALISIS LOGICO:
+
+Potencia: (Anota los valores que visualizas en UX)
+En que puerto está conectado y que amarre tiene en el momento del análisis:
+Service Port:  Service port  se revisa en  ux trubushoting  / Cambiar vlan
+Megas aprovisionados: (Anota los valores que visualizas en UX)
+Versión de Firmware: (Anota los valores que visualizas en UX)
+VAS Profile: (Anota los valores que visualizas en UX)
+¿El cliente cuenta con IP Fija, Dinámica ? (SI / NO)
+Ip de Datos (Direccionamiento): (Anota los valores que visualizas en UX)
+ 
+ANALISIS FISICO DE ONT:
+
+Estatus de led del puerto donde está conectado el cable: (Estado y color)
+Cliente está conectado a ONT / Extender:
+Confirma que el amarre este correcto en el puerto correcto: (Anota los valores que visualizas en UX)
+ 
+VALIDAR PUNTO DE ACCESO:
+
+Conectar un Laptop/PC y aplica en CMD el comando NETSTAT: (Recuerda que no debe dar un resultado mayor a 8 ESTABLISHED)
+Validar que el cliente no esté realizando la prueba con estos aplicativos activado como VPN/ NUBE / STREAMING / PROXY o que tenga equipos intermedios ajenos a Totalplay como Switch o router:
+En caso de estar en el Extender pedir que haga una prueba de velocidad en puerto LAN 1 de la ONT, en caso de dar una solución aplica TS EXTENDER y describe en este paso.
+En caso de replicar la falla en la ONT continua con TS con la conexión a la ONT y describe a continuación.
+Solicitar ip pública de cliente:
+ 
+PRUEBAS DE CONFIRMACIÓN CONEXIÓN A INTERNET
+
+Aplica PING algunas de las páginas que el cliente presenta la falla: (Anota los resultados, con esto confirmas si se resolvió o no)
+Aplica TRACERT algunas de las páginas que el cliente presenta la falla: (Anota los resultados, con esto confirmas si se resolvió o no)
+Causa raíz de la falla:  (Resultado de tu diagnostico que fue lo que genero la falla)
+ 
+
+Nota: en escalación a N2 colocar en causa raíz "Se está por determinar en la escalación”
++
+
+
+TELEVISION Solución en línea_
+TELEVISION Solución en línea
+
+Quien se comunica: 
+Falla reportada (Descripción detallada): 
+Indicar el proceso que solucionó la falla: 
+MAC´s afectadas: 
+Solución en línea (SI/NO/INFORMATIVO):
+
+ +
+
+Television escalacion general  _
+ Television escalacion general  
+
+Quien se comunica: 
+Falla reportada (Descripción detallada): 
+TS aplicado: 
+MAC´s afectadas: 
+Potencia: 
+Amarres: 
+Versión: 
+Middleware: 
+Horario de atención:
+Diagnostico Check:  n/a por tema de herramientas
+
+EN CASO DE ANYTIME O APPS 
+
+IP WAN de datos cliente :
+IP de video del cliente :
+IP pública:
+
+
+
+
++
+
+Aplicaciones Netflix, YouTube, MAX, Apple TV, Paramount, Universal, Etc._
+Aplicaciones Netflix, YouTube, MAX, Apple TV, Paramount, Universal, Etc.
+
+Quién se comunica: 
+Falla reportada (Descripción detallada): 
+TS aplicado: 
+De qué manera ingresó: 
+Desde el menú o desde el canal Netflix 125/333, YouTube 225 
+MAC´s afectadas: 
+Potencia: 
+Amarres: 
+IP WAN de datos del cliente: 
+IP Pública: 
+Versión: 
+Middleware: 
+Horario de atención:
+
+
+
+
+
++
+
+VOD_
+VOD
+
+Quién se comunica: 
+Falla reportada (Descripción Detallada): 
+TS Aplicado: 
+Modelo de STB: 
+MAC´S afectadas: 
+Potencia: 
+Amarres: 
+Nombre de la película: En este punto se debe agregar el título de la película contratada
+Formato (SD/HD): 
+Fecha/Hora del programa: 
+Fecha/Hora que se reporto: 
+Versión: 
+Middleware: 
+IP WAN de datos del cliente: 
+IP de Vídeo del cliente: 
+IP Pública: 
+Horario de atención:
+
+
+
+
+
+
+
+
+
++
+
+Aplicaciones Disney, Star, Combo / Sin banner de Amazon y Sin banner de Netflix_
+Aplicaciones Disney, Star, Combo / Sin banner de Amazon y Sin banner de Netflix
+
+Quien se comunica: 
+Falla reportada (Descripción detallada): Especificar en que app está reportando y detallar la falla reportada por el cliente.
+Agregar imagen de la falla 
+TS aplicado: 
+MAC´s afectadas: 
+Potencia: 
+Amarres: 
+Versión UI: 
+Versión Middleware:  
+Horario de atención:
+
+
+
+
+
++
+Sin banner para activar Amazon Prime_
+Sin banner para activar Amazon Prime 
+
+Quién se comunica:  
+Falla que reporta: Sin banner para activar Amazon Prime    
+TS aplicado: Cuenta adicional Amazon prime facturado en Dashboard, no viene de ningún cambio de plan, PAQUETE --- , plan 3P, se valida en IPTV que no esta redimido, se pide reactivar desde portal web pero no visualiza banner.     
+MAC: -------
+Potencia:  Nivel excelente -17 dBm    
+Amarres: amarres correctos Auto-Full Duplex Port Rate (Mbit/s) = -------     
+Versión UI: ------     
+Versión MW: ----- 
+IP WAN: ------
+IP pública: -------
+Horario: ABIERTO     
+Solución en línea: NO   
+Healt Check: Mensaje en IPTV "STB no devuelve la información, las demás directivas no se ejecutarán" --------
+Cuenta: -----
+Nombre: -----
+Fecha de cambio de plan: NO CAMBIO DE PLAN 
+plan: -----
+Estatus de activación: PENDIENTE POR REDIMIR.
+Imagen del error: SE ANEXA.
+
++
+
+
+Anytime_
+Anytime
+
+Quién se comunica: 
+Falla reportada (Descripción Detallada): 
+TS Aplicado: 
+Modelo de STB: 
+MAC´S afectadas: 
+Potencia: 
+Amarres: 
+Nombre del programa:
+En este punto se debe agregar 3 contenidos que se intentaron reproducir. 
+Canal: 
+Fecha/Hora del programa: 
+Fecha/Hora que se reporto: 
+Versión: 
+Middleware: 
+IP WAN de datos del cliente: 
+IP de Vídeo del cliente: 
+IP Pública: 
+Horario de atención:
+
+
+
+
++
+
+Se salta los canales / Sin audio en algunos canales_
+Se salta los canales / Sin audio en algunos canales
+
+Quien se comunica: 
+Falla reportada (Descripción detallada): 
+TS aplicado: 
+MAC´s afectadas: 
+Potencia: 
+Amarres: 
+Versión:
+Middleware: 
+Nombre y número de canal: 
+Horario de atención:
+ 
+
+
++
+
+
+Telefonía_
+Telefonía 
+Escalación Soporte Voz
+
+
+Cuenta de cliente:
+Saldo:
+Potencia:
+Modelo de ONT:
+
+NS de ONT:
+OLT:
+Cliente tiene un teléfono físico (alámbrico o inalámbrico) o Softphone:
+Número(s) telefónico(s) a 10 dígitos en donde cliente presenta la falla:
+Número telefónico es de TP en IFT:
+
+Número telefónico portado o no portado:
+Número telefónico reportado es el mismo que el de su factura en dashboard:
+Status del led en puerto TEL de la ONT:
+Status de puerto TEL en Gestor NCE-U2000:
+Status de DN en UX:
+Descripción de la falla:
+
+Cliente tiene o no algún equipo adicional como PBX o Grandstream, si lo tiene indicar si es de TP o propio del cliente:
+Desde cuando se presenta falla:
+Recientemente tuvo alguna reubicación de teléfono o modem: 
+Realizó algún cambio de paquete recientemente (no mayor a 30 días):
+
+Realizar prueba con teléfono alámbrico /inalámbrico conectado directamente a la ONT sin filtros y extensiones (Documentar resultado):
+Realizar pruebas con otro equipo telefónico y otro cable (Documentar resultado):
+Realiza prueba en puerto TEL 2 (Documentar resultado):
+Grabación o Error que arroja:
+DN Origen a 10 dígitos (si es internacional colocar toda la numeración):
+DN Destino a 10 dígitos (si es internacional colocar toda la numeración):
+
+
+
++
+Llamadas Cortadas_
+Llamadas Cortadas  
+
+DN:  
+Hora inicio llamada:  
+Hora fin Llamada:  
+Ext:  
+Login ID:  
+Estación (virtual o física): 
+Folios no atendidos o en seguimiento atendidos por el área (MDC o NIVEL 2)
+
+
++ STB se reinicia todo el tiempo _
+STB se reinicia todo el tiempo
+
+
+Reporta que el stb se reinicia todo el tiempo y parpadea en verde se anexa video de la falla siguiendo el manual se hace ts de que se reinicia todo el tiempo se cambia de contacto de pared pero la falla continúa el cliente no puede entrar a menú el botón de encendido se ve dañado ni trabado el al presionar el botón si se escucha el clic se escala como stb no enciende sin menú
+
+
+
++ 
+
+Sin audio en ningun canal , canales sin audio_
+Sin audio en ningun canal , canales sin audio
+
+Quien se comunica:
+
+Falla reportada (Descripción detallada): Reporta que en ningún canal en vivo tiene audio
+
+TS aplicado: los videos de Youtube y Netflix sí tienen audio, no es problema del cable de video
+
+- se escala directamente.
+
+La falla es en todos los canales, ejemplo.
+
+TV Azteca, Canal 107 Televisa
+
+ Canal 104
+
+Canal principal de total play 1
+
+la falla la tiene desde una semana aproximadamente 
+
+MAC's afectadas: 
+
+Potencia: -20 dbm
+
+Amarres: 
+
+Versión: 
+
+Middleware: 
+
+Horario de atención: abierto
+
+Diagnostico Check:  n/a por tema de herramientas
+
+
+
+
+
++
+
+Amarre stb incorrecto_
+
+Amarre stb incorrecto
+
+
+ Reporta: tiene fallas en su servicio de televisión
+
+ ts realizado: se corrobora que es por amarre incorrecto
+
+amarre actual:
+
+se revisan conexion de cable de red en buen estado
+
+/se desconecta y conecta cable de red del stb y ont sin éxito
+
+  se cambia de puerto de la ont de LAN a LAN sin exito se envia visita por amarre incorrecto
+
+ se soluciona: no
+
+ MAC: 
+ Amarres: 100 fd  LAN 
+ Version: na
+ Middelware:na
+ Horario de visita: PENDIENTE
+ Potencia: -20
+
+
+
++
+
+
+Falla en puerto stb sin señal visita _
+Falla en puerto stb sin señal vistia
+ 
+
+Quién llama:  
+
+Reporta: Reporta sin señal en el stb
+
+TS realizado: si prende stb está en color verde  
+
+está sintonizado correctamente.
+
+Se cambia a otra entrada diferente de la televisión. La falla continua
+
+cambia el cable HDMI y se reinicia stb. La falla continua
+
+no tiene otro stb pero puso un equipo externo si dio señal Se envía visita técnica como falla en el puerto del stb
+
+MAC:
+
+Amarre:
+
+Versión: no se puede ver
+
+Middleware: no se puede ver
+
+Horario de visita: pendiente
+
+Potencia: -20
+
+Diagnostico Check:  n/a por tema de herramientas
++
+
+INTERNET LENTO WIFI  EJEMPLO PARA ESCALAR_
+INTERNET LENTO WIFI Escalacion 
+ 
+
+CHECKLIST WIFI
+Quien se comunica: -----
+Categoría de falla: (Describe título de falla vs Codificación)internet lento Explica brevemente y puntal como experimenta la falla cliente: Cliente indica que al momento de ingresar youtube se tarda en cargar, esto en cualquier dispositivo, comenta que desde la semana pasada esta el servicio lento, estoo en todos los dispositivos 
+Saldo Actual: --
+
+ANALISIS LOGICO: 
+Potencia: (Anota los valores que visualizas en UX)Potencia Nivel Nivel excelente -17.2 
+Service Port: (Anota los valores que visualizas en UX)--
+Megas aprovisionados: (Anota los valores que visualizas en UX)--
+Versión de Firmware: (Anota los valores que visualizas en UX)--
+VAS Profile: (Anota los valores que visualizas en UX) no aplica por modelo de ONT --
+¿El cliente cuenta con IP Fija, Dinámica ? (SI / NO)no 
+Ip de Datos (Direccionamiento): (Anota los valores que visualizas en UX)--
+
+ANALISIS FISICO DE ONT: 
+Estatus de led de Wlan: (Estado y color)verde parpadeando Cliente está conectado a ONT / STB / Extender:ont 
+A que distancia de la ONT / STB / Extender se encuentra realizando la prueba: (Debe realizar TS en rango de cobertura y en el mismo piso 1 mt 
+La falla la Presenta en red 2.4 o 5.0o ambas:ambas 
+La red se muestra intermitente en todos los equipos o solo alguno(s):todos 
+En el momento del análisis la red está en canal Automático: (En caso de no estar en Auto. Menciona en que CANAL estaba antes de modificarlo)Automático 
+En el momento del análisis la red está en frecuencia Automático: (En caso de no estar en Auto. Menciona en que FRECUENCIA estaba antes de modificarlo)Automático 
+
+VALIDAR PUNTO DE ACCESO: 
+Validar que el cliente no esté realizando la prueba con estos aplicativos activado como VPN/ NUBE / STREAMING / PROXY o que tenga equipos intermedios ajenos a Totalplay como Switch o router: no 
+Dispositivo con falla (móvil/computadora)ambos Páginas ejemplo de la falla o aplicaciones: www.youtube.com 
+Solicitar ip pública de cliente:   --
+
+PRUEBAS DE CONFIRMACIÓN CONEXIÓN A INTERNET 
+Aplica PING algunas de las páginas que el cliente presenta la falla: --
+Aplica TRACERT algunas de las páginas que el cliente presenta la falla: --
+Causa raíz de la falla: (Resultado de tu diagnostico que fue lo que genero la falla) se esta por determinar en escalación
+
++
+
+Inconsistencia Internet Megas_
+
+Inconsistencia Internet Megas 
+ 
+¿Quién se comunica?: 
+Falla reportada (Descripción detallada y entendible): 
+Megas que tiene en la ONT: 
+Paquete:
+S/N: 
+Megas correctos:
+
+
+
+
+
++
+Contraseña PASS_
+Avaya
+6405913
+
+*                     Intranet: 
+                      
+15010689@onuriscp.com
+Fiaaa1987chacho.@
+
+*		    NOC masivos 
+
+65028729
+729$Edgarmau
+
+*                    SPARK
+
+15010689
+10.214.48.56
+6405913
+
+*                     SEDyM: 
+15010689
+totalplay1234
+
+
+*                     CITRIX :
+
+https://totalplay.cloud.com
+totalplayvdi\15010689
+Fia1987chach0@22
+
+*                    llave maestra:
+
+15010689
+Fiaaa1987chacho.1
+afriasa@totalplay.com.mx
+
+*                  Mensajeria 
+https://abrahamfrias.github.io/Imagenes/
+
+**************
+VACACIONES
+
+Nombre: Abraham Frías Aguirre
+ACD: 29539
+Numero: 15010689
+NUMERO DE DÍAS:
+FECHAS SOLICITADAS :
+
+
+
+
+
++
+
+INTERNET LENTO PARA ESCALAR  EJEMPLO 2 no tiene  megas completos _
+INTERNET LENTO  no tiene  megas completos
+
+Quien se comunica:  
+
+
+Categoría de falla: (Describe título de falla vs Codificación) velocidad lenta no llegan  megas correctos contratados  
+Explica brevemente y puntal como experimenta la falla cliente: cliente indica no le llegan sus megas contratados tiene ** bajada con **  MB subida de los cuales llegan  157.59 MB
+Saldo Actual: **
+ 
+ ANALISIS LOGICO:
+
+Potencia: (Anota los valores que visualizas en UX)  -22.00 dbm 
+Service Port: (Service port  se revisa en  ux trubushoting  / Cambiar vlan) **
+Megas aprovisionados: (Anota los valores que visualizas en UX) **
+Versión de Firmware: (Anota los valores que visualizas en UX) V5R022C00S234   **
+
+
+VAS Profile: (Anota los valores que visualizas en UX) **
+
+
+¿El cliente cuenta con IP Fija, Dinámica ? (SI / NO)  no  
+Ip de Datos (Direccionamiento): (Anota los valores que visualizas en UX) 
+
+
+ 
+ANALISIS FISICO DE ONT:
+
+Estatus de led de Wlan: (Estado y color) verde parpadeando 
+Cliente está conectado a ONT / STB / Extender: ONT  directa 
+A que distancia de la ONT / STB / Extender se encuentra realizando la prueba:  (Debe realizar TS en rango de cobertura y en el mismo piso , mismo piso sin pasar por muros 1 metro lineal en la misma habitacion 
+La falla la Presenta en red 2.4 o 5.0o ambas: Ambas, para tema de prueba usamos red 5G 
+La red se muestra intermitente en todos los equipos o solo alguno(s): Pasa en todos los equipos 
+En el momento del análisis la red está en canal Automático: (En caso de no estar en Auto. Menciona en que CANAL estaba antes de modificarlo)  2  y  cambiamos automatico 
+En el momento del análisis la red está en frecuencia Automático: (En caso de no estar en Auto. Menciona en que FRECUENCIA estaba antes de modificarlo) 40 MHZ y cambiamos automatico 
+ 
+VALIDAR PUNTO DE ACCESO:
+
+Validar que el cliente no esté realizando la prueba con estos aplicativos activado como VPN/ NUBE / STREAMING / PROXY o que tenga equipos intermedios ajenos a Totalplay como Switch o router:  se coencta directo a la ont sin filtros 
+Dispositivo con falla (móvil/computadora)  movil 
+Páginas ejemplo de la falla o aplicaciones: speed  FAST.COM 
+Solicitar ip pública de cliente: ***
+PRUEBAS DE CONFIRMACIÓN CONEXIÓN A INTERNET
+ 
+
+Aplica PING algunas de las páginas que el cliente presenta la falla: (Anota los resultados, con esto confirmas si se resolvió o no)*****
+Aplica TRACERT algunas de las páginas que el cliente presenta la falla: (Anota los resultados, con esto confirmas si se resolvió o no)
+***
+
+
+Causa raíz de la falla:  (Resultado de tu diagnostico que fue lo que genero la falla) Se está por determinar en la escalación”
+
+Cliente no tiene saldo pendiente,  potencia dentro de rango ont :-22.00, problema con red ont del módem wifi, ,  version correcta en ont, vas profile correcto,si tiene direccionamiento , generamos ping y tracert  en paginas del problema con salida correcta de datos , distancia de conexión del módem a 1 metros libres , se conecta a red 5G  del módem ( apagamos red 2.4 un momento para asegurar este en red 5G)  , movemos canales en ux automatico y frecuencia ,sin proxis,vpn ni nada similar 
+Resultados al medir velocidad es de   **   y tiene cotratados  ** bajada con  ** subida  agregamos capturas de pantalla   genera pruebas en distintos equipos misma falla
++
+PANTALLA NEGRA SIN AUDIO MULTICAST ( PARA ESCALAR)_
+PANTALLA NEGRA SIN AUDIO MULTICAST
+
+Quien llama: 
+Reporta: Todos los canales estan en negro
+ts realizado:
+dispositivo esta en linea
+amarres correctos
+tiene perfiles y paquete en iptv / XML (vasprofile) configurado
+tiene direccionamiento 402
+tv prendida
+led stb verde / blanco
+si tiene graficos de menu, tiene info de canales
+no tiene audio
+se reinicia ont
+es Pantalla negra multicast
+se escala para su atencion
+MAC: ***
+amarrres:
+version UI
+version: MW 
+potencia -19 dbm
+boton heatl check: N/A
+hora de atencion abierto
+
++
+
+CAMBIO DE ONT_
+Cambio de ont 
+
+Reporta: internet lento 
+ts : Se hace cambio de ont sin costo por modelo de ont incompatible con la cantidad de megas que tiene contratados se pasa folio  a supervisor
+ ont actual es una v5 con mas de  500 mb contratados 
+hora de visita : pendiente  
+potencia: -20dbm 
+
++
+
+Fallas Para Bitacora plantilla para supervisor falla_
+Fallas Para Bitácora
+
+Nombre:  Abraham Frias
+Cuenta:  
+Login:  29539
+Falla:  
+Hora:
+ 
+
++
+
+INFORMACION DEL CAMBIO DE PARRILLA_
+INFORMACION DEL CAMBIO DE PARRILLA
+
+¿Quien se comunica?
+
+Queja del cliente
+
+Indica el canal que reporta
+
++
+
+STB se reinicia todo_
+STB se reinicia todo el tiempo 
+
+Quien se comunica:
+reporta: STB se reinicia todo el tiempo, se apaga en automatico  cuando  esta viendo  un canal 
+TS: se cambia de tomacorriente , sin extensiones de luz  o barra de contactos la falla continúa 
+Se revisa que la versión está actualizada 
+se envía visita técnica para cambio de equipo sin costo
+mac:
+amarres:
+UI:
+MW:
+horaio de visita: pendiente
+potencias: -20 dbm
+
++
+Buscando servidor  NTP  escalacion _
+Buscando servidor  NTP 
+Quién llama: 
+
+Reporta:  mensaje en tv de  "buscando servidor  ntp "
+TS realizado:  
+-Potencia: -20 dbm
+-El dispositivo se encuentra en línea
+-los amarres del decodificador son correctos
+-El decodificador está bien conectado en él modem 
+-El servicio de Internet no se encuentra enrutado.
+-tiene navegacion a Internet con el equipo conectado al módem por wifi 
+-Se valida en maqueta que no tiene Black list  o algún equipo bloqueado.
+-DHCP Server configuration se encuentra con IP asignada.
+-Se pide reiniciar el modem, la falla continua.
+
+  se escala para su atencion  
+MAC:
+Amarre: 
+Versión:  no se puede validar por el mensaje
+Middleware:  no se puede validar cpor el mensaje
+Horario: abierto 
+diagnostico healt: no esta disponible por tema de herramientas
+
++
+
+ALARMAS ONT  VISITA _
+Multiples alarmas 
+
+¿Quien se comunica?
+Reporta intermitencias en su servicio en general 
+TS: se detecta múltiples alarmas en maqueta 
+se anexa la evidencia , se envía visita técnica
+potencia -24dbm 
+horario de visita : pendiente 
+
++
+INCONCISTENCIAS MEGAS Alta o baja STB Y ONT _
+ 
+ 
+Inconsistencia Internet Megas
+
+ ¿Quién se comunica?:
+Falla reportada (Descripción breve):
+Megas que tiene en la ONT:
+Paquete:S/N:
+Megas correctos:
+*********************************************
+
+Dar de Alta o baja STB 
+ 
+¿Quién se comunica?:
+Falla reportada (Descripción breve):
+STB en sitio MAC y Modelo:
+STB que se daran de baja MAC y Modelo:
+Paquete:
+ ***********************************************
+Dar de Alta o baja Equipo, Extender
+
+¿Quién se comunica?:
+Falla reportada (Descripción breve)
+Equipo Serie y MAC :
+Paquete:
+***********************************************
+
+Dar de Alta ONT mal facturada
+
+¿Quién se comunica?:
+Falla reportada (Descripción breve):
+ONT en sitio MAC, modelo y SN:
+Paquete:
+
++
+falla cable de red roto  _
+
+cable de red roto
+
+Quien llama:  
+
+Reporta:  el cable de red de un stb esta roto 
+se envia visita  por atencion al cliente 
+se anexa evidencia  
+se soluciona: NO 
+MAC: --
+Amarres: n/a 
+Version: n/a 
+Middelware: n/a 
+Horario de visita: PENDIENTE 
+Potencia: -19 DBM
+
++
+
+CAMBIO DE REUBICACION INTERMITENCIAS EN WIFI_
+CAMBIO DE UBICACION
+
+Quien llama:  
+
+Reporta: interferencias con el wifi  
+ts realizado: Se requiere de la reubicación del equipo.
+Se corrobora que el módem no está en una buena ubicación para la distribución correcta de señal wifi --
+El cliente no lo puede mover 
+
+por atención se envía visita tecnica sin costo, se valida   datos de seguridad con titular 
+
+Horario de visita: PENDIENTE
+Potencia: -21
+se soluciona: si
+
+
++
+
+APP TOTALPLAY CAMBIO DE NUMERO ACTUALIZAR_
+CAMBIO DE NUMERO APP 
+
+¿La persona que se comunica es titular de la cuenta? 
+
+Falla reportada:  no puede iniciar sesion tiene  mensaje "no hemos encontrado su numero  por ningun lado"
+Indicar el proceso que solucionó la falla: el numero no coincide en dashbord 
+se validan  datos del titular y se actualiza el numero en  dash   
+Motivo de actualización de telefóno: ya no tiene el numero anterior y es para ingresar a la app   
+ 
+Solución en línea: (SI)
+
+NOTA 
+Para soluciones en línea donde el cliente solicita actualizar el teléfono, preguntar si es para ingresar a la aplicación de total play y anexarlo a la documentación.
+
++
+
+NO ENCIENDE ONT SOLO POWER ENCENDIDO_
+
+solo power enciende
+
+Quien se comunica: 
+ Reporta: no tiene servicios, solo enciende el de POWER en la ont 
+ts realizado:  se cambia de contacto de pared, se revisa con boton de encendido
+sin extensiones o regulador 
+sin exito se envia visita ont no enciende 
+se soluciona: no
+ Horario de visita: PENDIENTE 
+Potencia: n/a
+
+
+
++
+
+INTERNET NO NAVEGA WLAN VISITA _
+
+INTERNET NO NAVEGA WLAN 
+
+Quién llama: 
+Reporta: no navega ont conectado sin interent 
+TS realizado: la ont no permite ingresar a maqueta no abre candado para hacer ping 
+tiene indicadores en rojo 
+la ont no da soporte con gestor aparece activa 
+ se descarta loop o saturación de wifi ya que se desactiva, aun asi no hay acceso remoto al equipo para realizar ping 
+ se envia visita como wlan no navega
+ Se soluciona: no 
+Horario de visita: 
+pendiente Potencia: -21 dbm
+
+
+
++
+configurar repetidor exteder WA8021V5_
+configurar repetidor exteder WA8021V5
+
+Por cable 
+
+1  Para conectar el repetidor por cable, deje el cable en el puerto número 3 (WAN) 
+2 en el celular seleccione el nombre del Wifi que está en la etiqueta del repetidor.
+3 En la interfaz del repetidor en su celular  seleccione la opción  re check
+4 escriba un nombre de red y contraseña a su guso 
+ ( es la que va a emitir el repetidor) despues en aplicar
+
+
+**************
+
+por WIFI
+
+1  Seleccione el nombre del Wifi que está en la etiqueta del repetidor.
+2 En la interfaz del repetidor en su celular, seleccione la opción  wifi reply 
+3 busque el nombre de red  y escriba la contraseña de wifi del modem  principal y al final dele en aplicar 
+
+
++  
+
+CLIENTE SIN PRUEBAS AMENAZA CON CANCELAR_
+Cliente sin pruebas 
+
+Quién llama: 
+Reporta: quiere visita tecnica por falla en --
+ts realizado: no quiere hacer pruebas. se trata de dar soporte pero no quiere
+amenaza con cancelar
+cliente molesto 
+por atención se envía visita tecnica sin costo 
+se soluciona: no 
+Horario de visita: PENDIENTE 
+Potencia: -20
+
+
+
++
+
+
+PERMUTA CAMBIO DE DESCANSO_
+PERMUTA CAMBIO DE DESCANSO
+ACD: 29539
+Numero de empleado: 15010689
+Nombre: Abraham Frias Aguirre 
+Día que labora: 
+Día que descansa:  
+Motivo: sin disponibilidad de vacaciones se solicita cambio de descanso por temas personales
+
++
+VACACIONES
+
+Nombre: Abraham Frías Aguirre
+ACD: 29539
+Numero: 15010689
+NUMERO DE DÍAS:    
+FECHAS SOLICITADAS :   
+
++
+
+FALLA PARA BITACORA_
+Falla para bitacora 
+NOMBRE: Abraham frías Aguirre 
+ACD: 29539 
+Número Celular o local: 5531059100 
+Extensión: n/a  
+Anydesk:  228288702
+Proveedor de Internet: totalplay 
+Megas: 75  
+Tipo de conexión: wifi 
+Campaña : soporte chat Totalplay 
+Descripción breve del problema: 
+hora inicio:
+hora: final:
+chat en curso: n/a
+
+
++
+PIXELEO MALA IMAGEN  SOLUCION EN LINEA_
+Pixeleo en imagen
+
+Quien llama:  
+
+Reporta:  
+ts realizado:  Parpadea la imagen de la televisión en cualquier canal.
+
+se cambia cable hdmi 
+se reinicia stb 
+se soluciona: si
+MAC:-- 
+
++
+stb Alexa escalacaion no responde a los comandos de voz soundbox _
+Alexa no responde a los comandos de voz
+
+Quien se comunica:  --
+Falla reportada: Alexa no responde a los comandos de voz, Alexa, cambia a canal 210, Alexa, abre YouTube,
+TS aplicado:
+-no se encuentra dentro de una aplicación
+-mute no esta encendido
+-los Leds del STB no se encienden en rojo cuando dice la palabra Alexa
+-no responde ni aparece nada al decir Alexa
+-internet funciona correctamente
+-potencia correcta
+-STB online
+-amarre correcto
+-se pide reiniciar el STB desconectando y conectando de la corriente eléctrica, no responde
+-se pide reiniciar ONT de tomacorriente desconectando y conectando de la corriente eléctrica, sigue sin responder
+-se escala
+-se anexa video de la falla
+MAC's afectadas: --
+ Modelo:
+POTENCIA: -19dbm
+AMARRES: --
+Versión: --
+Middleware: --
+Horario de atención: abierto.
+Diagnostico Health Check: herramienta health check no funciona al momento del soporte, no se puede obtener.
+
++
+
+3ra edad adulta sin pruebas_
+
+
+Quién llama:  
+
+Reporta:    reporta fallas en su servicio desconoce del tema  
+
+TS realizado:   no puede hacer pruebas es una persona de tercera edad por atención  se envía visita técnica sin costo
+
+ 
+Horario de visita: pendiente 
+Potencia: -20 dbm
+
+
++
+Youtube no carga apps_
+No carga Youtube
+
+Quien se comunica:
+
+Reporta: no puede cargar las aplicaciones como Youtube  
+ al abrir la aplicación desde el decodificador se queda en negro 
+no presenta fallas con el internet 
+si abre YouTube en otros dispositivos 
+se reinicia el stb se soluciona
+
+mac: --
+
+
+
++
+
+
+
++
+
+
+
++
+
+
+
++
+
+
+
++
+
+
++
+
+
++
+LIGAS PAGINAS URL PRESENTACIONES_
+
+****** INCREMENTO Y POLITICAS DE USO MEDIDO 
+
+https://onuris.sharepoint.com/sites/PortalResidencial/Noticias/Forms/AllItems.aspx?id=%2Fsites%2FPortalResidencial%2FNoticias%2FHist%C3%B3rico%20de%20Noticias%2F2025%2FPresentaci%C3%B3n%20%2D%20Simetria%2C%20Incremento%20de%20Precios%20y%20Politica%20de%20Uso%20Justo%2Epdf&parent=%2Fsites%2FPortalResidencial%2FNoticias%2FHist%C3%B3rico%20de%20Noticias%2F2025
+
+******Presentación seguimiento VT
+
+https://onuris.sharepoint.com/:b:/r/sites/PortalResidencial/Noticias/Hist%C3%B3rico%20de%20Noticias/2024/Presentaci%C3%B3n%20-%20Agendamiento%20e%20Incumplimientos%20de%20Visitas.pdf?csf=1&web=1&e=XOhhVt
+
+******Parrilla de canales 
+
+https://onuris.sharepoint.com/sites/PortalResidencial/Base%20de%20Conocimientos/Forms/AllItems.aspx?id=%2Fsites%2FPortalResidencial%2FBase%20de%20Conocimientos%2FManuales%20de%20Apoyo%2FFicha%20T%C3%A9cnica%20de%20ONT%5Fs%20y%20Access%20Point%2Epdf&parent=%2Fsites%2FPortalResidencial%2FBase%20de%20Conocimientos%2FManuales%20de%20Apoyo
+ 
+******REPETIDOR HUAWEI
+
+https://support.huawei.com/carrier/docview!docview?nid=DOC1101146442
+
+*******LIGA DE MI PLANTILLA 
+https://plantillas-net.github.io/trabajo/
+
+*******EXTENDER 
+https://onuris.sharepoint.com/sites/PortalResidencial/Base%20de%20Conocimientos/Forms/AllItems.aspx?id=%2Fsites%2FPortalResidencial%2FBase%20de%20Conocimientos%2FManuales%20de%20Wifi%20Extenders%2FManual%20Extender%20%2D%20Tenda%20AC10%2Epdf&parent=%2Fsites%2FPortalResidencial%2FBase%20de%20Conocimientos%2FManuales%20de%20Wifi%20Extenders
+
++
+saludos 1 _
+
+
+👋 ¡Hola! Buenas noches, soy Abraham Frias del soporte técnico de Totalplay.
+
+Para poder ayudarte de la mejor manera, ¿me podrías confirmar la siguiente información?
+
+📋 Número de cuenta:
+👤 Su nombre:
+
+
+-Te invito a contestar una breve encuesta la cual está enfocada a evaluar la atención que te brinde en esta interacción.📝 
+
+ ✅ Tu opinión es muy importante para nosotros. Muchas gracias por tu apoyo !! Gracias por contactarnos le atendió Abraham Frias de soporte técnico de Totalplay buenas noches.
+
+-De antemano te ofrezco una disculpa, no nos es posible permanecer más tiempo en línea sin respuesta por parte del cliente, pero recuerda que estamos para ayudarte; puedes contactarnos en cualquier momento para darte asistencia. Te atendió Abraham Frias de Soporte Técnico Totalplay ¡Que tengas una excelente noche!
+
+-Gracias por contactarnos le atendió Abraham Frias de soporte técnico de Totalplay buenas noches.
+
+-Estoy revisando permíteme un momento por favor
+-Una disculpa por el tiempo de espera
+-Permíteme un momento
+-¿Sigo con usted en línea?
+-No se preocupe lo reviso rápidamente
+-No se preocupe le ayudo
+-¿Alguna duda o algo más que pueda ayudar?
+-No responde bienvenida se da script de calidad
+
++
+saludos 2 _
+
+👋 ¡Hola! Buenas tardes, soy Abraham Frias del soporte técnico de Totalplay.
+
+Para poder ayudarte de la mejor manera, ¿me podrías confirmar la siguiente información?
+
+📋 Número de cuenta:
+👤 Su nombre:
+
+
+-Te invito a contestar una breve encuesta la cual está enfocada a evaluar la atención que te brinde en esta interacción.📝 
+
+ ✅ Tu opinión es muy importante para nosotros. Muchas gracias por tu apoyo !! Gracias por contactarnos le atendió Abraham Frias de soporte técnico de Totalplay buenas tardes.
+
+-De antemano te ofrezco una disculpa, no nos es posible permanecer más tiempo en línea sin respuesta por parte del cliente, pero recuerda que estamos para ayudarte; puedes contactarnos en cualquier momento para darte asistencia. Te atendió Abraham Frias de Soporte Técnico Totalplay ¡Que tengas una excelente tarde!
+
+-Gracias por contactarnos le atendió Abraham Frias de soporte técnico de Totalplay buenas tardes.
+
+-Estoy revisando permíteme un momento por favor
+-Una disculpa por el tiempo de espera
+-Permíteme un momento
+-¿Sigo con usted en línea?
+-No se preocupe lo reviso rápidamente
+-No se preocupe le ayudo
+-¿Alguna duda o algo más que pueda ayudar?
+-No responde bienvenida se da script de calidad
+ 
++
