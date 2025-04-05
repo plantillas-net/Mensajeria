@@ -830,6 +830,11 @@ Seleccione "Información del sistema".
 -	borre su red y vuelva a seleccionar la red de club wifi para validar si le pide accesos como cuando ingresa en la app de totalplay
 -	intente con otro equipo conectar a la red de club wifi por favor
 
+-	¿en los canales de anytime ( repetidos) tiene audio?
+-	dígame algunos canales que no tienen audio por favor
+-	si no tiene audio en algunos canales presiona el botón de Ok y Desactive el sistema dolby Por favor
+-	Para poder identificar el problema, ¿me confirma si al presionar algún botón en el control, la luz que parpadea pertenece al control remoto o al decodificador?
+-	
 -	
 -	
 -	
@@ -929,7 +934,7 @@ Seleccione "Información del sistema".
 -	 > Se detecta que es por la distancia estando a un lado del módem aumenta la intensidad de la señal y la velocidad en megas			
 -	 > se autoriza con supervisor de mover el pin ya que no se ubica correctamente el domicilio
 -	 / Reporta que un canal de Anytime se ve pixeleado los demás canales se ven bien, se indica que ese canal no se grabó correctamente Se le pide tiempo de espera
--				
+-	/ Reporta que no tiene audio en algunos canales Se le pide Desactivar sistema dolby se soluciona   MAC :			
 -				
 -				
 -				
