@@ -839,16 +839,15 @@ Seleccione "Información del sistema".
 -	
 -	
 -	
--	 <  reporta fallas con el servicio de INTERNET pero no responde el sondeo			
--	 <  reporta fallas con el servicio de TELEVISION pero no responde el sondeo			
--	 <  reporta fallas con el servicio de TELEFONIA pero no responde el sondeo
--	 <  reporta fallas con el control remoto pero no responde el sondeo			
--	 <  reporta que no tiene NINGUN SERVICIO pero no responde el sondeo			
--	 <  quiere cambio de CAMBIO DE CONTRASEÑA se indica como hacerlo desde la app pero no responde para confirmar	
--	 <  Se daba información de su VISITA TECNICA, pero el cliente no responde el chat para confirmar
--	 <  Quiere actualizar el número de contacto para poder iniciar sesión en la aplicación pero no responde datos de seguridad
--	 <  reporta CORTE FIBRA OPTICA, pero no puede desde la app, se piden datos para visita pero el cliente no responde
--	 <  El cliente reporta corte de fibra se daba la información de la app pero cliente no responde el sondeo
+-	 <  Reporta fallas con el servicio de INTERNET pero no responde el sondeo			
+-	 <  Reporta fallas con el servicio de TELEVISION pero no responde el sondeo			
+-	 <  Reporta fallas con el servicio de TELEFONIA pero no responde el sondeo
+-	 <  Reporta fallas con el CONTROL REMOTO pero no responde el sondeo			
+-	 <  Reporta que no tiene NINGUN SERVICIO pero no responde el sondeo			
+-	 <  Quiere cambio de CAMBIO DE CONTRASEÑA al proporcionar informacion no responde
+-	 <  Quiere inforacion de su VISITA TECNICA, pero el cliente no responde el chat para confirmar
+-	 <  Quiere actualizar el número para la APLICACCION pero no responde datos de seguridad
+-	 <  Reporta CORTE FIBRA OPTICA al proporcionar la informacion ya no responde 
 
 -
 -
@@ -934,7 +933,7 @@ Seleccione "Información del sistema".
 -	 > Se detecta que es por la distancia estando a un lado del módem aumenta la intensidad de la señal y la velocidad en megas			
 -	 > se autoriza con supervisor de mover el pin ya que no se ubica correctamente el domicilio
 -	 / Reporta que un canal de Anytime se ve pixeleado los demás canales se ven bien, se indica que ese canal no se grabó correctamente Se le pide tiempo de espera
--	/ Reporta que no tiene audio en algunos canales Se le pide Desactivar sistema dolby se soluciona   MAC :			
+-	/ Reporta que no tiene audio en algunos canales Se le pide Desactivar sistema dolby se soluciona MAC :			
 -				
 -				
 -				
@@ -951,7 +950,7 @@ Seleccione "Información del sistema".
 -	/ Reporta : el teléfono no para de timbrar como si estuviera recibiendo una llamada, se le pide reiniciar el módem se soluciona.
 -	/ Reporta mensaje de intermitencia solar, se explica la información que es un evento natural, se le pide tiempo de espera.
 -	/ Reporta pantalla negra multicast , no tiene direccionamiento en la 402 se aplica reaprovisionamiento se soluciona mac: 
+-	/ Reporta que al Ingresar a YouTube de la aplicación del stb se queda cargando se descarta fallas con el internet se reinicia el stb se soluciona MAC:
 -
--
--
+-	👍***
 -	Me ayudan en firmar por favor la visita técnica el cliente no quería hacer pruebas 
