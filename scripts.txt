@@ -1,8 +1,8 @@
 -	muy bien, cualquier situación que se presente contactenos estaremos para ayudarle
 -	¿ en que le puedo ayudar ?
--	fue un placer ayudarle 😃
--	revisemos la falla que esta reportado que no tiene ningun servcio ❌
--	¿ Alguna duda con la visita tecnica o en que le puedo apoyar ?🕐		
+-	fue un placer haber ayudado 😃
+-	revisemos la falla que esta reportado que no tiene ningun servcio 🟢	 ¿ que LEDs o focos estan encendidos en su modem ?
+-	¿ Alguna duda con la visita tecnica o en que le puedo apoyar ?🕐	
 -	Me puede dar mas detalles de la falla por favor
 -	Me puede dar mas detalles por favor de la falla de internet 📶🌐
 -	Me puede dar mas detalles por favor de la falla de television 🖥️
@@ -10,9 +10,10 @@
 -	Me puede dar mas detalles por favor de la falla de teléfono 📞
 -	Me puede dar mas detalles por favor de la falla en su aplicacion 📲	
 -	🟢 ¿ que LEDs o focos estan encendidos en su modem ?
--	El indicador en rojo 🔴 significa que el cable de fibra óptica está dañado. Por favor, programe una visita técnica a su domicilio a través de la APP Totalplay para seleccionar la hora y el día de su conveniencia.	
+-	El indicador en rojo 🔴 significa que el cable de fibra óptica está dañado. ¿Puede agendar desde la aplicación ? Así podrá mantener una comunicación directa con el técnico	
 -	⚙️ No se preocupe, le generaré el folio. Revise que el cable de fibra óptica esté conectado al conector verde del módem y reinícielo. Avíseme si la conexión se restablece.
 -	🌐 ¿ en este momento, se conecta pero no navega o ni siquiera le aparece la red WiFi ?			
+-	🌐¿en que paginas o aplicaciones nota la lentitud y en que equipos?
 -	🛠️ Vamos a enviar al técnico a su domicilio por favor, proporciónenos los siguientes datos: 		🏠 Domicilio Completo (incluyendo código postal) 		📞 Teléfono de contacto
 -	📝 Por supuesto, permítame un momento. Le proporcionaré un número de folio enseguida
 -	He realizado las correcciones necesarias, en las próximas horas valide el estado del servicio. En caso de que persistan las intermitencias, no dude en contactarnos por favor
@@ -23,7 +24,7 @@
 -	se va a trabajar con el mismo folio para que le den seguimiento . espere la llamada del técnico por favor
 -	Desconecte y conecte el cable de internet de ese decodificador (caja negra) y en el módem blanco con antenas va a cambiar de lugar el cable de internet , dígame en qué puerto estaba y en cuál lo conectó
 -	Si no enciende el modem únicamente ayúdenos en cambiarlo de contacto de pared y que el boton de encendido este hacia dentro por favor				
--	Desconecte por favor todo lo que tenga conectado en el modem en los puertos de LAN 1 LAN 2 LAN 3 y LAN 4			
+-	Desconecte por favor todos cables de red solo los puertos de LAN 1 LAN 2 LAN 3 y LAN 4			
 -	Por nuestra parte sería todo 
 -	vamos a escribir Soporte2025@ ¿ esta de acuerdo con esa?				
 -	¿ en este momento a cuantos metros esta su celular del modem ?	
@@ -32,14 +33,15 @@
 -	revisemos la falla que esta reportado en telefono 📞
 -	revisemos la falla que esta reportado en la app 📱
 -	revisemos la falla que esta reportado en su control tv 🎛️
--	envie foto para corroborar y agregarlo a su reporte por favor	
+-	envie foto para corroborar y agregarlo a su reporte por favor
 -	La red va a funcionar siempre y cuando los equipos como celulares y computadoras sean compatibles con ese tipo de señal			
 -	Es el WiFi extender tiene costo de 69 pesos al mes no tienen costo de instalación			
 -	Le voy activar una configuración para dar de alta los megas correctamente			
 -	veo que el tecnico le escribio por medio del chat de la app de Totalplay
 -	Veo que se trataron de comunicar con usted pero no lograron localizarlo 
 -	Veo que ya tiene folio generado, la visita ya esta confirmada, le pediremos tiempo de espera, antes de llegar le llamaran por teléfono , le escribiran por whatsapp o en la app de Totalplay nuestros técnicos
--	Veo que ya tiene folio generado la visita ya está confirmada, solamente para verificar que todo esté bien, me corrobora nuevamente su domicilio completo con código postal y el teléfono para contactar por favor 📞			
+-	Veo que ya tiene folio generado la visita ya está confirmada, solamente para verificar que todo esté bien, me corrobora nuevamente su teléfono para contactar por favor 📞
+-	veo que ya tiene folio de visita sin agendar puede ser mañana de 8am A 4pm o 2pm A 9pm 🕐			
 -	Para esta situación voy a transferir con nuestros compañeros de atención a clientes, Gracias por contactarnos le atendió Abraham Frias de soporte técnico de Totalplay buena tarde
 -	si falla de nuevo contactenos por favor												
 			
@@ -73,9 +75,10 @@
 -	me indica por favor el numero de Mac , SN y ID que tiene ese decodificador (caja negra, esta abajo en su etiqueta) por favor			
 -	me envia una foto de la pantalla por favor
 -	me envia una foto de su cable dañado por favor		
--	revise si la falla la tienen todos los canales			
--	Por favor trate de abrir YouTube ¿reproduce cualquier video?			
--	A pesar de que este en negro la pantalla ¿ tiene audio ?			
+-	¿ la falla la tiene en todos los canales que visto? 
+-	¿ En que canales tiene este inconveniente ?		
+-	Por favor trate de abrir YouTube ¿reproduce cualquier video?
+-	A pesar de que este en negro la pantalla ¿ tiene audio ?
 -	Apague y encienda el modem por favor			
 -	Atras de la televisión cambie de entrada en cable HDMI por ejemplo si esta en HDMI 1 cambielo al HDMI 2			
 -	Por favor, asegúrese de que su televisor esté configurado en la entrada correcta de HDMI. Si el cable está conectado en el puerto HDMI 2, deberá cambiar la entrada de su televisor a HDMI 2. Esto permitirá que el dispositivo se comunique correctamente con el televisor y funcione sin problemas.
@@ -87,7 +90,7 @@
 -	Tiene cable RCA, es un cable con punta de colores vea atras de su televisión			
 -	Desconecte y conecte el cable de Internet que esta en el descodificador por favor			
 
--	En el modem cambie el cable de Internet que esta en LAN _ y conectelo en LAN			
+-	en el módem cambie el cable de internet de LAN_ a LAN_ para probar la conexión Por favor		
 -	Intercambie por favor el decodificador por el de otra recamara . al final le va a decir si la falla se repite en el mismo decodificador que se llevo o en el mismo lugar de la televisión			
 -	¿ En que color esta el LED del repetidor ?			
 -	Apague y encienda el decodificador con el control remoto			
@@ -109,14 +112,15 @@
 -	Si en este momento no puedo hacer pruebas . puede contactarnos mas tarde para poder continuar con estas configuraciones			
 -	 será necesario que verifique la configuración de sus propios equipos			
 -	Me puede proporcionar el SN (numero de serie del modem ) o tomarle una foto por favor			
--	Validando la información , esos canales ya no estan disponibles en total lay . en la lista de canales fueron actualizadas			
--	Cuando tenga la falla en el servicio contactenos para revisar en tiempo de real el problema y para hacer unas pruebas , en este momento las conexiones estan dentro de rango			
+-	Validando la información , esos canales ya no estan disponibles en totalplay. la lista de canales fueron actualizados			
+-	Cuando tenga la falla en el servicio contactenos para revisar en tiempo de real el problema y para hacer monitoreo en linea, en este momento las conexiones estan dentro de rango			
 -	¿ cual es el correo que actualmente tiene? y proporcióneme el nuevo por favor			
 -	Por el momento no tenemos reporte de una falla en la zona será conveniente que tenga su folio de visita técnica , pero que vaya un técnico			
 -	🛠️ Actualmente hay una falla general en la zona que está afectando su servicio. Nuestro equipo técnico ya está trabajando en la solución. Agradecemos su paciencia, se a va a restablecer automaticamente en el transcurso de unas horas
+-	Actualmente hay una una falla general con con esa configuracion 	. Nuestro equipo técnico ya está trabajando en la solución para que el servicio se restablezca lo antes posible.		Este tipo de inconvenientes pueden ocurrir debido a ajustes internos en la plataforma o procesos de sincronización entre sistemas.
 -	Le pediremos tiempo de espera hoy mismo se restablece el silencio			
 -	desconecte y conecte el cable de luz del modem (caja blanca con antenas ) por favor
--	Desconecte y conecte el cable de luz que esta en el descodificador (caja negra) por favor
+-	desconecte y conecte el cable de luz que esta en el descodificador (caja negra) por favor
 -	desconecte y conecte el cable de luz que esta en el repetidor por favor	
 -	revise con algún otro equipo, es que esa red es mas rapida , pero no todos los equipos son compatibles con ese tipo de señal 			
 -	Puede conectarse a esa red por favor			
@@ -204,7 +208,6 @@
 -	primero vamos a revisar el tema de internet
 -	he detectado una mala conexión con el cable de Internet. Por favor, haga lo siguiente.
 -	he detectado una falla física en las conexiones de Totalplay. Programaremos una visita de un técnico para solucionar el problema 		🛠️ proporciónenos los siguientes datos: 	 🏠 Domicilio Completo (incluyendo código postal) 	📞 Teléfono de contacto
-
 -	voy a revisar si ya se corrigió la conexion, permíteme un momento
 -	No se corrigío, continua la falla fisica en esa conexion		
 -	el modem de esta cuenta _ nos aparece activo y funcionando, ¿ cual es la cuenta donde presenta la falla?			
@@ -213,15 +216,15 @@
 -	me envia una foto de su control por favor			
 -	¿ desde cuando esta asi con la falla en el servicio ?			
 -	por cable le podemos dar seguimieto . pero por WiFi si esta en otros pisos y lejos del modem mejor insale repetidores			
--	los techos y las paredes hacen que pierda señal y el internet se hace mas lento e intermitente						
--	¿ en que paginas o aplicaciones nota la lentitud y en que equipos ?			
+-	los techos y las paredes hacen que pierda señal y el internet se hace mas lento e intermitente				
+-	¿ en que paginas o aplicaciones nota la lentitud y en que equipos?			
 -	desinstale la aplicacion e instale de nuevo por favor
 -	puede ser para mañana de 8a.m. a 4p.m. o de 2p.m. a 9p.m. ¿Qué horario prefiere?		
--	 si presiona menu con nuestro control de Totalplay ¿ que se ve ? envie una foto de la pantalla, por favor.			
+-	 si presiona menu con nuestro control de Totalplay ¿ que se ve ? envie una foto de la pantalla, por favor.		
 -	le ofrecemos una disculpa por los inconvenientes , vamos a estar al pendiente de su visita tecnica, pasamos sus datos a la cuadrilla para que se le pueda atender a la brevedad			
 -	le ofrecemos una disculpa por los inconvenientes , vamos a estar al pendiente de esta situacion , pasare estos comentarios y el reporte al área correspondiente			
 -	tomele foto al modem (caja blanca)por favor de la parte de abajo			
--	tomele foto al modem (caja blanca)por favor por donde estan las conexiones			
+-	tomele foto al modem (caja blanca)por favor donde estan las conexiones 		
 -	si presiona el boton de volumen ¿ aparece el circulo de volumen en la pantalla ?			
 -	Desconecte y conecte por favor el cable de Internet que esta en el modem ( caja blanca )			
 -	con el otro control remoto ¿ si responde el decodificador?			
@@ -234,8 +237,7 @@
 -	¿ cual es el numero que quiere dar de alta?			
 -	vamos a realizar los cambios un momento por favor			
 -	no tenemos reportado falla en la zona			
--	vamos a enviar un técnico a cambiar el decodificador modem 			
--	el servicio de identificador es un servicio ya fijo de totalplay ya va activo por default , si no funciona intente con otro identificador , otro cable u otro teléfono			
+-	vamos a enviar un técnico a cambiar el decodificador modem 	
 -	¿ en otra televisión se presenta el mismo problema ?			
 -	me proporciona la ip local de su equipo por favor es el que empieza con 192.168.100…			
 -	club totalplay es un punto de acceso a internet que ofrecen nuestro modem siempre y cuando este activo, así usted si sale de casa podra conectarse a internet cuando vea una red así club totalplay			
@@ -245,7 +247,7 @@
 -	por lo que me comenta es una falla física, como un si fuera un falso contacto , solo cambielo de contacto de pared y si vuelve a presentarse lo mismo , contactenos por favor			
 -	para activar la red 5g del decodificador, haga los siguiente, presionara con nuestro control remoto el boton de menu después se va a MI CUENTA . mi red wifi (aquí Vera la red que va utilizar para conectarse a internet) después arriba seleccione 5g, después se baja y en ancho de canal de 40 lo cambia 80 y por ultimo aplicar cambios			
 -	para activar la red 5g del decodificador, haga los siguiente, presionara con nuestro control remoto el boton de menu después se va a MI CUENTA y en mi red wifi (aquí Vera la red que va utilizar para conectarse a internet) después diríjase ajustes del decodificador y con las flechas va a cambiar de 2.4 g a 5g y por ultimo en aplicar cambios			
--	Por favor trate de abrir YouTube y valide si tiene audio			
+-	Por favor de abrir YouTube del decodificador y revise si tiene audio			
 -	¿ los demas servicios funcionan bien ?	
 -	¿ las demas televisiones se ven bien ?		
 -	listo agregué esa información al folio para que se le de seguimiento correcto			
@@ -262,7 +264,8 @@
 -	no hara nada la pantalla solo es para que se sincronice , ahora solo pruebe los demas botones	
 -	¿ en que color tiene el foco o led el decodificador (caja negra)?
 -	Puede revisar el decodificador parece estar apagado no se alcanza a ver bien ¿ en qué color está?			
--	lamentablemente no hay disponibilidad pero ya pasamos su informacion al area correspondiente para que revisen si hay un técnico cerca y disponible de su domicilio			
+-	lamentablemente no hay disponibilidad
+-	Lamento que haya tenido inconvenientes con su servicio, si en algún momento decide reconsiderarlo, con gusto podemos continuar con la configuración.		
 -	¿ que contraseña de WiFi le pongo ?			
 -	Del decodificador, proporcióneme la versión UI y la versión MW. Para obtenerlas:
 	
@@ -283,7 +286,7 @@ Seleccione "Información del sistema".
 -	por favor aplique un reseteo al modem, presione el pequeño boton que dice reste con algún alfiler o algo durante unos 5 segundos , esperamos a que se reinicie ( el boton esta atras en las conexiones )			
 -	por favor aplique un reseteo al repetidor, presione el pequeño boton que dice RESET con algún alfiler o algo durante unos 3 segundos , esperamos a que se reinicie y que esté el foco en rojo 
 -	No es común que después del Reseteo, no aparezca la red, inténtelo nuevamente, pero ahora, durante 10 segundos, presione ese botón de reset.
--	 🔒 Por cuestiones de seguridad de tu cuenta, por favor valida los siguientes datos: 	👤 Nombre completo del titular: 	📧 Correo electrónico registrado con Totalplay: 	📍 Dirección completa de instalación con código postal:			
+-	 🔒 Por cuestiones de seguridad de tu cuenta, por favor valida los siguientes datos: 	👤 Nombre completo del titular: 	📧 Teléfono de casa de Totalplay: 	📍 Dirección completa de instalación con código postal:			
 -	Para poder solicitar un ajuste por fallas en el servicio es necesario comunicarse nuevamente Una vez que se restablezca el servicio para validar la aplicación del ajuste			
 -	Gracias por los datos en un momento le muestro el horario disponible para tu visita							
 -	Ambos turnos estan disponibles a partir de mañana hoy, ¿ que horario prefiere para tu visita?			
@@ -303,7 +306,7 @@ Seleccione "Información del sistema".
 -	su decodificador también es un repetidor de WIFI , Abajo tiene escrita la contraseña y la red para que se conecte a internet			
 -	¿ esta es la cuenta que esta reportando ? 			
 -	aunque este a un lado del modem, ¿ tiene la falla?			
--	validando esa cuenta es empresarial , es necesario que se comunique con ellos al teléfono 800 810 8 010 o totalplayempresarial.com.mx/contacto aquí es atención residencial y lamentablemente no tenemos accesos a esas cuentas. Gracias por contactarnos le atendió Abraham Frias de soporte técnico de Totalplay buena tarde			
+-	validando esa cuenta es empresarial , es necesario que se comunique con ellos al teléfono 800 810 8 010 o totalplayempresarial.com.mx/contacto aquí es atención residencial y no tenemos accesos a esas cuentas. Gracias por contactarnos le atendió Abraham Frias de soporte técnico de Totalplay buena tarde			
 -	vamos hacer cambios , por favor acérquese a un lado del modem, no mas de 3 metros			
 -	 la intención del cambio es para que conecte un equipo únicamente solo para hacer unas pruebas y yo pueda activar un monitoreo , es decir ver como trabajan los megas en su servicio			
 -	en llamadas de entrada y de salida ¿ tiene esa falla ?			
@@ -319,7 +322,7 @@ Seleccione "Información del sistema".
 -	se hara la venta de un control remoto para su decodificador con un costo de 159 pesos, con cargo al estado de cuenta , la entrega en su domicilio en 48 horas ¿ esta de acuerdo ?			
 -	se hara la venta de un control remoto para su decodificador Alexa con un costo de 249 pesos, con cargo al estado de cuenta , la entrega en su domicilio en 48 horas ¿ esta de acuerdo ?		
 -	Atras de la television ¿ en que entrada esta el cable HDMI ?
--	cuando apaga y enciende el decodificador ¿ aparece el logo de totalplay ? (con esto queremos saber si esta sintonizado correctamente el cable hdmi )			
+-	cuando apaga y enciende el decodificador ¿ aparece el logo de totalplay ? 			
 -	es su folio de visita, se agendo para hoy de 8 a 4 pm, espere la confirmación por llamada, WhatsApp o en la app de Totalplay antes de la llegada del técnico
 -	es su folio de visita, se agendo para hoy de 2 a 9 pm, espere la confirmación por llamada, WhatsApp o en la app de Totalplay antes de la llegada del técnico			
 -	es su folio de visita, se agendo para mañana de 8 a 4 pm, espere la confirmación por llamada, WhatsApp o en la app de Totalplay antes de la llegada del técnico			
@@ -328,27 +331,27 @@ Seleccione "Información del sistema".
 -	Conéctese copiando la contraseña que aparece en la etiqueta ubicada en la parte trasera del módem decodificador, por favor.		
 -	oprima cualquier opcion reportando alguna falla lo quesea para hablar con un compañero y pídale que lo transfieran a atención especial			
 -	la entrega de su control todavía esta en proceso , se enviara por paquetería y aun no tenemos el numero de guía , la paquetería será AM PM. llegara hoy o a mas tardar mañana			
--	encienda la tv y el decodificador por favor , después presione menu vaya a MI CUENTA y después mi red WiFi y envíe foto			
+-	encienda la tv y el decodificador por favor, después presione MENU vaya a MI CUENTA y después seleccione MI RED WIFI y envíe foto para revisar su configuración 		
 -	de antemano te ofrezco una disculpa, en este momento no cuento con sistema debido a que estamos realizando una actualización en nuestra base de datos. El sistema se restablecera en 1 hora, agradeceré nuevamente tu interacción, transcurrido este tiempo, y con gusto te atenderemos			
 -	debemos de esperar a que haya luz en casa para poder enviar un técnico , contactenos por favor cuando se restablezca el servicio de la energía eléctrica			
 -	puede proporcionar su contraseña para ingresar al portal de totalplay por favor			
 -	para configurar el repetidor haga lo siguiente, seleccione la red que dice repeater por favor , ahora abra su navegador, en la barra de direcciones escriba 192.168.10.1 para ingresar escriba usuario: admin y en contraseña: admin , seleccionara en modo repetidor, después seleccione la red del modem blanco y escriba la contraseña para vincular, al final conectar, con eso se configura en modo repetidor			
--	lamentablemente ya no estara disponible la television en el portal por temas de actualización en el servicio			
--	mientras se va la señal en su television ¿ que mensaje de error tiene en la pantalla ?			
--	en la pagina de la falla dara clic derecho y seleccionara inspeccionar Y después la opcion de Network. vera una flecha apuntando hacia abajo . es para descargar el archivo que necesitamos. Descargara el archivo y seleccionara la carpeta donde lo va a guardar, nada mas. Ese archivo nos lo va a enviar por favor.			
+-	no estara disponible la television en el portal por temas de actualización en el servicio		
+-	mientras se va la señal en su television ¿ que mensaje de error tiene en la pantalla?			
+-	en la pagina de la falla dara click derecho y seleccionara inspeccionar Y después la opcion de Network. vera una flecha apuntando hacia abajo . es para descargar el archivo que necesitamos. Descargara el archivo y seleccionara la carpeta donde lo va a guardar, nada mas. Ese archivo nos lo va a enviar por favor.			
 -	se puede hacer la venta de un control remoto nuevo , o use la app gratis en su celular , app de control remoto totalplay			
 -	esa app de Totalshop se activa de manera automatica , se activa dependiendo algunos factores , como historial de pagos , paquete , la zona donde vive por temas de paquetería etc			
 -	para vincular el repetidor con el modem , haga lo siguiente , presione del modem el boton WPS unos segundos y lo suelta, despues presione del repetidor el boton que tiene un circulo de en frente unos segundos tambien			
 -	¿Trató de hacer el cambio de la contraseña desde la aplicación ?			
 -	De hecho, lo va a cambiar de puerto en cualquier otro que esté disponible e indiqueme en que puerto estaba y en cual lo conecto por favor 			
--	¿ su equipo ya esta conectado ?			
--	¿Usted es titular de la cuenta ?
--	¿Usted es titular de la cuenta para autorizar la reubicación del equipo ?
--	¿Usted es titular de la cuenta para autorizar el cambio de equipo ?
--	¿Usted es titular de la cuenta para autorizar la compra del control ?
--	¿Usted es titular de la cuenta para actualizar estos datos personales ?		
+-	¿su equipo celular ya esta conectado?			
+-	¿Usted es titular de la cuenta?
+-	¿Usted es titular de la cuenta para autorizar la reubicación del equipo?
+-	¿Usted es titular de la cuenta para autorizar el cambio de equipo?
+-	¿Usted es titular de la cuenta para autorizar la compra del control?
+-	¿Usted es titular de la cuenta para actualizar datos personales?		
 -	Le voy a generar la orden de visita técnica, pero es importante que se comunique el titular para actualizar el teléfono y evitar que se se cancele las visita técnica			
--	¿ Se refiere a internet lento porque no tienen los megas completos o porque tarda de abrir vídeos como en Youtube ?			
+-	¿ Se refiere a internet lento porque no tienen los megas completos o porque tarda de abrir vídeos como en Youtube?			
 -	¿El control remoto que tiene se rompió o solamente no responde?			
 -	Con ese número de orden, el control remoto será entregado en 48 horas mediante la paquetería AMPM contratada por Totalplay. Si tiene dudas, contáctenos después de ese plazo para obtener el número de guía y verificar detalles de la entrega		
 -	En relación a la falla en el servicio de Internet, tenemos la opción de realizar un cambio de módem por uno más estable y rápido, que funciona con tecnología 5G. Sin embargo, este nuevo módem está diseñado para una sola línea telefónica. Esto significa que, aunque actualmente su paquete incluye dos líneas, solo podrá utilizar una línea físicamente y la segunda se convertirá en una línea virtual accesible a través de la aplicación de Totalplay. Por favor, indíqueme si desea proceder con este cambio.
@@ -356,16 +359,15 @@ Seleccione "Información del sistema".
 -	Puede conectarse a su red 5G por favor			
 -	En relacion de la falla de internet, será necesario un cambio de modem para que tenga la red 5g es una señal estable y mas rápida			
 -	Podemos hacer el cambio del decodificador, pero el decodificador que usted tiene sirve como un repetidor de señal de WiFi. Si hacemos el cambio pueda que le pongan un decodificador que no sirve como repetidor de señal de WiFi. Aún así, ¿ desea que se haga el cambio. ?			
--	¿a que telefono le podemos contactar para su visita tecnica ?			
+-	¿a que telefono le podemos contactar para su visita tecnica?			
 -	El foco del repetidor tiene que estar en blanco. Permíteme un momento para preparar el modem y vincularlo.			
 -	el foco de PON tiene que estar fijo, permíteme un momento para corroborar si es falla fisica			
 -	¿El foco de PON ya está fijo?			
--	Debe tener mínimo 10 caracteres mayúsculas y minúsculas con números por favor.			
--	envie video por favor para corroborar un poco mas la falla			
+-	Debe tener mínimo 10 caracteres mayúsculas y minúsculas con números por favor.						
 -	Ese teléfono no lo tenemos registrado en Totalplay ¿ usted es el titular para darlo de alta?			
 -	¿Se quiere conectar a la red del club WiFi de su casa o en la calle?			
 -	¿Su teléfono fijo timbra de que le están llamando.?			
--	Solo para confirmar ¿ cómo está el foco que dice LOS ?			
+-	Solo para confirmar ¿ cómo está el foco que dice LOS?			
 -	me envia una foto de su repetidor y de la etiqueta de abajo por favor			
 -	proporcióneme por favor la MARCA de su celular, MODELO, VERSION y SISTEMA OPERATIVO ( casi siempre esta en ajustes acerca del telefono )			
 -	Lo que usted tiene es un corte de fibra óptica, es importante que ingrese a la aplicación de Totalplay para solicitar una visita técnica, al solicitar por medio de esta opcion, la visita puede quedar para hoy mismo.			
@@ -379,7 +381,7 @@ Seleccione "Información del sistema".
 -	¿le llego un codigo a su telefono? Demelo por favor			
 -	Veo que le hace falta una configuración 			
 -	¿Tienen los demas servicios funcionando? porque el modem me aparece como si estuviera desconectado o apagado			
--	¿ Esa es la red que está fallando ?			
+-	¿ Esa es la red que está fallando?			
 -	para futuros reportes si es necesario que use la aplicación de totalplay para generar reportes y ver el estatus de la visita técnica			
 -	desde la pantalla principal busque la sección de ayuda y después en la opcion de no navega, siga los pasos para que desde ahí genera el reporte correctamente		
 -	Veo que recientemente inició sesión en la aplicación es ahí mismo en la sección de ayuda, en donde podrá generar la visita técnica			
@@ -393,29 +395,32 @@ Seleccione "Información del sistema".
 -	vamos a esperar a que se restablezca la luz en casa . después nos contacta para enviar un técnico por favor			
 -	Cuando conecta el cable de luz al decodificador, ¿en la pantalla qué es lo que se ve?			
 -	es para saber que red y usa y cuales estan disponibles			
--	¿ que pruebas o cambios ha realizado por su parte ?			
--	¿ los técnicos ya se llevaron el decodificador que cancelo ?			
+-	¿ que pruebas o cambios ha realizado por su parte?			
+-	¿ los técnicos ya se llevaron el decodificador que cancelo?			
 -	si gusta puedo transferir a atención al cliente para que le ofrezcan un paquete mas económico			
 -	Quería saber el estatus de su visita técnica, pero durante la interacción el cliente recibió la llamada del técnico.			
 -	para ingresar a su perfil, ingrese con su nip 0000 o 1234 , si no lo tiene de le donde no recuerdo mi nip para que se lo envien a su correo			
--	Le ofrecemos una disculpa, la visita ya tuvo que haberse cumplido. Vamos a pasar los datos al área correspondiente para que nos puedan atender a la brevedad, porque este folio no puede estar abierto mucho tiempo. La visita quedaría para el dia de hoy de 2 a 9 pmpor favor espere la llamada del tecnico			
+-	Le ofrecemos una sincera disculpa, la visita ya tuvo que haberse cumplido. Vamos a pasar los datos al área correspondiente para que nos puedan atender a la brevedad, porque este folio no puede estar abierto mucho tiempo.		
 -	La visita esta pendiente para el día de hoy hasta antes de las 4 pm , ya esta confirmada, espere la llamada tecnico, mensaje de whatsapp o en estatus de visita en la app de Totalplay para confirmar la hora antes de llegar al domicilio			
--	La visita esta pendiente para el día de hoy de las 2 a 9 pm , ya esta confirmada, espere la llamada tecnico, mensaje de whatsapp o en estatus de visita en la app de Totalplay para confirmar la hora antes de llegar al domicilio			
--	La visita esta pendiente para el día de hoy hasta antes de las 9 pm , ya esta confirmada, le vamos a pedir tiempo de espera en un momento mas el tecnico se comunicara con usted 			
--	no contamos con una hora exacta o estimada para la visita del técnico. Sin embargo, el técnico se pondrá en contacto con usted para confirmar la hora de llegada. Gracias por su comprensión			
+-	La visita aun esta pendiente para el día de hoy de 2 a 9 pm, ya esta confirmada, espere la llamada tecnico, mensaje de whatsapp o en estatus de visita en la app de Totalplay para confirmar la hora antes de llegar al domicilio			
+-	La visita aun esta pendiente para el día de hoy de 8 a 4 pm, ya esta confirmada, espere la llamada tecnico, mensaje de whatsapp o en estatus de visita en la app de Totalplay para confirmar la hora antes de llegar al domicilio 			
+-	no contamos con una hora fija para la visita. Sin embargo, el técnico se pondrá en contacto con usted para confirmar la hora de llegada. Gracias por su comprensión			
 -	¿ Ya lo había reportado o es la primera vez?			
 -	En un momento más continuan con usted para darle la información y seguimiento, permanezca linea por favor			
 -	Me confirma nuevamente el domicilio completo y teléfono para contactar para corroborar que los datos en el sistema estén bien, por favor.			
--	Ya pasé la petición para que lo puedan atender lo antes posible y no tengan que esperar tanto tiempo.			
+-	Ya pasé la petición para que lo puedan atender lo antes posible y no tengan que esperar tanto tiempo.
+-	Ya pasé la peticion, sin embargo, debido a la hora no puedo garantizar que la visita se realice hoy mismo, quedamos atentos a cualquier actualización por parte del área correspondiente.
+-	Ya pasé la información para que le den seguimiento a la brevedad como usted tiene un horario de 2pm a 9pm vamos a esperar un poco más de tiempo, los técnicos tienen que reportar con usted
+-	Los datos son correctos, ya pasé la información para seguimiento de su visita técnica, vamos a agilizarla
 -	Les sugiero que nos contacte a las 3 de la tarde para darle más detalles de la visita y confirmar por favor			
--	¿ para cuando quiere agendar la visita ?			
+-	¿ para cuando quiere agendar la visita?			
 -	Conecte un teléfono directamente al modem sin el conmutador. Queremos corroborar cómo se escucha por favor			
 -	Al hacer la configuración, estoy detectando que hay una falla fisica, vamos a enviar un técnico			
 -	 conecte el teléfono directo al puerto del teléfono, sin ese filtro por favor			
 -	ya quedo, si gusta lo puede revisar de nuevo			
 -	se corregirá mas adelante, no tenemos fecha hasta cuando se actualizará su modem ZTE para que ya aparezca la información en sus aplicación			
 -	5510813967 evidencía con gestor			
--	Listo se aplicó unas correcciónes y realizamos el cambio de la contraseña puede conectarse por favor a su red 5 g 			
+			
 -	listo ya esta el cambio de contraseña, dígame si ya esta el equipo conectado			
 -	¿si le llega el codigo por Whatsapp a su numero?			
 -	 Por esa razón, el servicio esta suspendido, ¿ya realizó el pago?			
@@ -428,22 +433,21 @@ Seleccione "Información del sistema".
 -	Esa falla es muy común cuando hay un problema con el cable HDMI es necesario cambiarlo después de cambiarlo por favor reinicie el decodificador eso es desconectando y conectando el cable de luz
 -	Eso es debido a un problema con el cable HDMI eso es muy común cuando el cable presenta algún daño interno es necesario por favor reemplazarlo por otro
 -	cuando conecto el cable de luz del decodificador ¿aparece logo de totalplay?			
--	cuando reinició el decodificador ¿aparece el logo de Totalplay?			
--	listo, desconecte y conecte el cable de luz del modem (caja blanca con antenas) es el cable negro más delgado por favor, para que los cambios se apliquen			
+-	cuando reinició el decodificador ¿aparece el logo de Totalplay?		
 -	¿ con algún teléfono de sus contactos si ha podido hacer la llamada, aunque sea con uno?			
 -	me envia una captura de que si puede ingresar a la app de Totalplay por favor			
 -	El área de supervisión nos dará una información de nuestro sistema. Permítanos unos minutos en línea por favor			
 -	Una disculpa no podemos realizar llamadas, la atención es solamente vía chat.			
 -	Usted tiene el modem de modelo más reciente porque tiene la red 5g , no es necesario un cambio de equipo.			
--	¿ Los demas equipos sí se pueden conectar a internet ?			
+-	¿ Los demas equipos sí se pueden conectar a internet?			
 -	inténtelo de nuevo por favor y me envia captura			
 -	es falla del cable hdmi antes de cambiarlo , intente lo siguiente, el mismo cable hay que voltearlo . Es decir, la punta que esta conectado en el decodificador, lo va a conectar en la pantalla y la punta que está conectada en la pantalla lo va a conectar en el decodificador ( caja negra), por favor.			
--	¿ cual es el correo que tiene actualmente ?		
+-	¿ cual es el correo que tiene actualmente?		
 -	Para corroborar el 100 % de los megas sería por cable ethernet			
 -	No se preocupe , si es por tema de intermitencias podemos configurar su equipo , eso se puede resolver sin problema , pero no podemos hacer que en su test de velocidad le dé los megas completos por WiFi, es imposible de garantizar el 100 % asi por WiFi			
 -	al pasar su datos veo la disponibilidad de horarios			
--	¿ ya se apago el modem , revise por favor ?			
--	el decodificador en la parte de arriba tiene un boton de mute. ¿ esta activo el mute ?			
+-	¿ ya se apago el modem , revise por favor?			
+-	el decodificador en la parte de arriba tiene un boton de mute. ¿esta activo el mute?			
 -	El cambio de domicilio no tiene costo y para que se lleve a cabo usted deberá de llevar sus equipos con el cable de luz únicamente , al nuevo domicilio.			
 -	Si no enciende el decodificador únicamente ayúdenos en cambiarlo de contacto de pared por favor			
 -	me envia una captura de las redes WiFi que ve su equipo celular , imagen completa sin recortar por favor			
@@ -457,19 +461,20 @@ Seleccione "Información del sistema".
 -	Así es, ese cable es un consumible por parte del cliente cuando se necesite cambiar por cualquier razon , corre por cuenta del cliente.			
 -	desconecté todos los demas equipos que estan conectados por cable ethernet, porque no puedo ingresar remotamente a su modem por una posible saturación.			
 -	proporcióneme la version de la app de Totalplay por favor, esta en su misma aplicación de Totalplay en la seccion de CUENTA (a lado de AYUDA) en la parte de abajo			
--	¿ donde tiene perdida de paquetes como hace esa prueba o lo detecta ? me envia una captura por favor			
--	¿ A cuantos metros necesita que le llegue el WiFi ? 			
--	¿El repetidor a cuántos metros está del modem principal?			
+-	¿ donde tiene perdida de paquetes como hace esa prueba o lo detecta? me envia una captura por favor			
+-	¿ A cuantos metros necesita que le llegue el WiFi? 			
+-	¿El repetidor a cuántos metros está del modem principal?
+-	¿la Smart TV a cuántos metros está de la modem?			
 -	para otros pisos no se puede garantizar una conexión estable			
--	¿ En este momento si puede navegar ? 			
+-	¿ En este momento si puede navegar? 			
 -	Es normal que tengan una temperatura, pero revisaremos la falla que esta presentando			
 -	¿ Cuando tienen algún error o falla usted reinicia el equipo?			
 -	La intención es porque vamos a activar un monitoreo para reportar esta falla a otra área.			
--	¿ Esto en cualquier película o serie de esa app ?			
+-	¿ Esto en cualquier película o serie de esa app?			
 -	aparte del reinicio qué otra prueba usted hace por su parte 			
--	¿ el repetidor lo tiene conectado mediante cable ethernet o lo tiene inalámbrico. ?			
+-	¿ el repetidor lo tiene conectado mediante cable ethernet o lo tiene inalámbrico?			
 -	Vamos a cambiar la contraseña a root y admin para poder ingresar el modem ¿ está de acuerdo?			
--	¿ en el portal si puede iniciar sesión ? www.mitotalplay.com.mx			
+-	¿ en el portal si puede iniciar sesión? www.mitotalplay.com.mx			
 -	Por seguridad ya no podemos ver la contraseña que tiene actualmente. ¿Será necesario cambiarla, está de acuerdo?			
 -	Le pido sinceras disculpas No puedo llamar por teléfono. la atención es solo por aqui WhatsApp , si gusta por telefono llame al 800 510 0 510		
 -	¿En qué equipo tiene esta falla, qué quiere conectar a WiFi?			
@@ -482,38 +487,39 @@ Seleccione "Información del sistema".
 -	Por temas de seguridad del modem no podemos ver la contraseña que tiene actualmente. Si nunca la cambió, debe ser la que está abajo del modem escrito en la etiqueta.			
 -	¿La falla solamente la tienen ese equipo?			
 -	Revise si ya le aparece la red de WiFi por favor			
--	¿ Ya no usa o no tiene ese número ?
+-	¿ Ya no usa o no tiene ese número?
 -	¿ La falla es por wifi o por cable ethernet?			
--	¿ Alguna duda con la información proporcionada ?
+-	¿ Alguna duda con la información proporcionada?
 -	🕐 ¿ Alguna duda con la visita tecnica o en que le puedo apoyar?			
--	en llamadas de salida ¿ tiene una falla ?			
--	en llamadas de entrada ¿ tiene una falla ?			
+-	en llamadas de salida ¿ tiene una falla?
+-	¿puede hacer llamadas a otros números?			
+-	en llamadas de entrada ¿ tiene una falla?			
 -	No se preocupe lo solucionamos, pero contáctenos cuando llegue por favor.			
 -	es un tema de configuración, necesitamos que esté en casa para que nos ayuden a hacer unas pruebas, por favor.			
 -	¿ Los demas botones de control sí funcionan?			
--	¿Algunos botones sí funcionan y otros no.?			
+-	¿Algunos botones sí funcionan y otros no?			
 -	Conecte un celular a la red 5 g por WiFi y hagamos una prueba de velocidad en la página de fast para comparar los resultados, por favor.			
 -	Para desactivar el desvío de llamadas correctamente es levantando la bocina de tu teléfono como si quisiera hacer una llamada y va poner lo siguiente: #72# Va a escuchar la grabación que el servicio ha sido desactivado.			
 -	El folio no se ha cerrado todavía está en proceso, Espere la llamada de los técnicos nuevamente. O revise en la aplicación en la parte de estatus de visita la info del tecnico			
 -	inténtelo si tiene algún inconveniente, mándennos captura para ayudarle.			
--	¿ tiene cable RCA que pueda conectar ?			
+-	¿ tiene cable RCA que pueda conectar?			
 -	Desde configuraciones de WiFi del celular, no de la aplicación, en WiFi está el listado de las redes que ve su equipo. por favor			
--	¿ tiene otro cable hdmi ?			
+-	¿ tiene otro cable hdmi?			
 -	Realice de nuevo un test de velocidad en fast.com			
 -	conecte solamente un teléfono directamente a nuestro módem, por favor.			
 -	en cuanto tenga la oportunidad de conectar otro cable HDMI hágalo y reinicie el decodficador si la falla continúa contáctenos por favor			
 -	Si hay alguien en casa que nos lo reporte por favor para darle seguimiento y que la comunicación sea más fluida.			
--	¿ Sí puede tener acceso a las demas aplicaciones si , las puede abrir ?			
+-	¿ Sí puede tener acceso a las demas aplicaciones si , las puede abrir?			
 -	intente agendar desde la aplicación si tiene algún inconveniente, mándenos captura del error y la ayudamos en hacer el reporte			
 -	Asegúrese que no esté conectada en una extensión de luz por favor			
--	Estando a un lado del modem. ¿ también falla el WiFi ?			
+-	Estando a un lado del modem. ¿ también falla el WiFi?			
 -	Me corrobora su dirección completa, por favor.			
 -	 no se va a poder configurar con su red con la app por el tipo de seguridad que presentan estos módems. Es por eso que le aparece la información del modelo anterior. Más adelante va a haber una serie de actualizaciones que se va a poder vincular con la app y ya le va a poder aparecer la información en la aplicación de este modelo.			
--	¿ Se refiere de que no responde a los comandos de voz ?		
+-	¿ Se refiere de que no responde a los comandos de voz?		
 -	para vincular repetidor , conectelo acerca del modem y haga lo siguiente , presione del modem (caja blanca con antenas ) el boton WPS unos segundos sin soltarlo presione del repetidor el boton que tiene un circulo de en frente unos segundos tambien (el foco del repetidor tiene que estar en blanco)			
 -	por favor, las entre calles, referencias y un número de teléfono para poder contactar			
 -	una disculpa por el tiempo de espera, vamos a continuar			
--	¿ metros en otro piso de la casa ?			
+-	¿ metros en otro piso de la casa?			
 -	Cuando quiera cambiar el nombre de la red de la contraseña, contáctenos por favor.			
 -	 esa de club WiFi por el momento bórrela para que no se conecte si esta en casa			
 -	Por tema de mi sistema, no podemos escuchar audios 			
@@ -566,7 +572,8 @@ Seleccione "Información del sistema".
 -	se aplico una actualización en el modem que le hacía falta, no se la habían aplicado 			
 -	Los tecnicos ya están atendiendo al cliente en sitio			
 -	No tiene ningún costo, no se preocupe			
--	Listo ya reagendé la visita para 			
+-	listo ya reagendé la visita para 
+-	listo se actualizo la informacion en el sistema 		
 -	¿Alguna vez cambió la contraseña de internet?			
 -	¿Tiene algun tipo de repetidor instalado en casa?			
 -	Es un tema de configuración únicamente en ese equipo celular para que revise sus configuraciones, ya que internet sí hay en casa.			
@@ -575,7 +582,9 @@ Seleccione "Información del sistema".
 -	Después del conteo, si no le llega el código por whatsapp dele en la opción otras formas de envío para que le llegue el código por SMS.			
 -	no , desde nuestra área de trabajo van a corregir esa falla remotamente			
 -	No detecto el cable de internet el decodificador conectado ayúdame con lo siguiente,			
--	Me envia un video de como se esta presentando la falla en este momento por favor 		
+-	Me envia un video de como se esta presentando la falla en este momento por favor
+-	Me envia un video de tres canales diferentes para que pueda corroborar el audio e informacion del canal, voy a generar su reporte 
+		
 -	solo tiene tres decodificadores y solo tiene 2 cables , deberiamos de ver tres cables conectados, posiblemente solo se desconecto , puede revisar donde esta ese cable faltante por favor			
 -	Desde nuestra aplicación de teléfono totalplay trate de realizar una llamada , por favor.		
 -	¿Puedes cambiarla desde la aplicación?			
@@ -604,13 +613,13 @@ Seleccione "Información del sistema".
 -	>Escriba ipconfig /all le da enter y envie captura completa por favor			
 -	>En la ventana negra escriba tracert espacio y la página reportada			
 -	>Ahí mismo por favor escriba nslookup espacio y la página reportada por favor			
--	>Ahora en su navegador cierre todas las pestañas y páginas , para evitar información no solicitada en las capturas , va a abrir Google Chrome y le va a dar clic derecho sobre la página y seleccionar inspeccionar por favor			
--	>Se abrirá una pestaña emergente del lado derecho en modo programador, va a seleccionar network, después dar clic en el buscador de Google ( barra de direcciones del lado izquierdo arriba ) y va a escribir la página que no tiene acceso			
--	>Ahora de clic por favor a la flecha que apunta hacia abajo es un botón para descargar el archivo .HAR descárguelo y guárdelo en su computadora , para que me pueda enviar el archivo			
+-	>Ahora en su navegador cierre todas las pestañas y páginas , para evitar información no solicitada en las capturas , va a abrir Google Chrome y le va a dar click derecho sobre la página y seleccionar inspeccionar por favor			
+-	>Se abrirá una pestaña emergente del lado derecho en modo programador, va a seleccionar network, después dar click en el buscador de Google ( barra de direcciones del lado izquierdo arriba ) y va a escribir la página que no tiene acceso			
+-	>Ahora de click por favor a la flecha que apunta hacia abajo es un botón para descargar el archivo .HAR descárguelo y guárdelo en su computadora , para que me pueda enviar el archivo			
 -	Este mismo control remoto que no funciona. Llévelo a otra de recamara en otra televisión y díganme si responde el decodificador.			
--	Puede crear una Apple ID desde su dispositivo iOS o desde la página web de Apple. En tu dispositivo iOS, ve a Configuración | Iniciar sesión en tu iPhone | No tengo un ID de Apple o he olvidado y sigue las instrucciones. En la página web de Apple, ve a appleid.apple.com y haz clic en "Crear tu ID de Apple". Luego sigue las instrucciones para completar el proceso por favor 			
+-	Puede crear una Apple ID desde su dispositivo iOS o desde la página web de Apple. En tu dispositivo iOS, ve a Configuración | Iniciar sesión en tu iPhone | No tengo un ID de Apple o he olvidado y sigue las instrucciones. En la página web de Apple, ve a appleid.apple.com y haz click en "Crear tu ID de Apple". Luego sigue las instrucciones para completar el proceso por favor 			
 -	estoy monitoreando su equipo, veo que no está recibiendo toda la intensidad de la señal WiFi. ¿Podría confirmar si se encuentra en un piso diferente al del módem?		
--	Todo esta bien ya pasé la información para seguimiento de su visita técnica. Vamos a agilizarla			
+			
 -	Me puede confirmar también el código postal por favor			
 -	¿Alguna duda o algo más que pueda ayudar?			
 -	telefono de Netflix 800 9531430			
@@ -650,29 +659,22 @@ Seleccione "Información del sistema".
 -	¿Tiene mensaje de adeudo?			
 -	¿Tiene datos móviles para poder continuar con la conversación?			
 -	Desde la aplicación principal de totalplay (es el que tiene triangulo de colores) desde ahi puede recuperar o cambiar la contraseña			
--	Le puede tomar una foto para corroborar la instalación que le dejaron los técnicos por favor			
--	Tome una foto de como están las conexiones en el módem por favor
--	Tomé una foto de cómo se ve el cable por favor para agregarlo a su reporte			
-				
--	Debido a una actualización en la parrilla de programación, ya no contamos con algunos canales disponibles, por derechos de transmisión, lamentamos el inconveniente ocasionado, sin embargo; contamos con nuevas opciones para ti, se han agregado a nuestra parrilla más canales como lo son 448 con cine latino, 241 Show Bussiness, 528 World fishing premium, 220 Rai World Premium, 610 Rai News, 240 Pasiones, y 252 Kanal D Drama, esto no afectara el monto de tu factura			
--	Para garantizar una conexión a esa distancia, es recomendable un repetidor de señal de wifi o mover el módem de lugar
--	
--	
--	
--				
--				
--	Le pido sinceras disculpas por la molestia ocasionada /			
--	Espere a que el técnico se comunique con usted, no se preocupe / 	 		
--	Lamento la molestia pero es para garantizar la visita técnica / 			
--	Lamento la molestia ya me estan apoyando con su visita tecnica / 			
--	No se preocupe entiendo la situacion , voy a ayudarle rápidamente / 			
--	no se preocupe, lo solucionaremos. Ayúdeme con la información por favor / 			
--	No se preocupe, se van a volver a comunicar con usted, el folio no se ha cerrado, sigue el mismo / 			
--	Entiendo su molestia, no se preocupe. Nos encargaremos de darle seguimiento a su visita técnica / 			
--	Entiendo la situación y me pongo en su lugar más porque se ve que va bien en los pagos pasaré el reporte como incumplimiento para que nos puedan atender lo más rápido posible / 			
--	entiendo la situación es mucho tiempo , vamos a estar al pendiente de esta situación, pasé estos comentarios y el reporte al área correspondiente /	
--	gracias por la información vamos a revisarlo rápidamente, permíteme un momento por favor / 			
--	ya lo reportamos para que nos den seguimiento y hagan algo al respecto / 			
+-	Le puede tomar una foto para corroborar la instalación que le dejaron los técnicos por favor 		
+-	Tome una foto de como están las conexiones en el módem por favor 
+-	Tomé una foto de cómo se ve el cable por favor para agregarlo a su reporte 		
+-	Para garantizar una conexión a esa distancia, es recomendable un repetidor de señal de wifi o mover el módem de lugar			
+-	Le pido sinceras disculpas por la molestia ocasionada /	
+-	Espere a que el técnico se comunique con usted, no se preocupe /	 		
+-	Lamento la molestia pero es para garantizar la visita técnica /		
+-	Lamento la molestia afortunadamente ya me estan apoyando con su visita tecnica /			
+-	No se preocupe entiendo la situacion , voy a ayudarle rápidamente /
+-	no se preocupe, lo solucionaremos. Ayúdeme con la información por favor /
+-	No se preocupe, se van a volver a comunicar con usted, el folio no se ha cerrado, sigue el mismo /
+-	Entiendo su molestia, no se preocupe. Nos encargaremos de darle seguimiento a su visita técnica /	
+-	Entiendo la situación y me pongo en su lugar más porque se ve que va bien en los pagos pasaré el reporte como incumplimiento para que nos puedan atender lo más rápido posible /
+-	entiendo la situación es mucho tiempo , vamos a estar al pendiente de esta situación, pasé estos comentarios y el reporte al área correspondiente /
+-	gracias por la información vamos a revisarlo rápidamente, permíteme un momento por favor /
+-	ya lo reportamos para que nos den seguimiento y hagan algo al respecto /
 -	¿ el titular tiene conocimieto de que se esta haciendo el cambio ?			
 -	le vamos a pedir que se comunique el titular para cambiar datos			
 -	¿ Puede agendar desde la aplicación ?			
@@ -689,19 +691,19 @@ Seleccione "Información del sistema".
 -	Un teléfono para contactar para su visita técnica
 -	Asegurese que el boton de encendido este hacia dentro por favor
 -	Asegurese que el cable de video esté bien conectado tanto atrás de la pantalla y atrás del decodificador.
--	Asegurese que el cable de Internet esté bien conectado tanto atrás del decodificador y del modem principal.
--	envíe foto o video de cómo está teniendo la falla en este momento			
+-	Asegurese que el cable de Internet esté bien conectado tanto atrás del decodificador y del modem principal		
 -	Dele "ok" para que le dé la opción de recuperar por medio del correo electrónico			
 -	Posiblemente vaya a desconectarse por un momento en lo que configuro el equipo
 -	¿A cuantos metros está el repetidor del módem principal?
 -	Ahora ese mismo cable va al modem (caja blanca) desconecte y conecte el cable de Internet por favor
 -	Ahora ese mismo cable va el módem (caja blanca) ¿ en que puerto esta conectado ?
 -	Ahora ese mismo cable va el módem caja blanca con antenas lo va a cambiar de lugar está conectada en LAN 	y lo va a conectar en LAN 	por favor
--	Lamentablemente no hay disponibilidad para hoy, pero ya pasé la información para que la visita sea lo más pronto posible, espere que el técnico se comunique con usted para ponerse de acuerdo en la hora de llegada
+-	Lamentablemente no hay disponibilidad para hoy 
 -	Por lo regular el cable que se entrega es para una conexión estándar no para veloces altas es simplemente para que el cliente pueda conectarse vía cable
 -	corrobore que el audio de la televisión esté al 100 por favor
 -	Conecte solo un teléfono al módem por favor y envie foto del telefono junto al modem 
--	Asegúrese que el botón de encendido del decodificador no esté pegado presiónelo por favor y verifique si se escucha el clic cuando lo presiona o si se apaga
+-	Asegúrese que el botón de encendido del decodificador no esté pegado presiónelo por favor y verifique si se escucha el click cuando lo presiona o si se apaga
+-	asegurese que se escucha el click cuando conecta el cable por favor
 -	Para brindarle la atención adecuada necesito un poco más de información sobre su módem esto me ayudará a realizar los procesos correctamente y garantizar una solución efectiva
 -	Asegurese que por favor esté sintonizado en la entrada correcta de HDMI y que el cable esté bien conectado tanto en la caja negra y atrás de la televisión por favor
 -	En este momento estamos presentando inconvenientes con nuestras herramientas y no podemos brindarle la atención completa, se espera el servicio se ha restablecido aproximadamente una hora, le sugiero volver a contactarlos más tarde, lamentamos las molestias y agradecemos su comprensión
@@ -714,18 +716,18 @@ Seleccione "Información del sistema".
 
 -	me envia un video de como están los focos del módem por favor
 -	Disculpe ¿ A qué se refiere que no agarra ? para darle la atención adecuada y que yo pueda aplicar bien los procesos dígame exactamente cómo es la falla por favor
--	Vamos a hacer varios pasos primero desconecte y conecte el cable de internet de ese decodificador ( caja negra ) por favor
+-	Vamos a hacer dos pasos primero desconecte y conecte el cable de internet de ese decodificador ( caja negra ) por favor
 -	Ahora ese mismo cable va al módem que tiene antenas, lo va a cambiar de lugar, dígame en qué puerto está y en cuál lo conectó por favor
 -	¿Que horario le dieron para su visita técnica?
 -	¿Como para poner un ejemplo la falla es en YouTube en Facebook?
 -	en la parte donde dice ocultar red cambielo a que diga visible y después en aplicar cambios por favor
 -	¿El cable de red se ve doblado o maltratado? envie foto de como se ve para agregarlo al reporte
 -	¿ como está el cable de red ? envie foto de como se ve para agregarlo al reporte
--	En caso que le pida contraseña va a poner la misma, de la contraseña no se le va a hacer ningún cambio
+-	En caso que le pida contraseña va a poner la misma, de la contraseña no se le realizó ningún cambio
 -	Voy a realizar el reporte a la dirección que me comenta pero es importante que se comunique al área de atención a clientes 800 510 0 510 para hacer la corrección de datos y así mismo poder garantizar esta visibilidad técnica
 -	¿Usted es representante legal de la empresa?
 -	Puedo continuar con la visita solo valido unos datos
--	¿son canales en vivo o canales repetidos?
+-	¿son canales en vivo o canales repetidos de anytime?
 -	Puede rentar el de totalplay por $69 al mes con $100 la instalación u obtener uno por su cuenta eso es completamente opcional
 -	El cambio de la contraseña se hace desde la aplicación de totalplay ¿ ya intentó hacerlo desde la aplicación?
 -	Los técnicos tratan de comunicarse por todos los medios posibles sea llamada, WhatsApp y en la aplicación de totalplay, pasaré el reporte
@@ -755,12 +757,12 @@ Seleccione "Información del sistema".
 -	Nosotros solamente somos un vínculo donde está facturando un servicio adicional, por seguridad nosotros no administramos las credenciales de acceso de estas plataformas
 -	al manipular el botón de mute en la pantalla aparecerá el micrófono si está prendido o apagado y cuando le esté dando una orden a Alexa asegúrese que no esté dentro de ninguna aplicación como YouTube
 -	¿Los leds del decodificador se ponen en rojo cuando dice la palabra Alexa ?
--	Lamentablemente, no podemos garantizar una conexión WiFi estable a esa distancia, ya que excede el alcance maximo indicado por las especificaciones del equipo. las indicaciones del producto, el módem tiene un alcance óptimo de hasta 8 metros en condiciones ideales
+-	 no podemos garantizar una conexión WiFi estable a esa distancia, ya que excede el alcance maximo indicado por las especificaciones del equipo. las indicaciones del producto, el módem tiene un alcance óptimo de hasta 8 metros en condiciones ideales
 -	Dele en la opción de desconectar todos los equipos de club wifi por favor
 -	esa falla es común cuando hay un problema en el voltaje. Asegúrese que no esté conectado en ninguna extensión y cámbielo de contacto de pared por favor y revise si prenden los demás focos
 -	Sintonice por favor en la entrada correcta, en la pantalla tiene que decir HDMI, apóyese con el control remoto de su televisión (no el de totalplay) presionando el botón de source o input y seleccione la entrada HDMI
 -	Gracias. Sin embargo, no se alcanza a apreciar con claridad todo el entorno de donde está ubicado para asegurarme de que esté bien ubicado. Podría enviarme una foto de un ángulo más amplio
--	ya pasé la peticion, sin embargo, debido a la hora no puedo garantizar que la visita se realice hoy mismo, quedamos atentos a cualquier actualización por parte del área correspondiente.
+
 -	Estoy detectado una incidencia en su servicio que requiere revisión por parte de un área especializada. Para brindarle la mejor atención, le recomendamos comunicarse directamente a nuestro centro de soporte técnico al 8005100510 . horario es de 9 am a 9 pm 
 
 -	En Totalplay solo brindamos soporte para los equipos que forman parte de nuestra red y han sido proporcionados por nosotros. No podemos garantizar la compatibilidad ni aplicar configuraciones en dispositivos de terceros como su repetidor debido a limitaciones técnicas y de seguridad en nuestra infraestructura. Le recordamos contactar al fabricante del equipo o proveedor donde lo adquirió para obtener asistencia específica.
@@ -781,12 +783,8 @@ Seleccione "Información del sistema".
 
 -	¿podrías confirmar si el inconveniente ocurre en todos los canales o solo en algunos específicos?
 -	No es común que a esa distancia tenga muy poca intensidad de señal
--	No hay disponibilidad, quiere visita técnica para mañana 8:00 a 16:00 
-
--	No hay disponibilidad, quiere visita técnica para mañana 14:00 a 21:00	
--	
--	
--	
+-	No hay disponibilidad, quiere visita técnica para 	8 00 a 4 00 pm
+-	No hay disponibilidad, quiere visita técnica para 	2 00 a 9 00 pm
 -	
 -	 *Para revisar el tema de intenret ayudeme con lo siguiente:		
 -	 ¿ cuantos equipos conecta al wifi ? *
@@ -795,10 +793,12 @@ Seleccione "Información del sistema".
 -	 ¿ La falla es solo por WiFi ? *
 -	 ¿ La falla es solo por cable ? *
 -	 ¿ Desde cuando comenzó la falla ? *
+-	 ¿ la falla solo esta en la Smart tv ?
+-	 ¿ la falla solo esta en la pc ?
 -	 ¿ Se conecta por WiFi o por cable de red ? *
 -	 ¿ el problema solamente es en ese equipo ? *
 -	 ¿ Sucede en todo momento o en ciertos horarios ? *
--	 ¿ cual es el nombre de su wifi que falla en su celular ? *
+-	 ¿ cual es el nombre de su wifi que falla ? *
 -	 ¿ El internet se cae completamente o solo se pone lento ? *
 -	 ¿ La señal de WiFi falla en alguna area específica de su casa ? *
 -	 ¿ el repetidor lo tiene conectado al modem por cable o por WiFi ?*
@@ -807,13 +807,14 @@ Seleccione "Información del sistema".
 -	 ¿ Cuál es la señal de wifi que falla, la del módem principal o la del repetidor ? *
 -	 ¿ Cuál es la señal de wifi que falla, la del módem principal o la del decodificador ? *
 -	 En el momento de la falla ¿ a cuantos metros esta del modem principal (caja blanca con antenas) ? *
--	 En el momento de la falla ¿ a cuántos metros está del decodificador (caja negra) ? *	
+-	 En el momento de la falla ¿ a cuántos metros está del decodificador (caja negra) ? *
+-	👍*	
 -	Permítame ayudarle, muchas veces no es necesario programar una visita técnica para resolver su problema.
 
 -	 El costo del servicio de Alexa con bocina integrada, tiene un costo de 299 pesos al mes.
 -	 ese número no esta registrado en el sistema
 -	 ¿ usted es titular de la cuenta para poder cambiar ese número y otorgar acceso a la aplicación Totalplay ?
--	 Lamentamos sinceramente el inconveniente que está experimentando. Desafortunadamente, no es posible bloquear las llamadas de entrada debido a las limitaciones actuales del servicio. Sin embargo, para solucionar esta situación, podemos ofrecerle cambiar su numero
+-	 no es posible bloquear las llamadas de entrada debido a las limitaciones actuales del servicio. Sin embargo, para solucionar esta situación, podemos ofrecerle cambiar su numero
 -	 monitoreando el servicio de televisión estoy detectando que hay una falla interna con el cable HDMI que esta provocando esta intermitencia, es necesario que lo cambie por favor
 -	asegúrese que no le esté dando una orden a alexa cuando está dentro de alguna aplicación ejemplo como Netflix o YouTube
 -	también colonia ciudad estado o municipio por favor 
@@ -824,20 +825,48 @@ Seleccione "Información del sistema".
 -	Podemos apoyarte en el cambio la informacion ¿Podrías compartirnos el motivo del cambio? Esto nos ayuda a garantizar que el proceso se ajuste a tus necesidades
 
 -	La aplicación de Totalplay no gestiona la información actual del módem en tiempo real; su función principal es permitir realizar ciertos ajustes. Si necesitas cambiar el nombre de la red o la contraseña, simplemente selecciona la red como esté en la aplicación y realiza los cambios desde ahí.
--	para conectarse a la red Club wifi le sugiero que desde la aplicación de totalplay desactive y active el servicio de club wi-fi por favor para que de esa manera le pida accesos nuevamente en esta red
--	envíe captura de cómo lo esta haciendo para agregarlo en su reporte
+-	para conectarse a la red Club wifi le sugiero que desde la aplicación de totalplay desactive y active el servicio de club wifi por favor para que de esa manera le pida accesos nuevamente en esta red		envíe captura de cómo lo esta haciendo para agregarlo en su reporte
 
 -	borre su red y vuelva a seleccionar la red de club wifi para validar si le pide accesos como cuando ingresa en la app de totalplay
 -	intente con otro equipo conectar a la red de club wifi por favor
 
--	¿en los canales de anytime ( repetidos) tiene audio?
+-	¿en los canales repetidos de anytime tiene audio?
 -	dígame algunos canales que no tienen audio por favor
 -	si no tiene audio en algunos canales presiona el botón de Ok y Desactive el sistema dolby Por favor
 -	Para poder identificar el problema, ¿me confirma si al presionar algún botón en el control, la luz que parpadea pertenece al control remoto o al decodificador?
--	
--	
--	
--	
+-	¿ es para ingresar a la app de Totalplay ?
+-	si gusta le podemos ofrecer un paquete que se acomode más a sus necesidades
+-	¿quiere conservar la promoción de los tres meses ?
+-	El cambio de equipo no tiene costo
+-	El cambio de domicilio no tiene costo
+-	la aplicación de Totalplay no presenta fallas en el sistema de pagos por el momento. Si estás experimentando algún inconveniente al realizar un pago, podría tratarse de un bloqueo de seguridad por parte de tu banco, una restricción en tu tarjeta, o un problema de comunicación entre entidades financieras
+-	por el momento hya una falla a nivel general en la configuración de la red 5G, lo que puede afectar el rendimiento del servicio. Nuestro equipo técnico ya está trabajando para resolverlo lo antes posible
+-	Activación es en el portal de mi totalplay, seleccionando el apartado de mi cuenta/paquete/ seleccionar la ficha de la app a activar y seleccionar confirmar para realizar la activación
+-	el banner para activar la aplicación se encuentra en el apartado de paquetes
+-	la contraseña de su red WiFi está protegida con encriptación de seguridad, lo que significa que no es posible obtenerla por otros medios.
+-	¿ quiere que le cambie la contraseña para que se le haga mas fácil la conexión ?
+-	¿ se refiere al decodificador ? caja negra
+-	¿ se refiere al modem ? caja blanca con antenas
+-	dele en la opción de más información por favor y envie foto
+-	ahora dele en restablecer para que le pide de nuevo los datos por favor
+-	dele en "Mostrar más información" por favor
+-	revise con otro equipo por favor
+-	quite ese adaptador de doble linea telefónica y conecte solo un teléfono
+-	envie foto del cable cortado y dígame cómo está el foco que dice LOS por favor	
+-	Asegurese de que cuando le esté dando una orden a Alexa, no esté dentro de ninguna aplicación, como Youtube o Netflix.
+-	¿qué número de celular esta colocando?
+-	¿tiene teatro en casa o bocinas externas conectadas?
+-	Por disponibilidad, el horario de 8am a 4pm presenta error, sería de 2pm a 9pm. ¿esta bien este horario u otro día?
+-	Por disponibilidad, el horario de 2pm a 9pm presenta error, sería de 8am a 4pm. ¿esta bien este horario u otro día?
+-	el técnico es quién va a gestionar los cambios necesarios
+-	para iniciar sesión en Max, es ingresar a su página web y en la sección de inicio de sesión, seleccionar la opción de acceso por proveedor. Luego, elija Totalplay como su proveedor y siga los pasos para completar el acceso
+-	soporte técnico es las 24 horas
+-	En cuanto tenga la información, no dude en contactarnos. Soporte técnico está disponible las 24 horas para ayudarle
+-	En cuanto pueda hacer las pruebas, no dude en contactarnos. Soporte técnico está disponible las 24 horas para ayudarle
+-	El servicio de mensajería utilizado por Totalplay se llama AMPM, y aunque generalmente realiza entregas en tiempo y forma, en ocasiones puede haber pequeños retrasos ajenos a nuestro control. Ya he compartido su caso para que reciba el debido seguimiento. Su control remoto debería llegar en un plazo no mayor a 24 horas.
+-	solo para confirmar que el cable de fibra optica dentro de su domicilio esté en buen estado. En la calle suele haber muchos cables y conexiones de otros vecinos, lo que puede generar confusión. Si ya ha confirmado con certeza cuál es su cable, entonces podemos continuar con el proceso sin problema
+-	La cuenta nos aparece como redimida, es decir, ya se encuentra activa. Para acceder correctamente al servicio, es necesario verificar los datos de inicio de sesión directamente en la plataforma correspondiente		. Esto permitirá validar que se esté utilizando la cuenta asociada de forma adecuada
+
 -	
 -	 <  Reporta fallas con el servicio de INTERNET pero no responde el sondeo			
 -	 <  Reporta fallas con el servicio de TELEVISION pero no responde el sondeo			
@@ -845,32 +874,27 @@ Seleccione "Información del sistema".
 -	 <  Reporta fallas con el CONTROL REMOTO pero no responde el sondeo			
 -	 <  Reporta que no tiene NINGUN SERVICIO pero no responde el sondeo			
 -	 <  Quiere cambio de CAMBIO DE CONTRASEÑA al proporcionar informacion no responde
--	 <  Quiere inforacion de su VISITA TECNICA, pero el cliente no responde el chat para confirmar
+-	 <  Quiere informacion de su VISITA TECNICA, pero el cliente no responde el chat para confirmar
 -	 <  Quiere actualizar el número para la APLICACCION pero no responde datos de seguridad
 -	 <  Reporta CORTE FIBRA OPTICA al proporcionar la informacion ya no responde 
-
--
--
--
--
--
--
 -
 -	Por fallas en salesforce SF no se pudo continuar con la conversacion con el cliente, se pasa plantilla de fallas a bitacora de supervisor 
 -	Se transfiere el chat supervisor para atender llamadas.			
--	Se valida que es una cuenta empresarial, se da el teléfono para que se comunique en el área correcta. Enlace 			
+-	Se valida que es una cuenta empresarial, se da el teléfono para que se comunique en el área correcta. Enlace 		
 -	no esta registrado en iptv // se genera inconsistencia y se pasan datos a gestor para stb correctamente			
--	 Se transfiere a ATE quiere cancelar // no quiere soporte// no quiere sesion de derechos // se pasan datos de seguridad , atencion especial			
+-	 Se transfiere a ATE quiere cancelar // no quiere soporte// no quiere sesion de derechos // se pasan datos de seguridad , atencion especial
 -	 Se transfiere a SAC // cambio de DN			
--	 Se transfiere a SAC // el pago no esta reflejado			
--	 Se transfiere a SAC // por contratacion de adicionales			
--	 Se transfiere a SAC // quiere cancelar adicionales			
--	 Se transfiere a SAC // quiere cambio de plan			
--	 Se transfiere a SAC // quiere cambio de domicilio			
--	 Se transfiere a SAC // seguimiento a portabilidad			
--	 Se transfiere a SAC // no han ido a instalar el servicio			
+-	 Se transfiere a SAC // el pago no esta reflejado
+-	 Se transfiere a SAC // por contratacion de adicionales
+-	 Se transfiere a SAC // quiere cancelar adicionales
+-	 Se transfiere a SAC // quiere cambio de plan
+-	 Se transfiere a SAC // quiere cambio de domicilio
+-	 Se transfiere a SAC // seguimiento a portabilidad
+-	 Se transfiere a SAC // no han ido a instalar el servicio
 -	 Se transfiere a SAC // por tema de aclaraciones
--	 Se transfiere a SAC // Quiere realizar el pago en línea	
+-	 Se transfiere a SAC // Quiere realizar el pago en línea
+-	
+-	/ Se corrobora que el cable de fibra optica está dañada.
 -	/ Reporta: no tiene ningun servicio / tiene PON parpadeando / se aplica reaprovisionamiento			
 -	/ Reporta: sin llamadas de entrada , tiene activo desvio de llamadas / se indica como desactivar el servicio digital solucion: si, ya entran llamadas			
 -	/ Reporta: quiere activar desvio de llamadas / ts: se indica como activar y desactivar el servicio digital solucion: si 			
@@ -893,17 +917,16 @@ Seleccione "Información del sistema".
 -	 / Reporta: sin ningun servicio /ts realizado: se valida que ya tiene folio de visita tecnica por fallas para hoy __ /se le pide tiempo de espera, la visita esta dentro de tiempo /			
 -	 / Reporta: quiere saber informacion de la visita técnica / ts realizado: tiene folio de visita tecnica sin agendar, se agenda a la fecha mas proxima __ / se corrobora que los datos de contacto estan correctos , se pide tiempo de espera folio no agendada			
 -	 / Reporta: quiere cambiar la fecha de la visita tecnica /ts realizado: a peticion del cliente se reagenda la visita para __ / se corrobora que los datos de contacto estan correctos /se soluciona:si			
--	 / Reporta: no fueron los tecnicos en el horario acordado/ ts realizado: se valida que no respondio,no lo localizaron, se corrobora el dn de contacto correcto/se re agenda a la fecha mas proxima __ ilocalizable			
--	 / Reporta: no fueron los tecnicos en el horario acordado/ ts realizado: se valida que no hay info en historial de chat o en dash/ se valida dn de cotacto correcto / se re agenda a la fecha mas proxima __ incumplimiento de dia			
--	 / Reporta: quiere estatus de visita técnica/ts realizado: el folio de visita tecnica por fallas para hoy __, se le pide tiempo de espera, la visita esta dentro de tiempo. status de visita
--	 / Reporta: quiere estatus de visita técnica/ts realizado: el folio de visita tecnica por fallas para mañana __, se le pide tiempo de espera, la visita esta dentro de tiempo. status de visita			
--	 / Se pasa información a supervisor para agilizar visita técnica, ya que no hay disponibilidad
--	 / Se pasa información a supervisor para cancelar visita técnica reporta que el servicio ya está funcionando correctamente. Potencia correcta
--	 / Se pasa información a supervisor no desea servicio adicional	
+-	 / Reporta: no fueron los tecnicos en el horario acordado/ ts realizado: se valida que no lo localizaron, se corrobora el dn de contacto correcto/ 	se re agenda a la fecha mas proxima _ ilocalizable			
+-	 / Reporta: no fueron los tecnicos en el horario acordado/ ts realizado: se valida que no hay info en historial de chat o en dash/ se valida dn de cotacto correcto / se re agenda a la fecha mas proxima _ incumplimiento de dia			
+-	 / Reporta: Estatus de visita técnica / ts realizado: el folio de visita tecnica por fallas para hoy	, se le pide tiempo de espera, la visita esta dentro de tiempo. status de visita
+-	 / Reporta: Estatus de visita técnica / ts realizado: el folio de visita tecnica por fallas para mañana 	, se le pide tiempo de espera, la visita esta dentro de tiempo. status de visita			
+
+-	 / Reporta: quiere cancelar visita / Se pasa información a supervisor para cancelar visita técnica reporta que el servicio ya está funcionando correctamente. Potencia correcta	23
 -	 / Reporta: no cambia el stb con el control remoto /ts realizado: /se presiona el boton de stb del control remoto para sincronizar / se soluciona: si MAC: __			
--	 / Reporta: intermitencias en sus servicios / ts realizado: niveles de potencia incorrecto _28.00 /se envia visita tecnica /se anexa evidencia /Horario de visita: PENDIENTE /se soluciona: no 			
+		
 -	 / Reporta: quería saber informacion de su visita técnica pero durante la interacción el cliente recibió llamada del técnico			
--	 / Reporta: Ya no quiere la visita técnica el servicio está funcionando perfectamente se valida potencia dentro de rango _22 / se pasa datos a supervisor para dar de baja el folio de visita 			
+-	 / Reporta: Ya no quiere la visita técnica el servicio está funcionando se valida potencia dentro de rango 22dbm / se pasa datos a supervisor para dar de baja el folio de visita		
 -	 / Reporta: el cable de fibra óptica está muy colgado corre riesgo a quedarse sin servicio / ts : manda la evidencia , por atención se envía visita técnica para evitar un corte de fibra óptica / Horario: pendiente / Potencia: _20			
 -	 / Reporta: No puede ingresar a configuraciones del módem se aplica reseteo a las credenciales de la ont. Se pide el sn como metodo se seguridad, se valida que ya puede ingresar con root y admin			
 -	 / Reporta: quiere las credenciales de la ont . Se pide el sn como metodo se seguridad, se indica que es con root y admin , se valida acceso correcto 			
@@ -916,34 +939,16 @@ Seleccione "Información del sistema".
 -	 / Reporta: tiene fallas en su servicio de tv _ durante el sondeo no presenta la falla, el cliente reinicio la stb Se le sugiere que no reinicie el equipo y se comunique en el momento de la falla
 			
 -	 / Reporta que tiene CFO, confimra LOS en rojo, se le indica que es necesario generar la visita técnica desde la aplicación, se le indica los pasos a seguir.			
--	 / Reporta: no tiene servicios , pon parpadea se revisa que la ont está cancelada esto fue por cambio de plan se aplica reaprovisionamiento / soluciona: si 			
+-	 / Reporta: no tiene servicios , pon parpadea se revisa que la ont está cancelada esto fue por cambio de plan se aplica reaprovisionamiento / soluciona: si 
+-	 / Reporta: no tiene servicios , pon parpadea se revisa que la ont está cancelada se descarta cambio de plan se aplica reaprovisionamiento / soluciona: si 				
 -	 / Reporta: presenta fallas en su serivicio _ / no esta en sitio llamara despues / Solucion: no 			
 -	 / Reporta: sin linea de telefono / ts realizado: se valida que tiene linea ociosa / se activa desde dashboard / se soluciona: si			
--	 / Reporta: Tiene mensaje de adeudo cuando quiere navegar se valida que el saldo está en ceros se desenruta desde ux y se aplica reaprovisionamiento el cliente ya navega			
--	 / Reporta: falla en su servicio __ / ts realizado: Quiere cambio de equipo __ / tiene fallas se corrobora antiguedad del equipo __ / se hace el cambio sin costo a petición del cliente por atención se validan datos de seguridad es el titular			
+-	 / Reporta: Tiene mensaje de adeudo cuando quiere navegar se valida que el saldo está en ceros se desenruta desde ux y se aplica reaprovisionamiento el cliente ya navega						
 -	 / reporta falla en servicio de television / ts : Se detecta que el cable de red presenta infiltración de agua, lo que podría estar afectando la conectividad. Es necesario revisar el sellado de las conexiones y reemplazar el cable si es necesario para evitar futuras interrupciones en el servicio de envía visita técnica			
--				
--	 			
--	 > Se explica el porqué de la perdida de megas , Se indica que es necesario hacer la prueba por cable ethernet			
--	 > Se detecta que es saturación, tiene indicadores en rojo está creando loop . Al desconectar equipos ajenos al servicio al servicio se restablece, se pide revisar sus conexiones , potencia correcta _20dbm , navegacion correcta			
--	 > se corrobora que usa el internet en otros pisos de la casa , se recomienda un repetidor de señal de wifi 			
--	 > se valida que usa la red 2.4g se pide usar mejor la 5g mejora la conexion y velocidad		
--	 > Se detecta que el wifi lo utiliza en otro piso se indican las características del modem se ofrece un repetidor de wifi El cliente lo va a revisar por su cuenta
-	
--	 > Se detecta que es por la distancia estando a un lado del módem aumenta la intensidad de la señal y la velocidad en megas			
--	 > se autoriza con supervisor de mover el pin ya que no se ubica correctamente el domicilio
--	 / Reporta que un canal de Anytime se ve pixeleado los demás canales se ven bien, se indica que ese canal no se grabó correctamente Se le pide tiempo de espera
--	/ Reporta que no tiene audio en algunos canales Se le pide Desactivar sistema dolby se soluciona MAC :			
--				
--				
--				
--	Se requiere de la reubicación del equipo ya que se ha tenido fallas con el servicio de wifi se corrobora que el módem no está en una buena ubicación para la distribución de señal en su casa, el cliente no lo puede mover a una mejor ubicacion. 
--	Se requiere de una reubicación del módem ya que se encuentra a baja altura con objetos que obstruyen la señal, el cliente no lo puede mover a una mejor ubicacion. Para una mejor distribución de señal de wifi se recomienda que esté en lo alto en la pared sin nada que tape la señal
-			
--	Reporta en la pantalla mensaje dispositivo previamente registrado código 10			
--	/ Reporta que ya lo atendieron al cliente por teléfono no desea la atención por chat		
--	/ Reporta que no navega. Se detecta saturación ya que tiene indicadores en rojo y equipos conectados por cable ethernet Se le pide desconectar los equipos para hacer un monitorio por el cliente ya NO RESPONDE 
-			
+-	/ Reporta: tiene mensaje de problema de conexión , se conecta bien el cable de red en la ont se soluciona Mac:
+-	 / Reporta que un canal de Anytime se ve pixeleado los demás canales se ven bien, se indica que ese canal no se grabó correctamente Se le pide tiempo de espera mac:
+-	/ Reporta que no tiene audio en algunos canales Se le pide Desactivar sistema dolby se soluciona MAC :		
+-	/ Reporta que ya lo atendieron al cliente por teléfono no desea la atención por chat				
 -	/ Reporta que tiene todos los canales bloqueados es porque está en el perfil de niños se indica cómo cambiarse al perfil principal mac: 
 -	/ Reporta intermitencias en el Wifi, se valida que está catalogado como consumo excesivo de megas. Se da el teléfono para que se comunique al área especializada.
 -	/ Reporta tono de ocupado. El número que aparece en Dashboard no coincide con el que está en UX / se aplica reaprovisionamiento se soluciona.
@@ -951,6 +956,30 @@ Seleccione "Información del sistema".
 -	/ Reporta mensaje de intermitencia solar, se explica la información que es un evento natural, se le pide tiempo de espera.
 -	/ Reporta pantalla negra multicast , no tiene direccionamiento en la 402 se aplica reaprovisionamiento se soluciona mac: 
 -	/ Reporta que al Ingresar a YouTube de la aplicación del stb se queda cargando se descarta fallas con el internet se reinicia el stb se soluciona MAC:
+-	/ Reporta problema de conexión con un decodificador se conecta bien el cable de red en la ont y stb se soluciona
+
+-	/ Repota que no tiene línea tiene un teléfono inalámbrico y el display dice error	 // los pots están correctos se le pide conectar otro equipo y otro cable queda pendietne
+-	/ Repota que no tiene línea tiene un teléfono alambrico y el display dice error 	// los pots están correctos se le pide conectar otro equipo y otro cable queda pendietne
+-	/ Reporta LOS en rojo Se le pide reiniciar el módem y revisar que esté bien conectado el cable de fibra óptica se restablece Potencia de -20
+-	/ Reporta: no me puede conectarse a la red de club wifi se pide hacerlo desde el portal para desactivar y activar el servicio y cambiar la contraseña
+-	/Reporta: Quiere dar seguimiento a la visita tecnica 		/ Se le pide tiempo de espera el folio está en proceso aún no hay disponibilidad se agrega la información de noticias se solicita visita 
+
+-	 ** Se explica el porqué de la perdida de megas por wifi, Se indica que es necesario hacer la prueba por cable ethernet			
+-	 ** Se detecta que es saturación, tiene indicadores en rojo está creando loop . Al desconectar equipos ajenos al servicio al servicio se restablece, se pide revisar sus conexiones , potencia correcta _20dbm , navegacion correcta			
+-	 **se corrobora que usa el internet en otros pisos de la casa , se recomienda un repetidor de señal de wifi 			
+-	 ** usa la red 2.4g se pide usar la 5g mejora la conexion y velocidad
+-	 ** se corrobora que el cable de internet en el módem está conectado Lan 4 se pide conectarlo correctamente en lan 1 ya tiene internet		
+-	 ** el wifi lo utiliza en otro piso , se ofrece un repetidor de wifi El cliente lo va a revisar por su cuenta	
+-	 **se detecta saturación en su dispositivo Ya que en otros equipos sí tiene más megas
+ 	se pide que revise sus configuraciones
+-	 ** se vincula de nuevo el repetidor extender con el modem
+		se reinicia extender
+		se reinicia ont 
+		se aplica reset al repetidor, se inicia el proceso de configuracion , se soluciona
+
+-	 ** Se detecta que el cable que tiene conectado en la pc es 100 fd se recomienda que sea de 1000 fd para que lo cambie , queda pendiente
+
+-	 ** se pide reubicar la ont en lugar mas alto para mejorar distribucion de seña de wifi
 -
--	👍***
+
 -	Me ayudan en firmar por favor la visita técnica el cliente no quería hacer pruebas 
