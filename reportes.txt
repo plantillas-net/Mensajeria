@@ -22,20 +22,18 @@ Internet
 Quién se comunica: 
 Error que presenta al navegar: 
  
-**lentitud en wifi tiene pocos  megas, tarda en cargar contenido en la ONT  STB 
-
-**intermitencias, se desconecta muchas  veces  del wifi de la ONT  STB 
+** Lentitud en wifi tarda en cargar contenido en la ONT  STB
+** Intermitencias, se desconecta muchas  veces  del wifi de la ONT  STB
+** Tiene pocos megas
+** Falla con la señal de wi-fi extender 
  
-Dispositivo con falla (móvil / computadora): Celular 
-Tipo de conexión (cable / wifi): wifi 
+Dispositivo con falla: CELULAR
+Tipo de conexión: WIFI 
 potencia: -25 dbm 
 Páginas ejemplo de la falla o aplicaciones: fast.com,  youtube  , facebook 
-Motivo de la falla:
-**estaba en canal saturado 
 Con que paso se dio solucion:
-** se reinicia wlan mejora la conexion y velocidad 
+** se reinicia ont mejora la conexion y velocidad 
  
-
 +
 
 Internet ONT  WIFI WLAN APAGADO solucion en linea_ 
@@ -377,8 +375,7 @@ SIN LINEA / FALLA EN PUERTO VISITA TECNICA _
 SIN LINEA / FALLA EN PUERTO VISITA TECNICA 
 
 Quien llama: 
-Reporta: sin linea de telefono, levanta la bocina no 
-escucha nada 
+Reporta: sin linea de telefono, levanta la bocina no escucha nada 
 ts realizado: 
 pots correctos -- 
 se le pide cambiar el cable y el telefono 
@@ -491,8 +488,8 @@ se soluciona: no
 
 +
 
-No enciende ONT _
-No enciende ONT 
+No enciende ONT visita_
+No enciende ONT visita 
 
  Quien llama: 
 Reporta: no enciende ont 
@@ -504,7 +501,9 @@ no enciende se envia visita tecnica
 horario de visita: pendiente 
 potencia: no tiene potencia 
  
------------------------------------- 
++
+
+ No enciende ONT solucion en linea_
  
 Quien llama: 
 Reporta: no enciende ont 
@@ -515,7 +514,7 @@ solución : si
 
 +
 
-No enciende STB _
+No enciende STB visita _
 No enciende STB 
 
 Quien llama: 
@@ -530,8 +529,10 @@ amarres: no es posible validar
 version: no es posible validar 
 middelware:  no es posible validar 
 se soluciona : no 
- 
------------------------------------- 
+
+ +
+
+No enciende STB solucion en linea_
  
 Quien llama: 
 Reporta: no enciende stb , led apagado 
@@ -541,7 +542,7 @@ se soluciona : si
 MAC:--
 
 +
-App Totalplay_
+App Totalplay solucion en linea _
 App Totalplay
 
 Solución en línea 
@@ -549,17 +550,16 @@ Solución en línea
 ¿La persona que se comunica es titular de la cuenta? 
 Falla reportada: 
 Indicar el proceso que solucionó la falla: 
-Motivo de actualización de telefóno: 
+Motivo de actualización de telefóno:  
 Únicamente aplica para TS  - No hemos encontrado el número XXXXXXX por ningún lado- 
-Marca del móvil: 
-Modelo del móvil: 
-Sistema operativo: 
-Versión App Totalplay: 
-Versión de Sistema Operativo: 
-Solución en línea: (SI/NO/INFORMATIVO) 
- *********************************** 
  
-Escalaciones 
+Solución en línea:  SI	NO  INFORMATIVO   
+  
++
+
+App Totalplay Escalaciones_
+App Totalplay escalaciones 
+
 ¿La persona que se comunica es titular de la cuenta? 
 Falla reportada: 
 Indicar el TS aplicado: 
@@ -574,7 +574,7 @@ Horario de atención:
 
 +
 
-REGISTRAR UN STB IPTV_
+REGISTRAR UN STB IPTV _
 REGISTRAR UN STB 
 
 CUANTOS DECOS TIENE EN SITIO: 3 
@@ -597,7 +597,7 @@ Fecha de cancelacion:
 
 +
 
-CAMBIAR NIP, GENERAR PERFIL EN IPTV_
+CAMBIAR NIP, GENERAR PERFIL EN IPTV _
 CAMBIAR NIP, GENERAR PERFIL EN IPTV
 
 Correo registrado en dashboard: 
@@ -620,7 +620,7 @@ Motivo:  pagó despues de su fecha  limite
 SALDO: $0
  
 +
-CAMBIO DE REGION IPTV_
+CAMBIO DE REGION IPTV _
 CAMBIO DE REGION IPTV
 falla : 
 motivo: 
@@ -675,44 +675,11 @@ Folios No Atendidos
  Área en la que se encuentra:
  Motivo: (describir la petición que se requiera si es escalar o reasignar)
 
-+
-  OS no iniciada / Incumplimiento _
- OS no iniciada
-
-Distrito: 
-Región: 
-Cluster: 
-Os: 
-Folio: 
-Cuenta: 
-Titular: 
-Dirección: 
-Comentario:  OS no encendida 
-Incumplimientos: 1 
-Tipo de visita:
-
-
-+
-  SIN DISPONIBILIDAD _
-SIN DISPONIBILIDAD 
-
-
-Cluster: 
-Distrito: 
-Os: 
-Folio: 
-Cuenta: 
-Tipo de visita: 
-agendamiento 
-Fecha y turno
-
-
-
 
 
 +
 
-Solicitud de cancelación de folio (Apoyo a N1)_
+cancelación de folio (Apoyo a N1)_
 Solicitud de cancelación de folio (Apoyo a N1)
 
 Folio: 
@@ -831,10 +798,10 @@ TELEVISION Solución en línea_
 TELEVISION Solución en línea
 
 Quien se comunica: 
-Falla reportada (Descripción detallada): 
+Falla reportada: 
 Indicar el proceso que solucionó la falla: 
 MAC´s afectadas: 
-Solución en línea (SI/NO/INFORMATIVO):
+Solución en línea: SI  NO  INFORMATIVO
 
  +
 
@@ -886,7 +853,7 @@ Horario de atención:
 
 +
 
-VOD_
+VOD _
 VOD
 
 Quién se comunica: 
@@ -962,7 +929,7 @@ Imagen del error: SE ANEXA.
 +
 
 
-Anytime_
+Anytime _
 Anytime
 
 Quién se comunica: 
@@ -1008,7 +975,7 @@ Horario de atención:
 +
 
 
-Telefonía_
+Telefonía _
 Telefonía 
 Escalación Soporte Voz
 
@@ -1046,7 +1013,7 @@ DN Destino a 10 dígitos (si es internacional colocar toda la numeración):
 
 
 +
-Llamadas Cortadas_
+Llamadas Cortadas _
 Llamadas Cortadas  
 
 DN:  
@@ -1058,49 +1025,53 @@ Estación (virtual o física):
 Folios no atendidos o en seguimiento atendidos por el área (MDC o NIVEL 2)
 
 
-+ STB se reinicia todo el tiempo _
++
+
+STB se reinicia todo el tiempo _
 STB se reinicia todo el tiempo
 
 
 Reporta que el stb se reinicia todo el tiempo y parpadea en verde se anexa video de la falla siguiendo el manual se hace ts de que se reinicia todo el tiempo se cambia de contacto de pared pero la falla continúa el cliente no puede entrar a menú el botón de encendido se ve dañado ni trabado el al presionar el botón si se escucha el clic se escala como stb no enciende sin menú
 
 
++
+sin audio en canales y apps visita_
+Sin audio 
+
+Quién llama: 
+Reporta: sin audio en todos los canales y  apps 
+TS realizado:  se cambia el cable  HDMI sin exito
+se reincia el stb sin exito
+** no tiene  otro stb se envia visita  
+** tiene  otro stb se intercambia , la falla continua en el mismo stb , se envia visita 
+Se soluciona: no 
+MAC: 
+Amarre: 1000fd LAN 
+Versión: 
+Middleware: 
+Horario de visita: pendiente 
+Potencia: -26dbm
 
 + 
 
-Sin audio en ningun canal , canales sin audio_
+canales sin audio escalacion directa_
 Sin audio en ningun canal , canales sin audio
 
 Quien se comunica:
-
 Falla reportada (Descripción detallada): Reporta que en ningún canal en vivo tiene audio
-
 TS aplicado: los videos de Youtube y Netflix sí tienen audio, no es problema del cable de video
-
 - se escala directamente.
-
 La falla es en todos los canales, ejemplo.
-
 TV Azteca, Canal 107 Televisa
-
- Canal 104
-
+Canal 104
 Canal principal de total play 1
-
 la falla la tiene desde una semana aproximadamente 
-
 MAC's afectadas: 
-
 Potencia: -20 dbm
-
 Amarres: 
-
 Versión: 
-
 Middleware: 
-
 Horario de atención: abierto
-
 Diagnostico Check:  n/a por tema de herramientas
 
 
@@ -1109,31 +1080,23 @@ Diagnostico Check:  n/a por tema de herramientas
 
 +
 
-Amarre stb incorrecto_
+Amarre stb incorrecto visita _
 
 Amarre stb incorrecto
 
-
- Reporta: tiene fallas en su servicio de televisión
-
- ts realizado: se corrobora que es por amarre incorrecto
-
+Reporta: tiene fallas en su servicio de televisión
+ts realizado: se corrobora que es por amarre incorrecto
 amarre actual:
-
 se revisan conexion de cable de red en buen estado
-
-/se desconecta y conecta cable de red del stb y ont sin éxito
-
-  se cambia de puerto de la ont de LAN a LAN sin exito se envia visita por amarre incorrecto
-
- se soluciona: no
-
- MAC: 
- Amarres: 100 fd  LAN 
- Version: na
- Middelware:na
- Horario de visita: PENDIENTE
- Potencia: -20
+se desconecta y conecta cable de red del stb y ont sin éxito
+se cambia de puerto de la ont de LAN   a LAN   sin exito se envia visita por amarre incorrecto
+se soluciona: no
+MAC: 
+Amarres: 100 fd  LAN 
+Version: na
+Middelware:na
+Horario de visita: PENDIENTE
+Potencia: -20
 
 
 
@@ -1145,31 +1108,18 @@ Falla en puerto stb sin señal vistia
  
 
 Quién llama:  
-
 Reporta: Reporta sin señal en el stb
-
 TS realizado: si prende stb está en color verde  
-
 está sintonizado correctamente.
-
 Se cambia a otra entrada diferente de la televisión. La falla continua
-
 cambia el cable HDMI y se reinicia stb. La falla continua
-
 no tiene otro stb pero puso un equipo externo si dio señal Se envía visita técnica como falla en el puerto del stb
-
 MAC:
-
 Amarre:
-
 Versión: no se puede ver
-
 Middleware: no se puede ver
-
 Horario de visita: pendiente
-
 Potencia: -20
-
 Diagnostico Check:  n/a por tema de herramientas
 +
 
@@ -1178,7 +1128,7 @@ INTERNET LENTO WIFI Escalacion
  
 
 CHECKLIST WIFI
-Quien se comunica: -----
+Quien se comunica: --
 Categoría de falla: (Describe título de falla vs Codificación)internet lento Explica brevemente y puntal como experimenta la falla cliente: Cliente indica que al momento de ingresar youtube se tarda en cargar, esto en cualquier dispositivo, comenta que desde la semana pasada esta el servicio lento, estoo en todos los dispositivos 
 Saldo Actual: --
 
@@ -1228,13 +1178,10 @@ Megas correctos:
 
 +
 Contraseña PASS_
-Avaya
-6405913
-
 *                     Intranet: 
                       
 15010689@onuriscp.com
-Fiaaa1987chacho.@
+Fiaaa1987chacho.@1
 
 *		    NOC masivos 
 
@@ -1247,16 +1194,21 @@ Fiaaa1987chacho.@
 10.214.48.56
 6405913
 
+CHAT123
+
 *                     SEDyM: 
 15010689
 totalplay1234
 
+*
+Avaya
+6405913
 
 *                     CITRIX :
 
 https://totalplay.cloud.com
 totalplayvdi\15010689
-Fia1987chach0@22
+Fia1987chach0@23
 
 *                    llave maestra:
 
@@ -1362,18 +1314,46 @@ potencia -19 dbm
 boton heatl check: N/A
 hora de atencion abierto
 
+ 
+ 
++
+PANTALLA NEGRA con  AUDIO  ( para escalar ) _
+PANTALLA NEGRA con  AUDIO
+
+Quien llama:   
+
+Reporta: Todos los canales estan en negro con audio  
+ts realizado:
+dispositivo esta en linea
+amarres correctos
+tiene perfiles y paquete en iptv / XML (vasprofile) configurado
+tiene direccionamiento 402
+tv prendida
+led stb verde / blanco
+la otra televisión no presenta la falla 
+si tiene graficos de menu, tiene info de canales
+ tiene audio
+ se reinicai  stb 
+se escala para su atencion
+MAC:  
+amarrres: lan  4 100fd 
+version UI  
+version: MW  
+potencia -19 dbm
+canales donde presenta la falla 
+*
+*
+*  
+marca:
+modelo de la tv:
+olt:
+región:
+boton heatl check:
+hora de atencion abierto
+
 +
 
-CAMBIO DE ONT_
-Cambio de ont 
 
-Reporta: internet lento 
-ts : Se hace cambio de ont sin costo por modelo de ont incompatible con la cantidad de megas que tiene contratados se pasa folio  a supervisor
- ont actual es una v5 con mas de  500 mb contratados 
-hora de visita : pendiente  
-potencia: -20dbm 
-
-+
 
 Fallas Para Bitacora plantilla para supervisor falla_
 Fallas Para Bitácora
@@ -1515,12 +1495,10 @@ Reporta: interferencias con el wifi
 ts realizado: Se requiere de la reubicación del equipo.
 Se corrobora que el módem no está en una buena ubicación para la distribución correcta de señal wifi --
 El cliente no lo puede mover 
-
 por atención se envía visita tecnica sin costo, se valida   datos de seguridad con titular 
-
 Horario de visita: PENDIENTE
 Potencia: -21
-se soluciona: si
+se soluciona: no
 
 
 +
@@ -1528,17 +1506,14 @@ se soluciona: si
 APP TOTALPLAY CAMBIO DE NUMERO ACTUALIZAR_
 CAMBIO DE NUMERO APP 
 
-¿La persona que se comunica es titular de la cuenta? 
+¿La persona que se comunica es titular de la cuenta? si
 
-Falla reportada:  no puede iniciar sesion tiene  mensaje "no hemos encontrado su numero  por ningun lado"
-Indicar el proceso que solucionó la falla: el numero no coincide en dashbord 
-se validan  datos del titular y se actualiza el numero en  dash   
-Motivo de actualización de telefóno: ya no tiene el numero anterior y es para ingresar a la app   
+Falla reportada:  quiere actualizar  numero para iniciar sesion en la app 
+Indicar el proceso que solucionó la falla: se validan  datos del titular y se actualiza el numero en dash   
+Motivo de actualización de telefóno: es para ingresar a la app   
  
-Solución en línea: (SI)
+Solución en línea: SI
 
-NOTA 
-Para soluciones en línea donde el cliente solicita actualizar el teléfono, preguntar si es para ingresar a la aplicación de total play y anexarlo a la documentación.
 
 +
 
@@ -1660,14 +1635,34 @@ PIXELEO MALA IMAGEN  SOLUCION EN LINEA_
 Pixeleo en imagen
 
 Quien llama:  
-
 Reporta:  
-ts realizado:  Parpadea la imagen de la televisión en cualquier canal.
+ts realizado:  Parpadea la imagen de la televisión en cualquier canal
 
-se cambia cable hdmi 
-se reinicia stb 
+* se cambia cable hdmi 
+* cambia de entrada en la tv
+* se cambia de puerto en la ont 
+* se reinicia stb 
+* se reinicia ont 
+
 se soluciona: si
 MAC:-- 
+
+
++
+
+pixeleo stb pendiente solucion sin cable hdmi_ 
+
+Quien llama:  
+Reporta:  Parpadea la imagen de la televisión en cualquier canal.
+ts realizado:  
+
+* se pide cambiar cable hdmi pero no tiene  queda  pendiente 
+* se prueba otra entrada de tv
+* se cambia de puerto en la ont 
+* se reinicia ont y stb 
+
+MAC:--
+
 
 +
 stb Alexa escalacaion no responde a los comandos de voz soundbox _
@@ -1731,15 +1726,58 @@ mac: --
 
 +
 
+no navega en algunas pagias _
+
+Quién se comunica
+Especificar página 
+En qué punto de acceso se conecta : ONT 
+La falla es parcial o total de la página
+Estatus potencia
+Leds
+Cliente en sitio (si/no) : si
+¿Tiene folios anteriores?: no 
+Detalle de la falla: si se conecta con datos u otra red  si puede  ingresar a la pagina  , ya lo probo con otros equipos, la falla se presentea solo con la red de totalplay
+Hay falla masiva con la página (si/no)
+DNS
+IP pública
+Tracer
+Nslookup
+HAR
+
++
+sin audio en canales y apps solucion en linea  _
+
+Quién llama:  
+
+Reporta: sin audio  en todos los canales y apps  
+TS realizado:  se cambia cale  hdmi sin exito 
+Se soluciona:  se reinicia  stb  se soluciona  
+MAC:
 
 
 +
 
+Universal codigo -1_
 
+Quien se comunica:   
 
-+
+Falla reportada (Descripción detallada): cualquier contenido de la aplicación de Universal
+"ha habido un error Por favor Inténtalo más tarde cod -1 "
+ 
+TS aplicado:   se escala como caso atípico se anexa evidencia 
 
-
+-con gestor add cargado en iptv 
+-sucede con cualquier contenido
+-las demás aplicaciones funcionan correctamente
+-no presenta ninguna falla con el internet
+-se anexa video de la falla 
+MAC´s afectadas:  
+Potencia: -20 dbm 
+Amarres:  
+Versión:   
+Middleware:  
+Horario de atención: abierto
+Diagnostico Check:   
 
 +
 
@@ -1833,4 +1871,3 @@ Para poder ayudarte de la mejor manera, ¿me podrías confirmar la siguiente inf
 -¿Alguna duda o algo más que pueda ayudar?
 -No responde bienvenida se da script de calidad
  
-+
