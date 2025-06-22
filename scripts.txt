@@ -39,9 +39,9 @@
 -	Le voy activar una configuración para dar de alta los megas correctamente			
 -	veo que el tecnico le escribio por medio del chat de la app de Totalplay
 -	Veo que se trataron de comunicar con usted pero no lograron localizarlo 
--	Veo que ya tiene folio generado, la visita ya esta confirmada, le pediremos tiempo de espera, antes de llegar le llamaran por teléfono , le escribiran por whatsapp o en la app de Totalplay nuestros técnicos
+-	Veo que ya tiene folio generado, la visita ya esta confirmada	 , le pediremos tiempo de espera, antes de llegar le llamaran por teléfono , le escribiran por whatsapp o en la app de Totalplay nuestros técnicos
 -	Veo que ya tiene folio generado la visita ya está confirmada, solamente para verificar que todo esté bien, me corrobora nuevamente su teléfono para contactar por favor 📞
--	veo que ya tiene folio de visita sin agendar puede ser mañana de 8am A 4pm o 2pm A 9pm 🕐			
+			
 -	Para esta situación voy a transferir con nuestros compañeros de atención a clientes, Gracias por contactarnos le atendió Abraham Frias de soporte técnico de Totalplay buena tarde
 -	si falla de nuevo contactenos por favor												
 			
@@ -94,7 +94,7 @@
 -	Intercambie por favor el decodificador por el de otra recamara . al final le va a decir si la falla se repite en el mismo decodificador que se llevo o en el mismo lugar de la televisión			
 -	¿ En que color esta el LED del repetidor ?			
 -	Apague y encienda el decodificador con el control remoto			
--	Dele por favor cinco botonazos al boton frontal que tiene el descodificador . empezara a parpadear . y este al pendiente a que diga un mensaje instalando version			
+-	Por favor, presione cinco veces el botón frontal del descodificador. Luego espere a que el equipo comience a parpadear y esté atento al mensaje "Instalando versión" en la pantalla.			
 -	Intercambie por otro control remoto y dígame si responde el decodificador 
 -	 ¿ si cambia el decodificador con el otro control remoto? intercambielos 			
 -	Pruebe en esta televisión con otro control remoto diferente por favor			
@@ -120,17 +120,18 @@
 -	Actualmente hay una una falla general con con esa configuracion 	. Nuestro equipo técnico ya está trabajando en la solución para que el servicio se restablezca lo antes posible.		Este tipo de inconvenientes pueden ocurrir debido a ajustes internos en la plataforma o procesos de sincronización entre sistemas.
 -	Le pediremos tiempo de espera hoy mismo se restablece el silencio			
 -	desconecte y conecte el cable de luz del modem (caja blanca con antenas ) por favor
--	desconecte y conecte el cable de luz que esta en el descodificador (caja negra) por favor
+-	desconecte y conecte el cable de luz que esta en el decodificador (caja negra) por favor
 -	desconecte y conecte el cable de luz que esta en el repetidor por favor	
 -	revise con algún otro equipo, es que esa red es mas rapida , pero no todos los equipos son compatibles con ese tipo de señal 			
--	Puede conectarse a esa red por favor			
+-	Puede conectarse a esa red por favor
+-	¿Puede conectarse a su red?			
 -	Me indica por favor el numero de ID que tiene ese decodificador (caja negra) empieza con m361 o m350			
 -	Es que la ip publica que tiene con nosotros , es restringida , no sirve para conexiones remotas , a pesar que funcionaba , Usted necesita una ip dinamica o fija misma que no disponibilidad en Totalplay			
 -	Puede validar el servicio , no detectamos ningún problema con el modem , nos da parametros correctos			
 			
 -	Estoy revisando que su modem tiene dos redes de WiFi , una red no tiene seguridad, por esa razón posiblemente luego sea lenta, la voy a eliminar para que no cause conflicto			
 -	Validando la información y su modem , no presenta ninguna falla , es normal tener esa perdida de megas en la frecuencia 2.4 ghz, le sugiero que siempre use la red 5ghz es mas rapida			
--	Le vamos a pedir por favor cambiar el cable telefonico y el equipo de teléfono , los parametros de la linea nos marcan correctos			
+-	por favor de cambiar el cable telefónico y el equipo de teléfono, ya que los parámetros de línea que verificamos en el sistema son correctos. Según el diagnóstico realizado, la falla parece estar del lado de su conexion	
 -	Es que el modem da una distancia de 6 a 8 metros linealmente , para otros pisos va hacer muy intermitente, por lo que nos comenta , se recomienda un repetidor de señal WiFi			
 -	Es que el modem da una distancia de 6 a 8 metros , será necesario que use un repetidor de señal de WiFi por favor			
 -	Para garantizar el servicio mas por WiFi , se recomienda tener un punto de acceso o sea un repetidor cerca
@@ -179,7 +180,7 @@
 -	¿ si abre Netflix en otros dispositivos como en los celulares ?			
 -	¿ si abre YouTube en otros dispositivos como en los celulares ?			
 -	su modem tiene dos redes de WiFi , la de 2.4g y 5g, no todos son compatibles con la red 5 g , si no lo es, utilice por favor la red 2.4			
--	¿ tiene el folio que le habían generado ?			
+-	me proporciona su folio de visita tecnica por favor		
 -	revisando el monitoreo, la perdida de megas en su test no significa que no tenga los megas , si lo tiene y lo puede corroborar por cable ethernet			
 -	voy a revisar si ya se corrigió la conexion , ya que nos aparecía mal la conexion del cable			
 -	voy a activarle un monitoreo a su equipo que conecto			
@@ -219,8 +220,9 @@
 -	los techos y las paredes hacen que pierda señal y el internet se hace mas lento e intermitente				
 -	¿ en que paginas o aplicaciones nota la lentitud y en que equipos?			
 -	desinstale la aplicacion e instale de nuevo por favor
--	puede ser para mañana de 8a.m. a 4p.m. o de 2p.m. a 9p.m. ¿Qué horario prefiere?		
--	 si presiona menu con nuestro control de Totalplay ¿ que se ve ? envie una foto de la pantalla, por favor.		
+-	puede ser para mañana de 8a.m. a 4p.m. o de 2p.m. a 9p.m. ¿Qué horario prefiere?
+-	veo que ya tiene folio de visita sin agendar puede ser mañana de 8am A 4pm o 2pm A 9pm 🕐		
+-	si presiona menu con nuestro control de Totalplay ¿ que se ve ? envie una foto de la pantalla, por favor.		
 -	le ofrecemos una disculpa por los inconvenientes , vamos a estar al pendiente de su visita tecnica, pasamos sus datos a la cuadrilla para que se le pueda atender a la brevedad			
 -	le ofrecemos una disculpa por los inconvenientes , vamos a estar al pendiente de esta situacion , pasare estos comentarios y el reporte al área correspondiente			
 -	tomele foto al modem (caja blanca)por favor de la parte de abajo			
@@ -256,7 +258,7 @@
 -	por flujo de trabajo de los técnicos la visita ya esta confirmada para mañana solo le pediremos tiempo de espera			
 -	intente reproducir otro canal de horario diferente por favor			
 -	será necesario cambiar el equipo, poner otro teléfono con otro cable diferente, estamos haciendo pruebas y conectados con su modem si nos permite la salida de llamadas , esto significa que es falla física del equipo que tiene			
--	díctenos la version y el middlware , esta información esta en ayuda, presione el boton de menu con nuestro control remoto y después hasta arriba tercer circulo tiene ayuda y dice información del sistema , puede tomarle una foto por favor			
+-	Por favor, indíquenos la version y el middleware del equipo. 		Esta información se encuentra en el menú de ayuda: presione el botón “Menú” en el control remoto, seleccione el tercer ícono en la parte superior que dice “Ayuda” y luego “Información del sistema”. tome una foto de esa pantalla.			
 -	vamos a cambiar la nat a abierta ,le diré como. vaya a perfil después seleccionaremos el apartado de configuraciones (tiene como icono un engrane). Ingresaremos a configuracion general y después Configuracion de Red . configuracion a avanzada . opcion de solución de puertos alternativos . seleccionaremos la opcion “Manual”. seleccionara otro puerto el que sea , después regrese para comprobar nat de nuevo y validar que este abierta			
 -	¿ cuantos megas tiene en su test de velocidad ?			
 -	voy a aplicar un reseteo a su modem un momento, dígame si se apaga por favor 			
@@ -615,7 +617,9 @@ Seleccione "Información del sistema".
 -	>Ahí mismo por favor escriba nslookup espacio y la página reportada por favor			
 -	>Ahora en su navegador cierre todas las pestañas y páginas , para evitar información no solicitada en las capturas , va a abrir Google Chrome y le va a dar click derecho sobre la página y seleccionar inspeccionar por favor			
 -	>Se abrirá una pestaña emergente del lado derecho en modo programador, va a seleccionar network, después dar click en el buscador de Google ( barra de direcciones del lado izquierdo arriba ) y va a escribir la página que no tiene acceso			
--	>Ahora de click por favor a la flecha que apunta hacia abajo es un botón para descargar el archivo .HAR descárguelo y guárdelo en su computadora , para que me pueda enviar el archivo			
+-	>Ahora de click por favor a la flecha que apunta hacia abajo es un botón para descargar el archivo .HAR descárguelo y guárdelo en su computadora , para que me pueda enviar el archivo	
+-	> por último en esa misma parte de programador busque en la lista la página que no tiene acceso
+		
 -	Este mismo control remoto que no funciona. Llévelo a otra de recamara en otra televisión y díganme si responde el decodificador.			
 -	Puede crear una Apple ID desde su dispositivo iOS o desde la página web de Apple. En tu dispositivo iOS, ve a Configuración | Iniciar sesión en tu iPhone | No tengo un ID de Apple o he olvidado y sigue las instrucciones. En la página web de Apple, ve a appleid.apple.com y haz click en "Crear tu ID de Apple". Luego sigue las instrucciones para completar el proceso por favor 			
 -	estoy monitoreando su equipo, veo que no está recibiendo toda la intensidad de la señal WiFi. ¿Podría confirmar si se encuentra en un piso diferente al del módem?		
@@ -649,8 +653,8 @@ Seleccione "Información del sistema".
 -	La falla con Alexa es de que responde diciendo que lo va a hacer pero no hace ningún cambio o ni siquiera responde			
 -	para que vea los equipos conectados a su red , en la barra de direcciones de su navegador del celular conectado a la misma red Totalplay ingrese a la IP 192.168.100.1 ingrese con la contraseña admin , el usuario root y en la parte de Home aparecen en los equipos en línea , si tiene duda envie captura 			
 -	¿Que tipo de cable de video tiene conectado que va del decodificador (caja negra) hacia atrás de su televisión?			
--	Para una buena distribucion de señal de wifi, es necesario que el modem esté en una buena posición, podemos enviar a un técnico sin costo para que haga una reubicación correcta del equipo	
--	Para una buena distribución de señal de wifi es necesario que el módem esté en una buena posición como la altura y que no tenga equipo cerca que puedan crear interferencia, podemos enviar un técnico sin costo para que haga una reubicación correcta del equipo
+-	Para una buena distribucion de señal WiFi, el módem debe estar en un lugar elevado y sin interferencias cercanas. Podemos enviarle un técnico sin costo para reubicarlo correctamente.	
+-	Para una mejor distribucion de señal WiFi, el módem debe estar en un lugar elevado y sin interferencias cercanas. Podemos enviarle un técnico sin costo para reubicarlo correctamente.
 -¿Que esta conectando por cable ethernet?			
 -	Ahora corrobore que en la lista de redes del celular aparezca el nombre del wifi como está en la etiqueta del repetidor ( empieza con el nombre huawei )			
 -	¿En el modem principal que tiene antenas, en que puerto esta conectado ese cable de internet?			
@@ -865,8 +869,33 @@ Seleccione "Información del sistema".
 -	En cuanto pueda hacer las pruebas, no dude en contactarnos. Soporte técnico está disponible las 24 horas para ayudarle
 -	El servicio de mensajería utilizado por Totalplay se llama AMPM, y aunque generalmente realiza entregas en tiempo y forma, en ocasiones puede haber pequeños retrasos ajenos a nuestro control. Ya he compartido su caso para que reciba el debido seguimiento. Su control remoto debería llegar en un plazo no mayor a 24 horas.
 -	solo para confirmar que el cable de fibra optica dentro de su domicilio esté en buen estado. En la calle suele haber muchos cables y conexiones de otros vecinos, lo que puede generar confusión. Si ya ha confirmado con certeza cuál es su cable, entonces podemos continuar con el proceso sin problema
--	La cuenta nos aparece como redimida, es decir, ya se encuentra activa. Para acceder correctamente al servicio, es necesario verificar los datos de inicio de sesión directamente en la plataforma correspondiente		. Esto permitirá validar que se esté utilizando la cuenta asociada de forma adecuada
-
+-	La cuenta nos aparece como redimida, es decir, ya se encuentra activa. Para acceder correctamente al servicio, es necesario verificar los datos de inicio de sesión directamente en la plataforma correspondiente. 	Esto permitirá validar que se esté utilizando la cuenta asociada de forma adecuada
+-	Lamentablemente, el servicio volvió a fallar debido a un nuevo corte en el cable de fibra óptica. Desconocemos la causa de esta repetida falla. Por favor, intente generar nuevamente la solicitud de visita a través de la aplicación
+-	¿ se refiere que ese equipo, al estar viendo cualquier canal se apaga y se prende sin hacer ningún movimiento?
+-	haga la prueba en otro celular diferente y tome foto a la pantalla de ese equipo para corroborar también la prueba de velocidad
+-	Por favor, espere a que la prueba de velocidad se complete sin pausarla. Una vez finalizada, seleccione "Mostrar más información"
+-	apoyeme con la información que le solicito para que yo pueda continuar con el proceso correcto
+-	ayudeme con la información que le solicito para que yo pueda continuar con el proceso correcto
+-	vamos a esperar a que encienda
+-	Veo que ya ha generado un folio de visita. No es necesario volver a reportarlo, ya que esto podría afectar el proceso de agendamiento
+-	sería ideal que la persona que está en el sitio nos contacte directamente, estamos disponibles para ayudar a cualquier persona que necesite asistencia
+-	voy a escalar ese reporte a otra área Y a partir de mañana le van a llamar por teléfono para corroborar el servicio ¿ qué hora quiere que le llamen?
+-	¿quiere cambio de plan?
+-	por cuestiones de seguridad es necesario que se comunique el titular para realizar este tipo de cambios mientras dejo el teléfono para la visita técnica
+-	Aunque solo encienda el de Power, es un indicio de una falla relacionada con el voltaje o el sistema de encendido del módem. Para poder determinar es necesario realizar las pruebas
+-	
+-	
+-	
+-	
+-	
+-	
+-	
+-	
+-	
+-	
+-	
+-	
+-	
 -	
 -	 <  Reporta fallas con el servicio de INTERNET pero no responde el sondeo			
 -	 <  Reporta fallas con el servicio de TELEVISION pero no responde el sondeo			
@@ -897,47 +926,28 @@ Seleccione "Información del sistema".
 -	/ Se corrobora que el cable de fibra optica está dañada.
 -	/ Reporta: no tiene ningun servicio / tiene PON parpadeando / se aplica reaprovisionamiento			
 -	/ Reporta: sin llamadas de entrada , tiene activo desvio de llamadas / se indica como desactivar el servicio digital solucion: si, ya entran llamadas			
--	/ Reporta: quiere activar desvio de llamadas / ts: se indica como activar y desactivar el servicio digital solucion: si 			
+-	/ Reporta: quiere activar desvio de llamadas / ts: se indica como activar y desactivar el servicio digital solucion: si 		
 -	/ Reporta : no navega con al red de la ont , se valida que wlan apagado / se enciende wifi			
 -	 / Reporta: quiere cancelar el servicio / no quiere soporte , se da el telefono y los requisitos para poder cancelar			
 -	 / Reporta: no le aparece la red wifi / ts realizado: se activa wifi desde la ont con el cliente pero no es posible , se activa desde maqueta / se soluciona: si			
--	 / Reporta: no tiene los megas que contrato / ts realizado: se corrobora que si factura los megas pero en ux no los tiene aprovisionados , se aplica ajuste de megas desde ux / se soluciona: si			
--	 / Reporta: no enciende ont / ts realizado: se revisan conexiones y boton de encendido / se cambia de contacto de pared sin extensiones o regulador, no enciende se envia visita tecnica / Horario de visita: PENDIENTE / Potencia: n/a 			
--	 / Reporta: no enciende stb , led apagado / ts realizado: se revisan conexiones de luz / se cambia de contacto de pared , sin extensiones, no enciende se envia visita tecnica / Horario de visita: PENDIENTE / Potencia: _20 MAC:__ / Amarres:n/a / Version:na / Middelware: na / Se soluciona : no			
--	 / Reporta: no enciende ont / ts realizado: se revisan conexiones , sin extensión de luz y boton de encendido / se cambia de contacto de pared / Solucion : si 			
--	 / Reporta: no enciende stb , led apagado / ts realizado: se revisan conexiones de luz sin xtension de luz / se cambia de contacto de pared / se soluciona : si / MAC:__			
+-	 / Reporta: no tiene los megas que contrato / ts realizado: se corrobora que si factura los megas pero en ux no los tiene aprovisionados , se aplica ajuste de megas desde ux / se soluciona: si								
 -	 / Reporta: Intermitencias en wifi solo tiene 2.4g / ts realizado: tiene ont de una banda 2.4g / se hace cambio de ont para una v5 con señal 5g / es el tt se validan datos de seguridad , acepta tener una LINEA VIRTUAL , por atencion se envia visita tecnica sin costo / se soluciona: no / Horario de visita: PENDIENTE / Potencia: _20			
 -	 / Reporta: Intermitencias en wifi solo tiene 2.4g / ts realizado: tiene ont de una banda 2.4g / se hace cambio de ont para una v5 con señal 5g / por atencion se envia visita tecnica sin costo / se validan datos de seguridad / se soluciona: no / Horario de visita: PENDIENTE / Potencia: _20			
 -	 / Reporta: quiere cambio de contraseña de wifi / ts realizado: se cambia a peticion del cliente , no puede hacerlo desde la APP _ / se soluciona: si			
 -	 / Reporta: quiere visita tecnica por intermitencias en los tres servicios / ts realizado: no quiere hacer pruebas. se trata de dar soporte pero no quiere , amenaza con cancelar, cliente molesto , por atención se envía visita tecnica sin costo / se soluciona: no / Horario de visita: PENDIENTE / Potencia: _20			
 -	 / Reporta: Sin servicios por adeudo de tv, la cuenta esta al corriente se desenruta desde iptv / Solucion si/ MAC:			
--	 / Reporta: sin ningun servicio / ts realizado: Tiene LOS en rojo / se envia visita tecnica por CFO / no puede generar visita desde la app, se apoya al cliente / Horario de visita: PENDIENTE /Potencia:			
--	 / Reporta: sin ningun servicio/ ts realizado: tiene PON parpadeando/no es posible reaprovisionar la ont / tiene alarmas de warning por corte de fibra / se envia visita tecnica / Horario de visita: PENDIENTE / Potencia:n/a|			
--	 / Reporta: sin ningun servicio / ts realizado: es falla general se le pide tiempo de espera / se valida en incidencias que esta en masivo / se soluciona: no			
--	 / Reporta: sin ningun servicio /ts realizado: se valida que ya tiene folio de visita tecnica por fallas para hoy __ /se le pide tiempo de espera, la visita esta dentro de tiempo /			
--	 / Reporta: quiere saber informacion de la visita técnica / ts realizado: tiene folio de visita tecnica sin agendar, se agenda a la fecha mas proxima __ / se corrobora que los datos de contacto estan correctos , se pide tiempo de espera folio no agendada			
--	 / Reporta: quiere cambiar la fecha de la visita tecnica /ts realizado: a peticion del cliente se reagenda la visita para __ / se corrobora que los datos de contacto estan correctos /se soluciona:si			
--	 / Reporta: no fueron los tecnicos en el horario acordado/ ts realizado: se valida que no lo localizaron, se corrobora el dn de contacto correcto/ 	se re agenda a la fecha mas proxima _ ilocalizable			
--	 / Reporta: no fueron los tecnicos en el horario acordado/ ts realizado: se valida que no hay info en historial de chat o en dash/ se valida dn de cotacto correcto / se re agenda a la fecha mas proxima _ incumplimiento de dia			
--	 / Reporta: Estatus de visita técnica / ts realizado: el folio de visita tecnica por fallas para hoy	, se le pide tiempo de espera, la visita esta dentro de tiempo. status de visita
--	 / Reporta: Estatus de visita técnica / ts realizado: el folio de visita tecnica por fallas para mañana 	, se le pide tiempo de espera, la visita esta dentro de tiempo. status de visita			
-
--	 / Reporta: quiere cancelar visita / Se pasa información a supervisor para cancelar visita técnica reporta que el servicio ya está funcionando correctamente. Potencia correcta	23
--	 / Reporta: no cambia el stb con el control remoto /ts realizado: /se presiona el boton de stb del control remoto para sincronizar / se soluciona: si MAC: __			
-		
--	 / Reporta: quería saber informacion de su visita técnica pero durante la interacción el cliente recibió llamada del técnico			
--	 / Reporta: Ya no quiere la visita técnica el servicio está funcionando se valida potencia dentro de rango 22dbm / se pasa datos a supervisor para dar de baja el folio de visita		
+-	 / Reporta: sin ningun servicio / ts realizado: Tiene LOS en rojo / se envia visita tecnica por CFO / no puede generar visita desde la app, se apoya al cliente / Horario de visita: PENDIENTE /Potencia:						
+-	 / Reporta: sin ningun servicio / ts realizado: es falla general se le pide tiempo de espera / se valida en incidencias que esta en masivo / se soluciona: no 
+-	 / Reporta: no cambia el stb con el control remoto /ts realizado: / se presiona el boton de stb del control remoto para sincronizar / se soluciona: si MAC: 	
+-	 / Reporta: quería saber informacion de su visita técnica pero durante la interacción el cliente recibió llamada del técnico		
 -	 / Reporta: el cable de fibra óptica está muy colgado corre riesgo a quedarse sin servicio / ts : manda la evidencia , por atención se envía visita técnica para evitar un corte de fibra óptica / Horario: pendiente / Potencia: _20			
 -	 / Reporta: No puede ingresar a configuraciones del módem se aplica reseteo a las credenciales de la ont. Se pide el sn como metodo se seguridad, se valida que ya puede ingresar con root y admin			
--	 / Reporta: quiere las credenciales de la ont . Se pide el sn como metodo se seguridad, se indica que es con root y admin , se valida acceso correcto 			
--	 / Reporta: Quiere cancelar visita técnica, el servicio está funcionando correctamente . Se pasa información a supervisor en turno			
+-	 / Reporta: quiere las credenciales de la ont . Se pide el sn como metodo se seguridad, se indica que es con root y admin , se valida acceso correcto 					
 -	 / Reporta: no puede iniciar sesion en la app porque ya no tiene el numero celular / Se piden datos de seguridad / se actualiza el teléfono , se corrobora que ya puede iniciar el proceso de inicio de sesion en la app 			
--	 / Reporta: sin servicios / se valida la configuración del módem desde maqueta que no carga correctamente , se envía visita técnica como intermitencias . el foco LOS esta activo pero si da potencia _20 dbm es falla fisica se valida con supevisor en turno 			
--	 / Reporte: tiene fallas en su servicio __ / es una de persona de la tercera edad no hay nadie quien le ayude en el domicilio por atención se envía visita técnica. Potencia correcta _ 20 horario de atención : pendiente			
--	 / Reporta: tiene fallas en su servicio __ / al hacer sondeo no presenta falla , servicio funcionando 
--	 / Reporta: tiene fallas en su servicio de internet _ durante el sondeo no presenta la falla, el cliente reinicio la ONT Se le sugiere que no reinicie el equipo y se comunique en el momento de la falla.
--	 / Reporta: tiene fallas en su servicio de tv _ durante el sondeo no presenta la falla, el cliente reinicio la stb Se le sugiere que no reinicie el equipo y se comunique en el momento de la falla
-			
+-	 / Reporta: sin servicios / se valida la configuración del módem desde maqueta que no carga correctamente , se envía visita técnica como intermitencias . el foco LOS esta activo pero si da potencia _20 dbm es falla fisica se valida con supevisor en turno 		
+-	 / Reporta: tiene fallas en su servicio		 / al hacer sondeo no presenta falla , servicio funcionando 
+-	 / Reporta: tiene fallas en su servicio de internet		 durante el sondeo no presenta la falla, el cliente reinicio la ONT Se le sugiere que no reinicie el equipo y se comunique en el momento de la falla.
+-	 / Reporta: tiene fallas en su servicio de tv		 durante el sondeo no presenta la falla, el cliente reinicio la stb Se le sugiere que no reinicie el equipo y se comunique en el momento de la falla	
 -	 / Reporta que tiene CFO, confimra LOS en rojo, se le indica que es necesario generar la visita técnica desde la aplicación, se le indica los pasos a seguir.			
 -	 / Reporta: no tiene servicios , pon parpadea se revisa que la ont está cancelada esto fue por cambio de plan se aplica reaprovisionamiento / soluciona: si 
 -	 / Reporta: no tiene servicios , pon parpadea se revisa que la ont está cancelada se descarta cambio de plan se aplica reaprovisionamiento / soluciona: si 				
@@ -962,7 +972,30 @@ Seleccione "Información del sistema".
 -	/ Repota que no tiene línea tiene un teléfono alambrico y el display dice error 	// los pots están correctos se le pide conectar otro equipo y otro cable queda pendietne
 -	/ Reporta LOS en rojo Se le pide reiniciar el módem y revisar que esté bien conectado el cable de fibra óptica se restablece Potencia de -20
 -	/ Reporta: no me puede conectarse a la red de club wifi se pide hacerlo desde el portal para desactivar y activar el servicio y cambiar la contraseña
--	/Reporta: Quiere dar seguimiento a la visita tecnica 		/ Se le pide tiempo de espera el folio está en proceso aún no hay disponibilidad se agrega la información de noticias se solicita visita 
+-	/ se valida que la cuenta ya está redimida Se le pide que lo revise directamente con la plataforma correspondiente
+-	
+-	📅Confirmación de visita	status	 	Quien se comunica:		 Fecha y horario confirmado: 
+-	📅Reagendar visita causa Cliente		Quien se comunica:		 Fecha y horario solicitado:		 Cliente solicita reagendar visita, se corrobora fecha y horario de reagendamiento: 
+
+-	📅Cancelacion de visita		 Quien se comunica:		 Motivo de la cancelación: 
+-	📅Incumplimiento de Día Turno		 Quien se comunica:		 Fecha y turno del primer agendamiento:		 Nueva Fecha y turno de agendamiento: 
+
+-	📅Cliente ilocalizable		 Solicitud:		 Motivo cliente ilocalizable: No respondio al tecnico		 Fecha y horario de re agendamiento: 
+
+-	📅 Visita no agendada		 Quien se comunica:		 Fecha y turno solicitados por el cliente:		 Estatus:		Cuenta con disponibilidad, se agenda		 No cuenta con disponibilidad, se deja ticket en proceso. sin agendar
+-	📅Splitter saturado / Sin potencia / Atenuado		Ticket dentro de las 72 horas desde que se escaló a Planta Externa		 
+Quien se comunica		 
+
+		 Ticket dentro de tiempo. Se solicita tiempo de espera. 
+
+		 Ticket excede las 72 horas desde que se escaló a Planta Externa 
+
+		 Quien se comunica
+
+		 Ticket fuera de tiempo. Se escala a supervisor y se solicitan 24 horas. 
+-	
+-	
+ 
 
 -	 ** Se explica el porqué de la perdida de megas por wifi, Se indica que es necesario hacer la prueba por cable ethernet			
 -	 ** Se detecta que es saturación, tiene indicadores en rojo está creando loop . Al desconectar equipos ajenos al servicio al servicio se restablece, se pide revisar sus conexiones , potencia correcta _20dbm , navegacion correcta			
