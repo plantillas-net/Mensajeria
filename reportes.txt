@@ -265,7 +265,54 @@ Causa raíz de la falla: Se está por determinar en la escalación
 
 
 
++ Internet intermitente escalacion_
+Internet intermitente escalacion
+
+Quien se comunica: ***
+Categoría de falla: INTERNET/ONT, INTERMITENCIAS
+Explica brevemente y puntal como experimenta la falla cliente: Cliente reporta intermitencias en el servicio, ocurre en ambas redes, puede quedarse sin servicio hasta 10 minutos
+Saldo Actual: ***
+ 
+ ANALISIS LOGICO:
+
+Potencia: -20.97dbm
+Service Port:   ***
+Megas aprovisionados:	***
+Versión de Firmware: ***
+VAS Profile: ont fiberhome, sin VAS PROFILE ***
+¿El cliente cuenta con IP Fija, Dinámica ? no cuenta con IP fija o dinamica
+Ip de Datos (Direccionamiento): ***
+ 
+ANALISIS FISICO DE ONT:
+
+Estatus de led de Wlan: verde, parpadeando
+Cliente está conectado a ONT / STB / Extender: ONT
+A que distancia de la ONT / STB / Extender se encuentra realizando la prueba: 1 metro, mismo piso, mismo cuarto
+La falla la Presenta en red 2.4 o 5.0o ambas: ambas
+La red se muestra intermitente en todos los equipos o solo alguno(s): todos los equipos
+En el momento del análisis la red está en canal Automático: l momento del analisis, escanear wifi se encuentra en canal automatico, Canal Automatico Canal Actual= 1, no se hacen cambios
+En el momento del análisis la red está en frecuencia Automático: Al momento del analisis, frecuencia se encuentra en blanco, se cambia a auto (20/40)
+ 
+VALIDAR PUNTO DE ACCESO:
+
+Validar que el cliente no esté realizando la prueba con estos aplicativos activado como VPN/ NUBE / STREAMING / PROXY o que tenga equipos intermedios ajenos a Totalplay como Switch o router: cliente no cuenta con aplicativos o equipos intermedios ajenos a totalplay
+Dispositivo con falla: smart tv, celulares, computadora
+Páginas ejemplo de la falla o aplicaciones: youtube, netflix, netflix
+Solicitar ip pública de cliente: ***
+
+PRUEBAS DE CONFIRMACIÓN CONEXIÓN A INTERNET
+ 
+
+Aplica PING algunas de las páginas que el cliente presenta la falla: ****
+
+Aplica TRACERT algunas de las páginas que el cliente presenta la falla:  ****
+
+Causa raíz de la falla: Se está por determinar en la escalación
+
+
 +
+
+
 Corte de fibra invidual CFO _
  
 Corte de fibra
@@ -1295,12 +1342,14 @@ PANTALLA NEGRA SIN AUDIO MULTICAST
 Quien llama: 
 Reporta: Todos los canales estan en negro
 ts realizado:
+potencia correcta
 dispositivo esta en linea
 amarres correctos
 tiene perfiles y paquete en iptv / XML (vasprofile) configurado
 tiene direccionamiento 402
 tv prendida
 led stb verde / blanco
+presioa menu con el cotrol remoto si lo puede ver 
 si tiene graficos de menu, tiene info de canales
 no tiene audio
 se reinicia ont
@@ -1378,8 +1427,8 @@ Indica el canal que reporta
 
 +
 
-STB se reinicia todo_
-STB se reinicia todo el tiempo 
+STB se reinicia cuando esta viendo un canal _
+STB se reinicia 
 
 Quien se comunica:
 reporta: STB se reinicia todo el tiempo, se apaga en automatico  cuando  esta viendo  un canal 
