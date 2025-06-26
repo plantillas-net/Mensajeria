@@ -1,3 +1,5 @@
+ 
+
 Codificacion general_
 Codificacion general
 
@@ -1711,6 +1713,20 @@ ts realizado:
 * se reinicia ont y stb 
 
 MAC:--
+
++ sin señal  pendiente solucion _ 
+
+sin señal  pendiente solucion
+
+Quien llama: 
+
+Reporta:  despues de los logos de Totalplay se queda sin señal  en la pantalla 
+
+ts realizado:   se hace ts de sin señal 
+* se pide cambiar cable hdmi pero no tiene  queda  pendiente 
+ 
+MAC: 
+
 
 
 +
