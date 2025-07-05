@@ -1,5 +1,3 @@
- 
-
 Codificacion general_
 Codificacion general
 
@@ -1883,7 +1881,7 @@ https://onuris.sharepoint.com/sites/PortalResidencial/Base%20de%20Conocimientos/
 saludos 1 _
 
 
-👋 ¡Hola! Buenas noches, soy Abraham Frias del soporte técnico de Totalplay.
+👋 ¡Hola! Buenas noches, soy Abraham Frias de soporte técnico de Totalplay.
 
 Para poder ayudarte de la mejor manera, ¿me podrías confirmar la siguiente información?
 
@@ -1911,7 +1909,7 @@ Para poder ayudarte de la mejor manera, ¿me podrías confirmar la siguiente inf
 +
 saludos 2 _
 
-👋 ¡Hola! Buenas tardes, soy Abraham Frias del soporte técnico de Totalplay.
+👋 ¡Hola! Buenas tardes, soy Abraham Frias de soporte técnico de Totalplay.
 
 Para poder ayudarte de la mejor manera, ¿me podrías confirmar la siguiente información?
 
